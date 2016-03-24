@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Daniel Hernandez",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Sanchez",
+  "font_family_name": "Sanchez",
+  "full_font_name": "Sanchez Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Sanchez-Italic",
+  "trademark": "Sanchez is a trademark of LatinoType.",
+  "manufacturer": "LatinoType",
+  "designer": "Daniel Hernández",
+  "designer_url": "www.danielhernandez.cl",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Sanchez is a slab serif typeface family from Chilean type foundry LatinoType.",
+  "last_modified": 1456214400000,
+  "size": 75212,
+  "weight_class": 400
+}

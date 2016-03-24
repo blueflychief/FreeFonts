@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Indian Type Foundry",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Tillana",
+  "font_family_name": "Tillana",
+  "full_font_name": "Tillana",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Tillana-Regular",
+  "trademark": "Tillana is a trademark of Indian Type Foundry.",
+  "manufacturer": "Indian Type Foundry",
+  "designer": "Lipi Raval (Devanagari, Latin), Jonny Pinhorn (Latin)",
+  "designer_url": "http://www.indiantypefoundry.com",
+  "vendor_url": "http://www.indiantypefoundry.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.002;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+  "description": "Tillana is a refreshingly informal family of typefaces for Devanagari and Latin. The fonts were first published by the Indian Type Foundry as an open source project in 2014. Coming in at 1,021 glyphs per weight, Tillana has all of the characters necessary to set a variety of European languages, as well as Indian languages like Hindi, Marathi, Nepali, and more. The Tillana family includes five styles, which range in weight from Regular through Extra Bold. Tillana’s Latin do not connect; this part of the family is a non-joining script type. The Devanagari part is one of the few “true cursive” designs currently available for the script. Characters from both writing systems appear as if they were fluidly handwritten, particularly the Devanagari. Tillana’s letterforms are slanted at a 10 degree angle. The strokes are show visible contrast, and the dynamic counter forms are one of the design’s most prominent features. The forms involve many loops and hooks and most of the knots are loops rather than closed, black forms. All vertical strokes in both scripts have swelling at their tops and bottoms, and the Devanagari characters’ central vertical strokes almost always break through the headline. Handwriting artefacts are present in the Latin letters, too, such as hook on the descender of the lowercase q. Tillana’s Devanagari base character height falls vertically between the Latin upper and lowercase letter heights. The Latin characters have a small x-height and long ascenders and descenders. Lipi Raval designed the Devanagari components of Tillana, and worked together with Jonny Pinhorn on the Latin. This project is led by Indian Type Foundry, a type foundry based in Ahmedabad, Gujurat, India, who design contemporary Indian typeface families. To contribute, see github.com/itfoundry/tillana",
+  "last_modified": 1456214400000,
+  "size": 328592,
+  "weight_class": 400
+}

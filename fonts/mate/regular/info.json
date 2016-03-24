@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Mate",
+  "font_family_name": "Mate",
+  "full_font_name": "Mate-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Mate-Regular",
+  "trademark": "Mate is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Simple in its structure; sharp and generous counter-shapes which create a medium texture that calls for good page color, in addition to offering a more relaxed reading experience for each line of text: Mate. The italics that accompany the regular style show their quality in the shading of strokes, in the counters and the unusual shapes for this style as well as the calligraphic reminiscences that give this style a different and pleasant visual rhythm. The Small Caps (SC) style, featuring traditional proportions, completes this initial release with its medium height numbers in all styles. The primary use for the family is in text, yet due to the constructive details of letterforms, this family can be used in larger sizes for display typography.",
+  "last_modified": 1456214400000,
+  "size": 28216,
+  "weight_class": 400
+}

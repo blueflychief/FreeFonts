@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Huerta Tipográfica",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Acme",
+  "font_family_name": "Acme",
+  "full_font_name": "Acme",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Acme-Regular",
+  "trademark": "Acme is a trademark of Juan Pablo del Peral",
+  "manufacturer": "Juan Pablo del Peral",
+  "designer": "Juan Pablo del Peral",
+  "designer_url": "huertatipografica.com.ar",
+  "vendor_url": "huertatipografica.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Acme is a condensed display typeface inspired by the visual language of classic cartoons and comics. It is designed to be used in headlines, and has a particular and groovy rhythm. The resulting texts are vivid but consistent, and its expressive characteristics work as well on screen as in print. The glyphs were each carefully designed, with top curve quality. It is well balanced, and carefully spaced by eye. Designed by Juan Pablo del Peral for Huerta Tipográfica.",
+  "last_modified": 1456214400000,
+  "size": 23460,
+  "weight_class": 400
+}

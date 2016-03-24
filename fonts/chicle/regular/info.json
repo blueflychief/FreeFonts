@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Chicle",
+  "font_family_name": "Chicle",
+  "full_font_name": "Chicle Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Chicle-Regular",
+  "trademark": "Chicle is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "In a much needed break from complex scripts and polished packaging fonts, Koziupa and Paul decided to show their playful side. Chicle has bold, stretchable, kid-proof, pet-resistant letters. This font is made to take the abuse of software used to put together the elaborate, attention-scrambling artwork of candy, cereal, and toy packaging, or whatever boxed obscenity contains cat and dog treats. Chicle is Spanish for bubble gum. Its a definite sugar fix — no substitutes.",
+  "last_modified": 1456214400000,
+  "size": 41012,
+  "weight_class": 400
+}

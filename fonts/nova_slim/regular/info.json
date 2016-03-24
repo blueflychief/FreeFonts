@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Wojciech Kalinowski",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Nova Slim",
+  "font_family_name": "Nova Slim",
+  "full_font_name": "Nova Slim",
+  "font_subfamily_name": "Book",
+  "postscript_name": "NovaSlim",
+  "license_desciption": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name \u0027NovaSlim\u0027 and \u0027Nova Slim\u0027.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000",
+  "description": "I created the NovaCut font about 14-15 years ago for making inscriptions on stone. Initially the font contained only capitals and digits and existed only on paper and stone inscriptions. In 2010 I decided transfer this font to a computer, and made the missing lowercase and some basical signs; it was initially named Gothica. By the way I made other versions of some letters. It was a lot of this at the end of my work. I decided create new fonts based on these letters. And finally I created six fonts family and named these fonts Nova (NovaCut, NovaFlat, NovaOval, NovaRound, NovaSlim, NovaSquare - by the shape of individual fonts). At last I created monospace font - NovaMono - the seventh part of this family.",
+  "last_modified": 1456214400000,
+  "size": 93956,
+  "weight_class": 400
+}

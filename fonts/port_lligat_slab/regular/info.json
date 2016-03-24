@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Tipo",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Port Lligat Slab",
+  "font_family_name": "Port Lligat Slab",
+  "full_font_name": "Port Lligat Slab",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PortLligatSlab-Regular",
+  "trademark": "Port Lligat Slab is a trademark of Tipo.",
+  "manufacturer": "Tipo",
+  "designer": "Dario Muhafara, Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Port Lligat Slab is a display typeface. It has a soft variation in strokes, condensed structure, vertical stress, and a well balance groovy rhythm. It is particularly useful for both short text and headlines, but it is also comfortable for reading on screen. It is designed to become a super family with styles in many different typographical categories matching the exactly weight and width across the whole family. As a result they can be used together in many different ways. The first releases are the regular Roman styles of the Sans and Slab families. The Slab matches exactly with the Sans but it has heavy slab serifs and rounded terminals. In small sizes it looks like a groovy serif typeface.",
+  "last_modified": 1456214400000,
+  "size": 38160,
+  "weight_class": 400
+}

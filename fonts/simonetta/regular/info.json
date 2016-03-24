@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Brownfox",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Simonetta",
+  "font_family_name": "Simonetta",
+  "full_font_name": "Simonetta",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Simonetta-Regular",
+  "trademark": "Simonetta is a trademark of Brownfox",
+  "manufacturer": "Brownfox",
+  "designer": "Gayaneh Bagdasaryan",
+  "designer_url": "http://www.gayaneh.org",
+  "vendor_url": "http://www.brownfox.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "The Simonetta font is named in honour of Simonetta Vespucci. She was considered to be the most beautiful woman in Renaissance Florence and was nicknamed \u0027La Bella Simonetta.\u0027 She was a model for Sandro Botticelli\u0027s painting \u0027The Birth of Venus\u0027 and many of his other female characters. The Simonetta font is inspired by Italian Humanistic typefaces, but it is contemporary and has many original features. It has one-sided serifs and soft drops, is slightly slanted (some two degrees) and the Italics have the same slant. The Romans and Italics differ from each other only in their shapes, with the italics being much more calligraphic and angular. Designed by Gayaneh Bagdasaryan for Brownfox. To contribute to the project contact Gayaneh Bagdasaryan.",
+  "last_modified": 1456214400000,
+  "size": 132084,
+  "weight_class": 400
+}

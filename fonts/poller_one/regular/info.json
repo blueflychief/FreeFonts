@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Yvonne Schüttler",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Poller One",
+  "font_family_name": "Poller One",
+  "full_font_name": "Poller One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PollerOne-Regular",
+  "trademark": "Poller is a trademark of Sorkin Type Co.",
+  "manufacturer": "Yvonne Schttler",
+  "designer": "Yvonne Schttler",
+  "designer_url": "www.ysch.de",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Poller is a high contrast semi-extended style Sans Serif. Poller is both readable and full of personality. Because of the higher contrast it is best used from medium sizes to larger display settings. Poller was inspired by hand lettering on early 20th century German posters.",
+  "last_modified": 1456214400000,
+  "size": 31588,
+  "weight_class": 400
+}

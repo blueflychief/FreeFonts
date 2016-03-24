@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Eben Sorkin",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Asar",
+  "font_family_name": "Asar",
+  "full_font_name": "Asar",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Asar-Regular",
+  "trademark": "Asar is a trademark of Sorkin Type Co",
+  "manufacturer": "Eben Sorkin, Pria Ravichandran",
+  "designer": "Eben Sorkin",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002; ttfautohint (v1.3) -l 8 -r 50 -G 0 -x 0 -H 45 -D deva -f latn -m \"\" -w gG -t -X \"\"",
+  "description": "Asar is an original Devanagari and Latin typeface that is based on an expanding brush stroke following a heart line. The design is meant to work well with long texts while maintaining a certain charm at large sizes. Asar is partially derived from Pria Ravichadran\u0027s Palanquin, starting by interpreting that design\u0027s overall proportions and heart lines and glyph set and OpenType features. The design arrives at its own identity by adjusting for the density of certain brush strokes, that dictate wider spacing and new forms. The brush used is the Expand Path feature of Fontlab Studio 5, using a width of 93, an angle of -55, and a roundness of 35. In general the letters are designed so as to not require further adjustment, but where this is not satisfying then manual adjustments are made. This project is led by Sorkin Type, an international type foundry based in Boston. To contribute, see github.com/EbenSorkin/Asar",
+  "last_modified": 1434524400000,
+  "size": 668348,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Ralph du Carrois",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Carrois Gothic SC",
+  "font_family_name": "Carrois Gothic SC",
+  "full_font_name": "Carrois Gothic SC",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CarroisGothicSC-Regular",
+  "trademark": "Carrois is a trademark of Ralph du Carrois.",
+  "manufacturer": "Ralph du Carrois",
+  "designer": "Ralph du Carrois",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Carrois Gothic is a well balanced and modern gothic type family. Clean and beautiful. What more do you need? This is the Small Caps sister family to the regular family, useful for all noble and significant applications. Learn more at carrois.com.",
+  "last_modified": 1456214400000,
+  "size": 40308,
+  "weight_class": 400
+}

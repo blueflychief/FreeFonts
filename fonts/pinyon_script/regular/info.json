@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Nicole Fally",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Pinyon Script",
+  "font_family_name": "Pinyon Script",
+  "full_font_name": "Pinyon Script",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PinyonScript",
+  "trademark": "Pinyon Scrpt is a trademark of Sorkin Type Co.",
+  "manufacturer": "Nicole Fally",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "Copyright (c) 2010 by Sorkin Type Co, with Reserved Font Name Pinyon. ÊLicenced under the SIL Open Font License, Version 1.1, available with a FAQ at\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id\u003dnrsi\u0026id\u003dOFL",
+  "version_string": "Version 1.005",
+  "description": "Pinyon Script is a romantic round hand script style font. It also sports swashes which are confident and showy somehow giving the type a feeling suggestive of the American west. Perhaps this is why, despite refinement and aristocratic style; Pinyon Script manages to feel so friendly. Nicole Script uses a high stroke contrast and is very slanted making it most suitable for use at larger sizes.",
+  "last_modified": 1456214400000,
+  "size": 62124,
+  "weight_class": 400
+}

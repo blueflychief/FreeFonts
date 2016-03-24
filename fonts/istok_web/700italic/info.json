@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin",
+    "cyrillic-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Andrey V. Panov",
+  "varient": "700italic",
+  "kind": "webfonts#webfont",
+  "family": "Istok Web",
+  "font_family_name": "Istok Web",
+  "full_font_name": "Istok Web Bold Italic",
+  "font_subfamily_name": "BoldItalic",
+  "postscript_name": "IstokWeb-BoldItalic",
+  "manufacturer": "Andrey V. Panov",
+  "designer": "Andrey V. Panov",
+  "designer_url": "http://code.google.com/u/andrej.panov/",
+  "vendor_url": "http://code.google.com/p/istok",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0.2g",
+  "description": "Istok Web is an original typeface, in development since 2008. At first some basic letters were based on specially modified METAFONT sources from the CM Bright font family from the TeX community. (METAFONT is very flexible technology.) But in fact Istok fonts are now very far from this origin. Contours of the font are designed in the freely distributable font editor, FontForge. Most glyphs are manually hinted with the aim to be rendered on LCD displays. I used xgridfit as a tool for programming truetype instructions. Less frequently utilized symbols have automatic instructions produced by FontForge autohinting, until manual hinting can be done. Manual and automatic instructions are intended to look homogeneous. The original sources and truetype fonts are available at code.google.com/p/istok and this \u0027Web\u0027 version has modified vertical metrics. Updated: June 2014 to version 1.0.2g",
+  "last_modified": 1456214400000,
+  "size": 218164,
+  "weight_class": 700
+}

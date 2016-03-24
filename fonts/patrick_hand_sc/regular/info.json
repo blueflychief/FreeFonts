@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "vietnamese",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Patrick Wagesreiter",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Patrick Hand SC",
+  "font_family_name": "Patrick Hand SC",
+  "full_font_name": "Patrick Hand SC",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PatrickHandSC-Regular",
+  "manufacturer": "Patrick Wagesreiter",
+  "designer": "Patrick Wagesreiter",
+  "designer_url": "http://www.patrickwagesreiter.at",
+  "vendor_url": "http://www.patrickwagesreiter.at",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003;PS 001.003;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.94.20-1c74) -l 8 -r 50 -G 200 -x 14 -w \"gGD\" -c -f",
+  "description": "Patrick Hand is a font based on the designer\u0027s own handwriting. It is developed to bring an impressive and useful handwriting effect to your texts. This is the Small Caps sister family. It has all the basic latin characters as well as most of the latin extended ones. It also includes some fancy glyphs like heavy quotation marks and the floral heart! Ligatures, small caps and old style numbers are available as OpenType features in the download of the regular Patrick Hand family.",
+  "last_modified": 1456214400000,
+  "size": 152608,
+  "weight_class": 400
+}

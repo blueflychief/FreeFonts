@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Pragati Narrow",
+  "font_family_name": "Pragati Narrow",
+  "full_font_name": "Pragati Narrow",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PragatiNarrow-Regular",
+  "manufacturer": "Omnibus-Type",
+  "designer": "Hector Gatti, Marcela Romero, Pablo Cosgaya and Nicolas Silva",
+  "vendor_url": "http://www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.010; ttfautohint (v1.3)",
+  "description": "Pragati Narrow is a libre Devanagari typeface family designed as a complement to Archivo Narrow. It is a sans-serif family with vertical and horizontal cuts. Pragati Narrow comes in 2 weights (Regular and Bold) and was specially developed for screen as webfont and desktop font, too. The Devanagari was designed by Marcela Romero, Pablo Cosgaya and Nicolás Silva. The Latin version of Pragati is reminiscent of late nineteenth century American typefaces. It includes four Narrow styles and four Normal styles (in development), was derived from Chivo (designed by Héctor Gatti) and was developed with the collaboration of the Omnibus-Type team. Pragati (प्रगति) is the Hindi word for ‘progress’. This project is led by Omnibus-Type, a type foundry based in Argentina. To contribute, visit github.com/Omnibus-Type/PragatiNarrow.",
+  "last_modified": 1433919600000,
+  "size": 377784,
+  "weight_class": 400
+}

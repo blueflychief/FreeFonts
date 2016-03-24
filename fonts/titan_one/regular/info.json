@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Rodrigo Fuenzalida",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Titan One",
+  "font_family_name": "Titan One",
+  "full_font_name": "Titan One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "TitanOne",
+  "trademark": "Titan is a trademark of Rodrigo Fuenzalida.",
+  "manufacturer": "Rodrigo Fuenzalida",
+  "designer": "Rodrigo Fuenzalida",
+  "designer_url": "www.rfuenzalida.com",
+  "vendor_url": "www.rfuenzalida.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Titan One is a really fat display type with a happy and cheerful personality. It takes most of its essence from hand lettering with big brushes. It is designed to be used mainly on headers and short texts.",
+  "last_modified": 1456214400000,
+  "size": 55712,
+  "weight_class": 400
+}

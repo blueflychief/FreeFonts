@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Homenaje",
+  "font_family_name": "Homenaje",
+  "full_font_name": "Homenaje-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Homenaje-Regular",
+  "trademark": "Homenaje is a trademark of Constanza Artigas Preller, Agustina Mingote.",
+  "manufacturer": "Constanza Artigas Preller, Agustina Mingote",
+  "designer": "Constanza Artigas Preller, Agustina Mingote",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Homenaje is inspired by the bronze cemetery art found in the Recoleta and Chacaritas districts of Buenos Aires, Argentina. A grotesque and narrow type, it provides economy in text setting without losing its strong, straight and steady features. The name “Homenaje” means tribute in Spanish, a modest way to honor the patient and accurate work of the lettering artists whose bronze letters honor a lifetime. Updated in September 2012 with repositioned quote marks. Designed by Constanza Artigas Preller and Agustina Mingote.",
+  "last_modified": 1456214400000,
+  "size": 22192,
+  "weight_class": 400
+}

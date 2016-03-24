@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Numans",
+  "font_family_name": "Numans",
+  "full_font_name": "Numans",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Numans-Regular",
+  "trademark": "Numans is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://www.jovanny.ru/",
+  "vendor_url": "http://www.jovanny.ru/",
+  "license_desciption": "Copyright (c) August 1, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Numans\" and \"Numans\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.001",
+  "description": "Numans font is a modern \u0027grotesque\u0027 sans-serif with open forms. Sometimes I would like to call it \"Humans,\" but since I am from Russia, my English is not so fluent and sometimes I can be confused. The name comes from romanticising this. Numans is similar to the more bold font Days One, also available in Google Web Fonts.",
+  "last_modified": 1456214400000,
+  "size": 39368,
+  "weight_class": 400
+}

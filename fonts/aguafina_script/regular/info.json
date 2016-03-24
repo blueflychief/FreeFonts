@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Aguafina Script",
+  "font_family_name": "Aguafina Script",
+  "full_font_name": "Aguafina Script Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AguafinaScript-Regular",
+  "trademark": "Aguafina Script is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Semi-formal and eye-catching elegance is the name of the game, says Aguafina Script. Graceful, but not too casual. Knowledgeable and artistic, but not too imposing. The characters flow into each other, making a very saucy script with appetizing color. The narrow lowercase allows for efficient use of space, while the long ascenders and descenders help maintain the legibility. A unique find among scripts, Aguafina is useful for product packaging, glossy magazine work, and book covers.",
+  "last_modified": 1456214400000,
+  "size": 47228,
+  "weight_class": 400
+}

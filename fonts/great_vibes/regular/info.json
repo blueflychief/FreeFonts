@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "TypeSETit",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Great Vibes",
+  "font_family_name": "Great Vibes",
+  "full_font_name": "Great Vibes",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GreatVibes-Regular",
+  "trademark": "Grerat Vibes is a trademark of Robert E. Leuschke.",
+  "manufacturer": "Robert E. Leuschke",
+  "designer": "Robert E. Leuschke",
+  "designer_url": "www.typesetit.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Great Vibes is a beautifully flowing connecting script. It has cleanly looping ascenders and descenders as well as elegant uppercase forms. Great Vibes is a Unicode typeface that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Rob Leuschke.",
+  "last_modified": 1456214400000,
+  "size": 106004,
+  "weight_class": 400
+}

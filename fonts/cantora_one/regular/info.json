@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Impallari Type",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Cantora One",
+  "font_family_name": "CantoraOne",
+  "full_font_name": "CantoraOne",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CantoraOne-Regular",
+  "trademark": "Cantora is a trademark of Pablo Impallari and Rodrigo Fuenzalida",
+  "manufacturer": "Pablo Impallari",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.8) -G 200 -r 50",
+  "description": "Cantora (\u0027Singer\u0027 in Spanish) is a friendly semi formal, semi condensed, semi sans serif. It has reminiscences of hand lettering, mixing straight and bowed stems, and natural curves. It was born as an experiment in drawing from the outside to the inside (drawing the space surrounding the letters first, instead of drawing the letters themselves) in trying to apply the ideas and methods of Michael Harvey and Evert Bloemsma to my own glyphs construction. Although Cantora is a sans, the lowercase letters have serif proportions. It\u0027s perfect for headlines (H1, H2, H3) in sizes larger than 20px.",
+  "last_modified": 1456214400000,
+  "size": 163116,
+  "weight_class": 400
+}

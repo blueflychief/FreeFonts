@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "khmer"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Tep Sovichet",
+  "varient": "300",
+  "kind": "webfonts#webfont",
+  "family": "Kantumruy",
+  "font_family_name": "Kantumruy Light",
+  "full_font_name": "Kantumruy Light",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "KantumruyLight",
+  "manufacturer": "Sovichet Tep",
+  "designer_url": "http://it4ug.net/",
+  "vendor_url": "http://it4ug.net/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.20 August 16, 2013",
+  "description": "The Kantumruy fonts are designed in three styles (Light, Regular and Bold) and are made for the Khmer script, the national language of Cambodia. It works well for both text and posters, on websites and in print. It was designed in 2013 by Tep Sovichet, a high school student from Cambodia, who learned typeface design with local expert Danh Hong. It is his first font published in Google Fonts.",
+  "last_modified": 1428044400000,
+  "size": 46588,
+  "weight_class": 400
+}

@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Anna Giedryś",
+  "varient": "300",
+  "kind": "webfonts#webfont",
+  "family": "Signika",
+  "font_family_name": "Signika",
+  "full_font_name": "Signika-Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "Signika-Light",
+  "trademark": "Signika is a trademark of Anna Giedrys.",
+  "manufacturer": "Anna Giedrys",
+  "designer": "Anna Giedrys",
+  "designer_url": "www.ancymonic.com",
+  "vendor_url": "www.ancymonic.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Signika is a sans-serif with a gentle character, developed for wayfinding, signage, and other media where clarity of information is required. It has a low contrast and tall x-height to improve readability of texts in small sizes as well as in large distances from the reader. Being a typical signage typeface it is inspired by typefaces such as Ronnia, Meta, and Tahoma. The typeface comes with a wide character set supporting Western European languages, Polish, and Czech. The figures are designed as tabular. All weights from Light to Bold have alternative Negative versions, optimised to solve the effect of juxtaposed positive and negative text setting, where the text in negative tends to look thicker. Small caps and small-cap figures will be published soon.",
+  "last_modified": 1456214400000,
+  "size": 186036,
+  "weight_class": 300
+}

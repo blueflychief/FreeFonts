@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Monoton",
+  "font_family_name": "Monoton",
+  "full_font_name": "Monoton",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Monoton-Regular",
+  "trademark": "Monoton is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "version_string": "Version 1.000",
+  "description": "Monoton is a contemporary take on metalpress fonts like, for example, \u0027Prisma\u0027 (originally designed in 1931 by Rudolf Koch.) Monoton is a pure display webfont designed to be used at font sizes above 30 points. Monoton has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 51604,
+  "weight_class": 400
+}

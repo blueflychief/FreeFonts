@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Neapolitan",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Skranji",
+  "font_family_name": "Skranji",
+  "full_font_name": "Skranji",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Skranji",
+  "trademark": "Skranji is a trademark of Font Diner, Inc DBA Neapolitan.",
+  "manufacturer": "Font Diner, Inc DBA Neapolitan",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/foundries/neapolitan",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Like the call of Ricola being yodelled from the top of the Swiss Alps from a satisfied customer, Skranji soothes as it relieves all your design aches. Both primitive and exotic at the same time, Skranji evokes the thunder of Norse gods with the utility of a Swiss Army Knife! Designed by Dave \u0027Squid\u0027 Cohen of Neapolitan (a DBA of Font Diner, Inc.)",
+  "last_modified": 1456214400000,
+  "size": 207924,
+  "weight_class": 400
+}

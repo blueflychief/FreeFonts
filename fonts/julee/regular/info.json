@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Julian Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Julee",
+  "font_family_name": "Julee",
+  "full_font_name": "Julee-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Julee-Regular",
+  "trademark": "Julee is a trademark of Julian Tunni.",
+  "manufacturer": "Julian Tunni",
+  "designer": "Julian Tunni",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "The peculiarity of this typography lies in its curved structures and strokes, which are developed on it by getting thinner and sharper as if they were being typed using a metallic and bevel-edged point. The visual mark characteristic of Julee is a casual cursive-like type, yet balanced due to the tidy proportions of its signs. More documentation can be found at www.tipo.net.ar",
+  "last_modified": 1456214400000,
+  "size": 30876,
+  "weight_class": 400
+}

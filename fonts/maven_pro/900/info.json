@@ -1,0 +1,21 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Joe Prince",
+  "varient": "900",
+  "kind": "webfonts#webfont",
+  "family": "Maven Pro",
+  "font_family_name": "Maven Pro",
+  "full_font_name": "Maven Pro Black",
+  "font_subfamily_name": "Black",
+  "postscript_name": "MavenProBlack",
+  "version_string": "Version 1.003",
+  "description": "Maven Pro is a sans-serif typeface with unique curvature and flowing rhythm. Its forms make it very distinguishable and legible when in context. It blends styles of many great typefaces and is suitable for any design medium. Maven Pro’s modern design is great for the web and fits in any environment.",
+  "last_modified": 1456214400000,
+  "size": 99116,
+  "weight_class": 900
+}

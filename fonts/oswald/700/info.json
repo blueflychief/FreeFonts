@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Oswald",
+  "font_family_name": "Oswald",
+  "full_font_name": "Oswald Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Oswald-Bold",
+  "trademark": "Oswald Bold is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.002; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\"",
+  "description": "Oswald is a reworking of the classic style historically represented by the \u0027Alternate Gothic\u0027 sans serif typefaces. The characters of Oswald have been re-drawn and reformed to better fit the pixel grid of standard digital screens. Oswald is designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Updated in February 2012 with Light and Bold styles, and Extended Latin character sets. Updated again in September 2012 based on many users\u0027 feedback, with glyph refinements throughout the family and new tighter spacing and kerning. Users who had adjusted the letterspacing in CSS may need to remove those adjustments. As one of the earliest families published in Google Web Fonts, Oswald lacked proper subsetting, so this update introduces a default \u0027latin\u0027 subset that contains less characters but loads faster. To use the full character set, update your API link to include the latin-ext subset.",
+  "last_modified": 1456214400000,
+  "size": 53056,
+  "weight_class": 700
+}

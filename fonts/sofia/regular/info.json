@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "LatinoType",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Sofia",
+  "font_family_name": "Sofia",
+  "full_font_name": "Sofia",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sofia-Regular",
+  "trademark": "Sofia is a trademark of LatinoType Limitada",
+  "manufacturer": "Paula Nazal, Daniel Hernndez",
+  "designer": "Paula Nazal and Daniel Hernndez",
+  "designer_url": "www.hernandeztype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Sofia designed by Paula Nazal and Daniel Hernández, is an upright script font with some unconventional ligatures. It is a coquettish, friendly and versatile typeface.",
+  "last_modified": 1456214400000,
+  "size": 29796,
+  "weight_class": 400
+}

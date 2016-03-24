@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Arya",
+  "font_family_name": "Arya",
+  "full_font_name": "Arya Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Arya-Bold",
+  "trademark": "Arya is a trademark of Eduardo Rodriguez Tunni",
+  "manufacturer": "Eduardo Rodriguez Tunni, Modular Infotech",
+  "designer": "Eduardo Rodriguez Tunni, Modular Infotech",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Arya is a Devanagari and Latin type family. It originated with Modular InfoTech\u0027s 1201, and was made more smooth. The new and original Latin design is intended to match the Devanagari in weight and and size with an unusual high-contrast sans serif design. This project is led by Eduardo Tunni, a type designed based in Buenos Aires, Argentina. To contribute, visit github.com/etunni/Arya",
+  "last_modified": 1432191600000,
+  "size": 185784,
+  "weight_class": 700
+}

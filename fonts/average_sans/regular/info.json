@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Average Sans",
+  "font_family_name": "Average Sans",
+  "full_font_name": "Average Sans",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AverageSans-Regular",
+  "trademark": "Average is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Average Sans has the color, structure and proportions of its serif sister family, Average, which it complements harmoniously. The neutrality of the forms create a nice texture, both for texts and short headlines. Use it for online magazines, academic texts and blogs. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 44012,
+  "weight_class": 400
+}

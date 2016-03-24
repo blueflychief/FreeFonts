@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Nobile",
+  "font_family_name": "Nobile",
+  "full_font_name": "Nobile Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Nobile-Italic",
+  "trademark": "Nobile Italic is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "version_string": "Version 1.000;PS 001.000;hotconv 1.0.38",
+  "description": "\"Nobile\" is designed to work with the technologies of digital screens and handheld devices without losing the distinctive look more usually found in fonts designed for printing. Going back to William Morris\u0027s baseline \"Have nothing in your house that you do not know to be useful, or believe to be beautiful\", the aim was to design a font that could function well, have good legibility on screen yet also be good looking, not only at larger display sizes but also right down to small text sizes.",
+  "last_modified": 1456214400000,
+  "size": 92032,
+  "weight_class": 400
+}

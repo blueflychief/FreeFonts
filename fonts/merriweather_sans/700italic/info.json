@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Eben Sorkin",
+  "varient": "700italic",
+  "kind": "webfonts#webfont",
+  "family": "Merriweather Sans",
+  "font_family_name": "Merriweather Sans",
+  "full_font_name": "Merriweather Sans Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "MerriweatherSans-BoldItalic",
+  "trademark": "Merriweather is a trademark of Sorkin Type Co.",
+  "manufacturer": "Eben Sorkin",
+  "designer": "Eben Sorkin",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.006; ttfautohint (v1.4.1) -l 6 -r 50 -G 0 -x 11 -H 220 -D latn -f none -w \"\" -X \"\"",
+  "description": "Foundry: Sorkin Type Co Merriweather Sans is a low-contrast semi-condensed sans-serif text typeface family designed to be pleasant to read at very small sizes. Merriweather Sans is traditional in feeling despite the modern shapes it has adopted for screens. Merriweather Sans is an evolving project and will be updated. As of now there are 8 styles: Light, Regular, Bold, and ExtraBold weights in Roman and Italic styles. There is also Merriweather, a serif version which closely harmonizes with the weights and styles of this sans-serif family. Designed by Eben Sorkin, Merriweather Sans features a large x height, slightly condensed letterforms, a mild diagonal stress and open forms. Merriweather Sans is a work in progress and will be improved regularly. This means you can request improvements and even fund specific features if if they are outside of the current scope of work. For more information and to stay updated see Eben Sorkin\u0027s blog and Flickr stream, and the MerriweatherFnt Twitter microblog. Updated in June 2013 with italic styles. Updated in January 2016: This revision improves on-screen rendering especially at text sizes with ttfautohint hinting. Merriweather Sans will work better when installed on desktops. Some OpenType features were added and improved. Since the vertical and horizontal metrics changed, this may cause some text to reflow in some browsers. A second update (v1.006) was made on 1/25 to fix ligatures and other digraphs.",
+  "last_modified": 1456214400000,
+  "size": 60352,
+  "weight_class": 700
+}

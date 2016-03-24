@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "800",
+  "kind": "webfonts#webfont",
+  "family": "Dosis",
+  "font_family_name": "Dosis",
+  "full_font_name": "Dosis ExtraBold",
+  "font_subfamily_name": "ExtraBold",
+  "postscript_name": "Dosis-ExtraBold",
+  "trademark": "Dosis is a trademark of EdgarTolentino, PabloImpallari, IginoMarini.",
+  "manufacturer": "EdgarTolentino, PabloImpallari, IginoMarini",
+  "designer": "EdgarTolentino, PabloImpallari, IginoMarini",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Dosis.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.006",
+  "description": "Dosis is a rounded sans-serif type family. It started with the Extra Light style, useful only at size 36pt or upm and the Extended Latin character set included many alternative characters, all designed by Edgar Tolentino and Pablo Impallari. Dosis was expanded into a complete set of weights in September 2011.",
+  "last_modified": 1456214400000,
+  "size": 137200,
+  "weight_class": 800
+}

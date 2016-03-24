@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Federant",
+  "font_family_name": "Federant",
+  "full_font_name": "Federant",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Federant-Regular",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Olexa M. Volochay, Alexei Vanyashin, Otto Ludwig Naegele",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.011; ttfautohint (v1.4.1)",
+  "description": "Federant revives the Reklameschrift typeface Feder Antiqua by Otto Ludwig Nägele (1911). The main challenge of designing a modern interpretation was to balance between applying visual corrections for overall consistency and staying close to the original source. In certain cases the historical authenticy was sacrificed in favour of an even typographic color. This project required research of historic type specimens in search for the missing letterforms. The unusual interpretation of the Yen currency symbol can be found in typefaces of that period. Designed by Olexa M.Volochay, Alexei Vanyashin for Cyreal. To contribute to the project, visit github.com/cyrealtype/Federant Updated: February 2016 to Version 1.011, to correct the GPOS table (enabling kerning, so the horizontal metrics may change, causing some reflow in Firefox where kerning is used by default.)",
+  "last_modified": 1456300800000,
+  "size": 45588,
+  "weight_class": 400
+}

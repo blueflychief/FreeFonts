@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Rokkitt",
+  "font_family_name": "Rokkitt",
+  "full_font_name": "Rokkitt Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Rokkitt-Bold",
+  "trademark": "Rokkitt is a trademark of Vernon Adams.",
+  "designer_url": "newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.2; ttfautohint (v1.5) -l 7 -r 28 -G 50 -x 13 -D latn -f none -w G -X \"\"",
+  "description": "Rokkitt is inspired by the type forms of a number of distinctive geometric slab serifs, sometimes called Egyptians, popular in the late nineteenth and early to mid twentieth centuries. In 1910 the Inland Type Foundry published Litho Antique and similar types were published by American Type Founders in the 1920s and Monotype Corporation in the 1930s. Rokkitt is intended for use as a display font, in headings and headlines, though it can also be used as an alternative to sans serif designs at text sizes. Updated February 2016 to v1.2, improving hinting for Windows users and fixing a problem with T appearing strange at large sizes.",
+  "last_modified": 1456300800000,
+  "size": 43452,
+  "weight_class": 700
+}

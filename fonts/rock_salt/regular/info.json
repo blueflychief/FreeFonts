@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Rock Salt",
+  "font_family_name": "Rock Salt",
+  "full_font_name": "Rock Salt",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RockSalt",
+  "trademark": "Rock Salt is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Does your brain freeze up every time you need a zippy, casual hand-lettered look? Well, prepare to thaw it out with Rock Salt by Squid! Rock Salt was hand-crafted with felt-tip markers for a personal look you can pepper throughout your next project.",
+  "last_modified": 1456214400000,
+  "size": 125136,
+  "weight_class": 400
+}

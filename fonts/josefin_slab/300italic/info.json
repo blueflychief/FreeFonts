@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Santiago Orozco",
+  "varient": "300italic",
+  "kind": "webfonts#webfont",
+  "family": "Josefin Slab",
+  "font_family_name": "Josefin Slab",
+  "full_font_name": "Josefin Slab Light Italic",
+  "font_subfamily_name": "Light Italic",
+  "postscript_name": "JosefinSlab-LightItalic",
+  "trademark": "Josefin Slab Light Italic is a trademark of Typemade.",
+  "manufacturer": "Typemade",
+  "designer": "Santiago Orozco",
+  "designer_url": "www.typemade.mx",
+  "license_desciption": "Copyright (c) 2010, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Josefin. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Josefin Slab was the first typeface–at least in my mind–I designed! But I decided to start simple with Josefin Sans. Following the 1930s trend for geometric typefaces, it just came to me that something between Kabel and Memphis with modern details will look great. I wanted to stick to the idea of Scandinavian style, so I put a lot of attention to the diacritics, especially to \"æ\" which has loops connecting in a continuous way, so the \"e\" slope was determined by this character. It also has some typewriter style attributes, because I\u0027ve liked the Letter Gothic typeface since I was in high school, and that\u0027s why I decided to make a Slab version of Josefin Sans.",
+  "last_modified": 1456214400000,
+  "size": 160144,
+  "weight_class": 300
+}

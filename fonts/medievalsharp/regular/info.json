@@ -1,0 +1,24 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Wojciech Kalinowski",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "MedievalSharp",
+  "font_family_name": "MedievalSharp",
+  "full_font_name": "MedievalSharp",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MedievalSharp",
+  "license_desciption": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Name NovaRound.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0",
+  "description": "This is another of my old fonts used to make inscriptions on stone. I created the MedievalSharp font in around 1995 like my other fonts - when I started doing the inscriptions on stone professionally. It\u0027s based on gothic letters. Initially the font contained only capitals and digits, and later I made missing small fonts and some basical signs. In 2010 I started convert my typeface designs into digital fonts. The first was NovaCut and all the Nova family, and here\u0027s another...",
+  "last_modified": 1456214400000,
+  "size": 148712,
+  "weight_class": 500
+}

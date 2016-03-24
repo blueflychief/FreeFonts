@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Ralph du Carrois",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Share Tech",
+  "font_family_name": "Share Tech",
+  "full_font_name": "Share Tech",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ShareTech-Regular",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "manufacturer": "Ralph Oliver du Carrois",
+  "designer": "Ralph Oliver du Carrois",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Share Tech is a sans serif, based on the Share family. There is also Share Tech Mono.",
+  "last_modified": 1456214400000,
+  "size": 29536,
+  "weight_class": 400
+}

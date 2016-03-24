@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Bubblegum Sans",
+  "font_family_name": "Bubblegum Sans",
+  "full_font_name": "Bubblegum Sans Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BubblegumSans-Regular",
+  "trademark": "Bubblegum Sans is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Bubblegum Sans is upbeat, flavor-loaded, brushalicious letters for the sunny side of the street. It bounces with joy and tells a great story. Designed by Angel Koziupa and produced by Ale Paul, this typeface is a loud 21st century shoutout to the kind of the 1930s lettering that sold everything to everyone through every medium. From Sudtipos.",
+  "last_modified": 1456214400000,
+  "size": 38820,
+  "weight_class": 400
+}

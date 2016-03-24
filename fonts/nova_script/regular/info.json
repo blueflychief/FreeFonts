@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Wojciech Kalinowski",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Nova Script",
+  "font_family_name": "Nova Script",
+  "full_font_name": "Nova Script",
+  "font_subfamily_name": "Book",
+  "postscript_name": "NovaScript",
+  "license_desciption": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name \u0027NovaScript\u0027 and \u0027Nova Script\u0027.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000",
+  "description": "NovaScript is based on my NovaOval font, and it\u0027s a part of the Nova set. I created it because the Nova family was missing an oblique font. Now I consider the Nova family complete.",
+  "last_modified": 1456214400000,
+  "size": 117376,
+  "weight_class": 400
+}

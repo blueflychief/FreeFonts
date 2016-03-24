@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Unlock",
+  "font_family_name": "Unlock",
+  "full_font_name": "Unlock Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Unlock-Regular",
+  "trademark": "Unlock is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Unlock is a geometric typeface with vertical stress, short descenders and a significant \"x\" height . Basic shapes from rectangles, some with rounded corners (the only presence of curves), completely rectangular counterpounchs and innovative solutions for the joints, make Unlock has a unique style. Their rough appearance, reminiscent of the old types of wood although the design of many of the signs we associate also a futuristic design. Unlock is ideal for the composition of headlines and short texts but its design provides for the possibility of using it in small sizes. A script type by Eduardo Tunni, and more documentation can be found at www.tipo.net.ar",
+  "last_modified": 1456214400000,
+  "size": 27080,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Iceland",
+  "font_family_name": "Iceland",
+  "full_font_name": "Iceland",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Iceland-Regular",
+  "trademark": "Iceland is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Cyreal (www.cyreal.org)",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Iceland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "The idea of geometric typefaces with a look reminiscent of the machinery, technology, and interior design of the 1950s originated in Eurostile family by Aldo Novarese and Alessandro Butti (1952). Iceland is a modular square-shaped webfont by Victor Kharyk with a cold brutal character designed with the intention to perform well on screen starting from low resolutions. For this purpose the strokes are deliberatly kept vertical and diagonal cuts have a 45° angle, outlines are rounded. Features like wide proportions and generous x-height are introduced for better legibility. Unconventional and simplified letterforms like k, f, r aid readability at small sizes. While at display sizes they add a crisp and sharp impression. Uppercase letters are decently heavier compared to lowercase as a tribute to the old typographic tradition. This way uppercase is easily distinguished from lowercase, and allows scaling down to be used as Small Caps. Because of its ascetic modular character and squarish proportions Iceland webfont is easily integrated in modular grids and logotypes.",
+  "last_modified": 1456214400000,
+  "size": 47632,
+  "weight_class": 400
+}

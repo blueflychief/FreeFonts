@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Joana Correia",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Cantata One",
+  "font_family_name": "Cantata One",
+  "full_font_name": "CantataOne-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CantataOne-Regular",
+  "trademark": "Cantata is a trademark of Sorkin Type Co.",
+  "manufacturer": "Joana Maria Correia da Silva",
+  "designer": "Joana Maria Correia da Silva",
+  "designer_url": "http://www.joanamcorreia.com/",
+  "vendor_url": "http://www.sorkintype.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Foundry: Sorkin Type Co Cantata One is a high contrast extended Didone style text face. In addition to being useful in medium to large text sizes, Cantata One is meant to evoke luxury when used in display sizes. Cantata One was originally inspired by hand written letters made with a pointed pen on an old map handmade map of NYC. Source files are available from Google Code. To contribute to the project contact Eben Sorkin.",
+  "last_modified": 1458630000000,
+  "size": 96828,
+  "weight_class": 400
+}

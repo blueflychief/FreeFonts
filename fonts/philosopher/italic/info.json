@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Philosopher",
+  "font_family_name": "Philosopher",
+  "full_font_name": "Philosopher Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Philosopher-Italic",
+  "trademark": "Philosopher Italic is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://www.jovanny.ru/",
+  "vendor_url": "http://www.jovanny.ru/",
+  "license_desciption": "Copyright (c) June 5, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name Nixie.\r\n\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Philosopher was started in 2008 and takes inspiration from Agfa Rotis and ITC Binary. This font is universal: It can be used in logos, headlines, and for text. The initial version of the font was deliberately spread with errors - this was my invaluable contribution to type culture around the world, as I thought then - I wanted to stir up designers so they began working with fonts, rather than passively using what is there. Over time I wanted to correct the errors, and now the font has been used by millions of people worldwide. In June 2011 a four-style family was published, and in September 2011 the full Latin and Cyrillic family was fully hinted.",
+  "last_modified": 1456214400000,
+  "size": 240984,
+  "weight_class": 400
+}

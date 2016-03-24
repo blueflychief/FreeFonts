@@ -1,0 +1,21 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Andrew Paglinawan",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Quicksand",
+  "font_family_name": "Quicksand",
+  "full_font_name": "Quicksand Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Quicksand-Bold",
+  "version_string": "Version 001.001 ",
+  "description": "Quicksand is a display sans serif.",
+  "last_modified": 1456214400000,
+  "size": 23408,
+  "weight_class": 700
+}

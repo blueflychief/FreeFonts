@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Stalinist One",
+  "font_family_name": "Stalinist One",
+  "full_font_name": "Stalinist One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "StalinistOne-Regular",
+  "trademark": "Stalinist is a trademark of Alexey Maslov and Jovanny Lemonad.",
+  "manufacturer": "Alexey Maslov, Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://jovanny.ru",
+  "vendor_url": "http://jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 3.002; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w \"gGD\"",
+  "description": "Imagine a post-apocalyptic world in the future. Imagine hiding in the underground: people, dirty air and despair. To transfer information, they still use fonts. But they have become simple, with a utilitarian and strong spirit. Stalinist is typeface for a post-apocalyptic time. Stalinist is a font made in Moscow at the end of the 21st century. That\u0027s the way it is. Stalinist One was designed collaboratively between Alexey Maslov and Jovanny Lemonad.",
+  "last_modified": 1456214400000,
+  "size": 49960,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "LatinoType",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Patua One",
+  "font_family_name": "Patua One",
+  "full_font_name": "Patua One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PatuaOne-Regular",
+  "trademark": "Patua is a trademark of LatinoType Limitada",
+  "manufacturer": "Luciano Vergara",
+  "designer": "luciano Vergara",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Patua One is a slab serif text type designed for use in small sizes. It has low contrast and strong serifs and is intended to generate visual impact. Its thick serifs are curved to provide it with a touch of smoothness and gesture.",
+  "last_modified": 1456214400000,
+  "size": 35624,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "TypeSETit",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Allura",
+  "font_family_name": "Allura",
+  "full_font_name": "Allura",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Allura-Regular",
+  "trademark": "Allura is a trademark of TypeSETit, LLC",
+  "manufacturer": "Robert E. Leuschke",
+  "designer": "Robert E. Leuschke",
+  "designer_url": "www.typesetit.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004",
+  "description": "Allura is the script format of the Allura Pro family. Like other designs by Rob Leuschke, Allura is stylized, yet very legible.",
+  "last_modified": 1456214400000,
+  "size": 88084,
+  "weight_class": 400
+}

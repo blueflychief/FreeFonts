@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Parisienne",
+  "font_family_name": "Parisienne",
+  "full_font_name": "Parisienne",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Parisienne-Regular",
+  "trademark": "Parisienne is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Parisienne is a casual connecting script inspired by a 1960s Bra advertisement! It has a slight bounce and intentional irregularity to what might other wise appear to be a more formal script font. Classic, yet free spirited, it is a typestyle for a wide variety of use.",
+  "last_modified": 1456214400000,
+  "size": 61248,
+  "weight_class": 400
+}

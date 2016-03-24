@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Offside",
+  "font_family_name": "Offside",
+  "full_font_name": "Offside",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Offside-Regular",
+  "trademark": "Offside is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "The main feature of Offside is its simple structure and monoline stroke. It is modern, slightly condensed, with large counters to achieve excellent readability on the web, even in small sizes. Its design details make it also suitable for writing headlines or signage with great clarity and prestige. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 30840,
+  "weight_class": 400
+}

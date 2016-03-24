@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Grand Hotel",
+  "font_family_name": "Grand Hotel",
+  "full_font_name": "Grand Hotel",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GrandHotel-Regular",
+  "trademark": "Grand Hotel is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Brian J. Bonislawsky \u0026 Jim Lyles for Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.000",
+  "description": "Grand Hotel finds its inspiration from the title screen of the 1937 film \"Cafe Metropole\" starring Tyrone Power. This condensed upright connecting script has a classic vibe to it. It has a wonderful weight to it that feels subtly tied to Holiday and Bakery themed designs, even though it can work outside that genre. Designed by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 65012,
+  "weight_class": 400
+}

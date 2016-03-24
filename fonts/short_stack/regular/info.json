@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "James Grieshaber",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Short Stack",
+  "font_family_name": "Short Stack",
+  "full_font_name": "Short Stack",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ShortStack",
+  "trademark": "Short Stack is a trademark of Sorkin Type Co.",
+  "manufacturer": "James Grieshaber",
+  "designer": "James Grieshaber",
+  "designer_url": "www.typeco.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Short Stack is a low contrast semi-geometric typeface inspired by childish written letters. Short Stack is sturdy, and clear but also whimsical and fun. Short Stack works well from medium text sizes to larger display sizes.",
+  "last_modified": 1456214400000,
+  "size": 68152,
+  "weight_class": 400
+}

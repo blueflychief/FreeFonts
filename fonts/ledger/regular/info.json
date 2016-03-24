@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Denis Masharov",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Ledger",
+  "font_family_name": "Ledger",
+  "full_font_name": "Ledger",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ledger-Regular",
+  "trademark": "Ledger is a trademark of Denis Masharov.",
+  "manufacturer": "Denis Masharov",
+  "designer": "Denis Masharov",
+  "designer_url": "denis.masharov@gmail.com",
+  "vendor_url": "denis.masharov@gmail.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.001",
+  "description": "The austere and concise personality and flexibility make it a real multiple-purpose typeface. The letter forms are distinguished by a large x-height, sufficient stroke contrast, robust but elegant wedge-like serifs and terminals. These features have been specially designed to reach maximum of quality and readability when used in unfavorable print and display processes - such as in newspapers, laser printed documents and on low resolution screens. The typeface can be qualified as matched to modern trends of type design and of enhanced legibility. These characteristics provide an undeniable distinction to the typeface, making it suitable for editorial use in newspapers and magazines, corporate ID, advertising and display typography.",
+  "last_modified": 1456214400000,
+  "size": 62320,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Haley Fiege",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Sniglet",
+  "font_family_name": "Sniglet",
+  "full_font_name": "Sniglet Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sniglet-Regular",
+  "trademark": "Sniglet is a trademark of Haley Fiege",
+  "manufacturer": "Haley Fiege, Pablo Impallari, Brenda Gallo",
+  "designer": "Haley Fiege",
+  "designer_url": "kingdomofawesome.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+  "description": "A rounded display face that’s great for headlines.",
+  "last_modified": 1456214400000,
+  "size": 75212,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sorkin Type",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Goblin One",
+  "font_family_name": "Goblin One",
+  "full_font_name": "Goblin One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GoblinOne",
+  "trademark": "Goblin is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.rdftype.it",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Designer: Riccardo De Franceschi Goblin One belongs to the category of display types called \"Latin\". This is because of its sharp triangular serifs. Goblin One was inspired by a hand painted sign above a pub in the town of Reading (UK). Goblin One is a somewhat wide medium contrast design with a large x-height. Goblin One is both attention-getting and fun. Goblin is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type.",
+  "last_modified": 1456214400000,
+  "size": 36736,
+  "weight_class": 400
+}

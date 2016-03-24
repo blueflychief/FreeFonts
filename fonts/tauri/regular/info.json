@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Yvonne Schüttler",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Tauri",
+  "font_family_name": "Tauri",
+  "full_font_name": "Tauri-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "TauriRegular",
+  "trademark": "Tauri is a trademark of Sorkin Type Co.",
+  "manufacturer": "Yvonne Schüttler",
+  "designer": "Yvonne Schüttler",
+  "designer_url": "www.ysch.de",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003; ttfautohint (v0.93.8-669f) -l 13 -r 13 -G 200 -x 13 -w \"gG\" -W -c",
+  "description": "Tauri is a semi condensed sans typeface with a sense of restraint, clarity and rigor. Tauri\u0027s unique qualities do not shout and instead emerge slowly and organically as it is used. Tauri is useful from small to medium sizes but has enough subtle detail to be used at large sizes as well if it is more tightly spaced.",
+  "last_modified": 1456214400000,
+  "size": 35140,
+  "weight_class": 400
+}

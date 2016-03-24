@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sabrina Mariela Lopez",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Euphoria Script",
+  "font_family_name": "Euphoria Script",
+  "full_font_name": "Euphoria Script",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "EuphoriaScript-Regular",
+  "trademark": "Euphoria Script is a trademark of Sabrina Mariela Lopez.",
+  "manufacturer": "Sabrina Mariela Lopez",
+  "designer": "Sabrina Mariela Lopez",
+  "designer_url": "www.typesenses.com",
+  "vendor_url": "www.typesenses.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Euphoria Script is an informal script type. It began with letterform sketches made by hand with a copperplate nib, which were redrawn digitally with the stroke endings of a brush script. This makes the type seem playful, which is important in casual scripts. It has very fast curves, thanks to the slight slant angle, but it remains highly legible. It will be perfect for titles and short phrases in branding, magazines, content about food, fashion, music - anything which is as lively as the font itself.",
+  "last_modified": 1456214400000,
+  "size": 38424,
+  "weight_class": 400
+}

@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Barry Schwartz",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Prociono",
+  "font_family_name": "Prociono",
+  "full_font_name": "Prociono",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Prociono-Regular",
+  "manufacturer": "The Crud Factory",
+  "designer": "Barry Schwartz",
+  "designer_url": "http://crudfactory.com",
+  "vendor_url": "http://crudfactory.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.301 ",
+  "description": "“Prociono” (pro-tsee-O-no) is an Esperanto word meaning either the star Procyon or the animal species known as the raccoon. It is a roman with blackletter elements. The font is also available from the designer\u0027s own site, Sortmill, with a public domain dedication instead of the SIL Open Font License, and is also available from the League of Movable Type.",
+  "last_modified": 1456214400000,
+  "size": 31136,
+  "weight_class": 400
+}

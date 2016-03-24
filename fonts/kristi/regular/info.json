@@ -1,0 +1,22 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Birgit Pulk",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Kristi",
+  "font_family_name": "Kristi",
+  "full_font_name": "Kristi",
+  "font_subfamily_name": "Medium",
+  "postscript_name": "Kristi",
+  "license_desciption": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003 ",
+  "description": "Kristi is a calligraphy font inspired by old chancery typefaces and it is made with a basic felt-pen by using bold and quick moves while writing. The most distinctive characteristics of this type are tall ascenders and descenders, slim vertical lines and little twists like the letter \"g\" in the text. It is advised to use Kristi for a title or text at quite large sizefor example as a logotype or heading. Kristi is designed by Birgit Pulk, a graphic designer from Estonia. The name of the font is a common Estonian girls name.",
+  "last_modified": 1456214400000,
+  "size": 47476,
+  "weight_class": 400
+}

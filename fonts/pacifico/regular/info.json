@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Pacifico",
+  "font_family_name": "Pacifico",
+  "full_font_name": "Pacifico Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Pacifico-Regular",
+  "trademark": "Pacifico Regular is a trademark of Vernon Adams.",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "license_desciption": "SIL Open Font License, Version 1.1\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Aloha! Pacifico is an original and fun brush script handwriting font by Vernon Adams which was inspired by the 1950s American surf culture.",
+  "last_modified": 1456214400000,
+  "size": 43632,
+  "weight_class": 400
+}

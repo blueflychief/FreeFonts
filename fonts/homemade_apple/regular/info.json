@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Font Diner",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Homemade Apple",
+  "font_family_name": "Homemade Apple",
+  "full_font_name": "Homemade Apple",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HomemadeApple",
+  "trademark": "Homemade Apple is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Mmmm Mmmm! Nothing says down-home goodness like a delicious Homemade Apple! You can\u0027t just buy \u0027em anywhere, you have to make it yourself! And should you find yourself lacking in the recipe department, bust out this beautifully drawn cursive handwriting script and delight in its warmth! Use it whenever you want to give a personal touch!",
+  "last_modified": 1456214400000,
+  "size": 110080,
+  "weight_class": 400
+}

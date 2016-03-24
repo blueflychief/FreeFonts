@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Kurale",
+  "font_family_name": "Kurale",
+  "full_font_name": "Kurale",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Kurale-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.0; ttfautohint (v1.3)",
+  "description": "Kurale is a Latin, Cyrillic and Devanagari typeface derived from Gabriela. The Latin and Cyrillic is a serif typeface with soft shapes, and special terminal forms which are shaped like curls. They connect each letter to create attractive word shapes and text blocks with a fine texture. The Devanagari is a modulated design that harmonises with the Latin original. In small bodies of text she works well for reading, and in headlines provides interesting details to catch the eye. This project is led by Eduardo Tunni, a type designer based in Buenos Aires. To contribute, see github.com/etunni/kurale",
+  "last_modified": 1431586800000,
+  "size": 218864,
+  "weight_class": 400
+}

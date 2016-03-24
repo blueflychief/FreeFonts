@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Tart Workshop",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Fredericka the Great",
+  "font_family_name": "Fredericka the Great",
+  "full_font_name": "Fredericka the Great",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FrederickatheGreat-Regular",
+  "trademark": "Fredericka the Great is a trademark of Font Diner, Inc DBA Tart Workshop.",
+  "manufacturer": "Font Diner, Inc DBA Tart Workshop",
+  "designer": "Crystal Kluge",
+  "designer_url": "http://www.tartworkshop.com",
+  "vendor_url": "http://www.fontbros.com/tartworkshop.php",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Fredericka recalls my college days of nights spent creating handdrawn presentation boards, architectural sketches and student union posters. She\u0027s fun, she\u0027s casual, she\u0027s preppy, she\u0027s classic, she\u0027s Great! Designed by Crystal Kluge of Tart Workshop.",
+  "last_modified": 1456214400000,
+  "size": 486216,
+  "weight_class": 400
+}

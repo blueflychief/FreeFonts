@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "monospace"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Oxygen Mono",
+  "font_family_name": "Oxygen Mono",
+  "full_font_name": "Oxygen Mono",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "OxygenMono-Regular",
+  "trademark": "Oxygen Mono is a trademark of Vernon Adams.",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 0.201; ttfautohint (v0.8) -r 50 -G 200 -x",
+  "description": "Oxygen Mono is the monospace companion family to Oxygen, the KDE project UI and brand type.",
+  "last_modified": 1456214400000,
+  "size": 68940,
+  "weight_class": 400
+}

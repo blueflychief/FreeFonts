@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Matt McInerney",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Allerta Stencil",
+  "font_family_name": "Allerta Stencil",
+  "full_font_name": "Allerta Stencil Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AllertaStencil-Regular",
+  "manufacturer": "Matt McInerney",
+  "designer": "Matt McInerney",
+  "designer_url": "http://pixelspread.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.02 ",
+  "description": "Allerta is an open source typeface designed for use in signage. Allerta was designed to be easily and quickly read from a distance. Each letter exploits the most unique aspects of that individual letter so that each character can be easily distinguished from any other. Initially published at matt.cc/allerta.",
+  "last_modified": 1456214400000,
+  "size": 20260,
+  "weight_class": 400
+}

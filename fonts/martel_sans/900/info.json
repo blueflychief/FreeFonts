@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Dan Reynolds and Mathieu Réguer",
+  "varient": "900",
+  "kind": "webfonts#webfont",
+  "family": "Martel Sans",
+  "font_family_name": "Martel Sans Black",
+  "full_font_name": "Martel Sans Black",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MartelSans-Black",
+  "manufacturer": "Dan Reynolds and Mathieu Réguer",
+  "designer": "Dan Reynolds and Mathieu Réguer",
+  "designer_url": "https://github.com/typeoff/martel_sans",
+  "vendor_url": "http://www.typeoff.de",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -f none -w gGD -W -c",
+  "description": "The Martel Sans typeface is designed for typesetting immersive documents. It may be be used to set long passages of text in languages that are written in the Devanagari script, including Hindi, Marathi, Nepali, Sanskrit, and others. The Martel Devanagari design is a readable typeface whose glyph proportions are inspired by traditional writing and calligraphic styles. Its high-contrast strokes have a diagonal axis, in keeping with the pen-angle most often used for the Devanagari writing system. This Sans design is a low contrast design based on the initial Martel Devanagari. The Latin character set is an original design. Both character sets are the work of Dan Reynolds and Mathieu Réguer. The Martel Sans project is led by Dan Reynolds, a type designer based in Berlin, Germany. To contribute, see github.com/typeoff/martel_sans Updated November 2015: Internal metadata corrected.",
+  "last_modified": 1449561600000,
+  "size": 151516,
+  "weight_class": 900
+}

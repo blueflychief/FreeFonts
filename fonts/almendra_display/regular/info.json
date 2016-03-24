@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Ana Sanfelippo",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Almendra Display",
+  "font_family_name": "Almendra Display",
+  "full_font_name": "Almendra Display",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AlmendraDisplay-Regular",
+  "trademark": "Almendra is a trademark of Ana Sanfelippo.",
+  "manufacturer": "Ana Sanfelippo",
+  "designer": "Ana Sanfelippo",
+  "designer_url": "www.anasanfelippo.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Almendra is a typeface design based on calligraphy. Its style is related to the chancery and gothic hands. It is intended to be used in long texts, especially young children\u0027s literature. Almendra\u0027s black and white forms generate a nice texture in small sizes, while its many details appear when given the opportunity in huge sizes. The main challenge was to make compatible dialectic elements, especially balancing legibility and formal identity. Almendra was selected to be exhibited at the Bienal Iberoamericana de Diseno in 2010 and was part of the German editorial project Typodarium 2012. This is the Display family, and there are sister Regular and Small Cap families.",
+  "last_modified": 1456214400000,
+  "size": 39332,
+  "weight_class": 400
+}

@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Gary Lonergan",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Donegal One",
+  "font_family_name": "Donegal One",
+  "full_font_name": "Donegal One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DonegalOne-Regular",
+  "trademark": "Donegal is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Gary Lonergan",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004",
+  "description": "Donegal One is a text typeface designed to be highly legible and comfortable when reading on screen. Donegal\u0027s utility and personality consistently shows from small text sizes to display. Donegal uses the cut interior curve associated with W.A. Dwiggins. This feature is one of many that contribute to Donegal\u0027s distinctive and pleasing character.",
+  "last_modified": 1456214400000,
+  "size": 56944,
+  "weight_class": 400
+}

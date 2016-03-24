@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Claus Eggers Sørensen",
+  "varient": "300",
+  "kind": "webfonts#webfont",
+  "family": "Inknut Antiqua",
+  "font_family_name": "Inknut Antiqua Light",
+  "full_font_name": "Inknut Antiqua Light",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "InknutAntiqua-Light",
+  "trademark": "Inknut and Inknut Antiqua are trademarks of Claus Eggers Sørensen.",
+  "manufacturer": "Claus Eggers Sørensen",
+  "designer": "Claus Eggers Sørensen",
+  "designer_url": "http://www.forthehearts.net",
+  "vendor_url": "http://www.forthehearts.net",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "»Inknut Antiqua« is an Antiqua typeface for literature and long-form text. Approaching the idea of web-publishing as a modern day private press, it is designed to evoke Venetian incunabula and humanist manuscripts, but with the quirks and idiosyncrasies of the kinds of typefaces you find in this artisanal tradition. It comes with a complement of typographical sorts and OpenType features for the purpose. The proportions of Inknut Antiqua make it well suited for low-resolution screens. The Inknut (Terminalia Chebula), called »harad« in Hindi, is a nut-like fruit that can be used for ink making and is purported to cure blindness. The tree it grows from is native to the Indian sub-continent and south-east Asia. The Inknut Antiqua project is led by Claus Eggers Sørensen, a type designer based in Amsterdam. To contribute, see github.com/clauseggers/Inknut-Antiqua",
+  "last_modified": 1456214400000,
+  "size": 280040,
+  "weight_class": 300
+}

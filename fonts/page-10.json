@@ -1,0 +1,777 @@
+[
+  {
+    "name": "Delius Swash Caps",
+    "folder": "delius_swash_caps",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Kristi",
+    "folder": "kristi",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Clicker Script",
+    "folder": "clicker_script",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Concert One",
+    "folder": "concert_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Nova Mono",
+    "folder": "nova_mono",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "greek",
+      "latin"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Maiden Orange",
+    "folder": "maiden_orange",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Shojumaru",
+    "folder": "shojumaru",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Sniglet",
+    "folder": "sniglet",
+    "variants": [
+      "regular",
+      "800"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Caveat Brush",
+    "folder": "caveat_brush",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1444028400000
+  },
+  {
+    "name": "Cherry Swash",
+    "folder": "cherry_swash",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Itim",
+    "folder": "itim",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "vietnamese",
+      "latin",
+      "thai"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1438844400000
+  },
+  {
+    "name": "IM Fell Double Pica",
+    "folder": "im_fell_double_pica",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cambo",
+    "folder": "cambo",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Codystar",
+    "folder": "codystar",
+    "variants": [
+      "300",
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Sofia",
+    "folder": "sofia",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Rouge Script",
+    "folder": "rouge_script",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cedarville Cursive",
+    "folder": "cedarville_cursive",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Coda Caption",
+    "folder": "coda_caption",
+    "variants": [
+      "800"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Sumana",
+    "folder": "sumana",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1430722800000
+  },
+  {
+    "name": "Galindo",
+    "folder": "galindo",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Ledger",
+    "folder": "ledger",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Amethysta",
+    "folder": "amethysta",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Oldenburg",
+    "folder": "oldenburg",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Nosifer",
+    "folder": "nosifer",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Ruslan Display",
+    "folder": "ruslan_display",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Tulpen One",
+    "folder": "tulpen_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Zeyada",
+    "folder": "zeyada",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Swanky and Moo Moo",
+    "folder": "swanky_and_moo_moo",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Amarante",
+    "folder": "amarante",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "IM Fell French Canon",
+    "folder": "im_fell_french_canon",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Aguafina Script",
+    "folder": "aguafina_script",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Raleway Dots",
+    "folder": "raleway_dots",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Milonga",
+    "folder": "milonga",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Flamenco",
+    "folder": "flamenco",
+    "variants": [
+      "300",
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cantora One",
+    "folder": "cantora_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Share Tech Mono",
+    "folder": "share_tech_mono",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Mallanna",
+    "folder": "mallanna",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "telugu",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Vast Shadow",
+    "folder": "vast_shadow",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Biryani",
+    "folder": "biryani",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1429686000000
+  },
+  {
+    "name": "Martel",
+    "folder": "martel",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1429686000000
+  },
+  {
+    "name": "Rammetto One",
+    "folder": "rammetto_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Junge",
+    "folder": "junge",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Palanquin Dark",
+    "folder": "palanquin_dark",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Gurajada",
+    "folder": "gurajada",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "telugu",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Henny Penny",
+    "folder": "henny_penny",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Metamorphous",
+    "folder": "metamorphous",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Martel Sans",
+    "folder": "martel_sans",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1449561600000
+  },
+  {
+    "name": "Medula One",
+    "folder": "medula_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Palanquin",
+    "folder": "palanquin",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Stint Ultra Expanded",
+    "folder": "stint_ultra_expanded",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  }
+]

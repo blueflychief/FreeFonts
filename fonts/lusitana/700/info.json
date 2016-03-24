@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Ana Paula Megda",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Lusitana",
+  "font_family_name": "Lusitana",
+  "full_font_name": "Lusitana Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Lusitana-Bold",
+  "trademark": "Lusitana is a trademark of Ana Paula Megda.",
+  "manufacturer": "Ana Paula Megda",
+  "designer": "Ana Paula Megda",
+  "designer_url": "www.anamegda.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Lusitana is inspired by the type found in the 1572 first edition of \"The Lusiads\", a Portuguese epic poem by Luís Vaz de Camões. This typeface is made for long texts at small sizes.",
+  "last_modified": 1456214400000,
+  "size": 29284,
+  "weight_class": 700
+}

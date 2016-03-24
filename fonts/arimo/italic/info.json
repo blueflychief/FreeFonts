@@ -1,0 +1,35 @@
+{
+  "subsets": [
+    "hebrew",
+    "cyrillic",
+    "latin-ext",
+    "greek",
+    "vietnamese",
+    "latin",
+    "cyrillic-ext",
+    "greek-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Steve Matteson",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Arimo",
+  "font_family_name": "Arimo",
+  "full_font_name": "Arimo Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Arimo-Italic",
+  "trademark": "Arimo is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+  "manufacturer": "Monotype Imaging Inc.",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase",
+  "vendor_url": "http://www.monotypeimaging.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.23",
+  "description": "Arimo was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial™. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in May 2013 with improved hinting and released under the Apache 2.0 license.",
+  "last_modified": 1456214400000,
+  "size": 441484,
+  "weight_class": 400
+}

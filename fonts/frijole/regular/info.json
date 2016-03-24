@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Frijole",
+  "font_family_name": "Frijole",
+  "full_font_name": "Frijole",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Frijole",
+  "trademark": "Frijole is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "What\u0027s on your font menu tonight? The same old boring beans? Then why not try Frijole! Its a fresh new face that\u0027s anything but re-fried. And it\u0027s sure to be a hit when you\u0027re cooking up something that needs to be bold, spicy and satisfying! Another fresh font from Squid and Sideshow.",
+  "last_modified": 1456214400000,
+  "size": 227860,
+  "weight_class": 400
+}

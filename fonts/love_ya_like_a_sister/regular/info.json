@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Kimberly Geswein",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Love Ya Like A Sister",
+  "font_family_name": "Love Ya Like A Sister",
+  "full_font_name": "Love Ya Like A Sister Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "LoveYaLikeASister-Regular",
+  "trademark": "Love Ya Like A Sister is a trademark of Kimberly Geswein.",
+  "manufacturer": "Kimberly Geswein",
+  "designer": "Kimberly Geswein",
+  "designer_url": "http://www.kimberlygeswein.com",
+  "vendor_url": "http://www.kimberlygeswein.com",
+  "license_desciption": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002 2007",
+  "description": "My older sister Emily and I have been inseparable best friends for years. As children, we signed notes to each other with \u0027Love Ya Like a Sister\u0027 and then giggled at the irony of writing that when we were, in actuality, sisters. This nerdy habit has continued for years. I created this font to honor my friendship with Emily and the many ways she has inspired me and taught me in life.",
+  "last_modified": 1456214400000,
+  "size": 271924,
+  "weight_class": 400
+}

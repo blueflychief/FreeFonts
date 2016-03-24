@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Denis Jacquerye",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Molengo",
+  "font_family_name": "Molengo",
+  "full_font_name": "Molengo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Molengo-Regular",
+  "trademark": "Molengo",
+  "manufacturer": "moyogo",
+  "designer": "moyogo",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/ofl",
+  "version_string": "Version 0.11; ttfautohint (v0.8) -G 32 -r 16 -x",
+  "description": "Molengo is a Latin typeface for documents. It is multilingual and has some features required by many minority languages such as non-spacing mark placement. The font is produced with FontForge. The glyphs are designed in a CFF file but the production file is a TTF file with hinting instructions made with Xgridfit.",
+  "last_modified": 1456214400000,
+  "size": 65464,
+  "weight_class": 400
+}

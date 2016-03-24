@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Carter One",
+  "font_family_name": "Carter One",
+  "full_font_name": "Carter One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CarterOne",
+  "trademark": "Carter One is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Carter is a reworking of particular casual typeforms that were popular around the mid Twentieth Century, often found used areas such advertising or pulp fiction book covers. The letter forms of Carter have been reshaped and digitised for use as a webfont, the counters have been opened up a little and the stems optimised for use as display font for modern web browsers.",
+  "last_modified": 1456214400000,
+  "size": 66532,
+  "weight_class": 400
+}

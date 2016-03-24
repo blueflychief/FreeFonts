@@ -1,0 +1,21 @@
+{
+  "subsets": [
+    "khmer"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Danh Hong",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Taprom",
+  "font_family_name": "Taprom",
+  "full_font_name": "Taprom",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Taprom",
+  "version_string": "Version 3.10 December 28, 2010",
+  "description": "The Taprom fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong, has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "last_modified": 1428044400000,
+  "size": 331876,
+  "weight_class": 400
+}

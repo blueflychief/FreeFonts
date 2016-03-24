@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "John Vargas Beltrán",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Boogaloo",
+  "font_family_name": "Boogaloo",
+  "full_font_name": "Boogaloo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Boogaloo-Regular",
+  "trademark": "Boogaloo is a trademark of John Vargas Beltran.",
+  "manufacturer": "John Vargas Beltran",
+  "designer": "John Vargas Beltran",
+  "designer_url": "www.johnvargasbeltran.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Boogaloo was started in 2010 as a complement to the Salsa typeface, while thinking about type used in Latin American music genres and the culture\u0027s own identity. The structure of Boogaloo is that of classic American lettering, found so often in old LP albums cover art from the 1960s, when Latin music became very popular and preceding the birth of the musical phenomenon of Salsa. Functionally this typeface can be used to display texts that wish to remind readers of the 1960s, Latin music. There is movement, coolness and happiness across all its forms.",
+  "last_modified": 1456214400000,
+  "size": 33928,
+  "weight_class": 400
+}

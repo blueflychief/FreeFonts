@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Julia Petretta",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Kreon",
+  "font_family_name": "Kreon",
+  "full_font_name": "Kreon Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Kreon-Bold",
+  "trademark": "Kreon is a trademark of Julia Petretta.",
+  "manufacturer": "Julia Petretta",
+  "designer": "Julia Petretta",
+  "designer_url": "www.juliapetretta.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Kreon targets text typesetting for magazines and news sites. With a slight slab-serif look and the low contrast design, it is a sturdy typeface for your website, blog or online magazine. Its friendly feel will soon be accompanied by a sans serif as well as italics. Enjoy.",
+  "last_modified": 1456214400000,
+  "size": 38220,
+  "weight_class": 700
+}

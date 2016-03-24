@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "greek",
+    "latin",
+    "cyrillic-ext",
+    "greek-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Daniel Johnson",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Didact Gothic",
+  "font_family_name": "Didact Gothic",
+  "full_font_name": "Didact Gothic",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DidactGothic",
+  "version_string": "Version 20110429 ",
+  "description": "Didact Gothic is a sans-serif font designed to present each letter in the form most often used in elementary classrooms. This makes it suitable for literacy efforts.",
+  "last_modified": 1456214400000,
+  "size": 246244,
+  "weight_class": 400
+}

@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Candal",
+  "font_family_name": "Candal",
+  "full_font_name": "Candal",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Candal",
+  "trademark": "Candal is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Candal is an original and fun sans serif type design by Vernon Adams which was inspired by historical types.",
+  "last_modified": 1456214400000,
+  "size": 32816,
+  "weight_class": 400
+}

@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Aladin",
+  "font_family_name": "Aladin",
+  "full_font_name": "Aladin Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Aladin-Regular",
+  "trademark": "Aladin is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Aladin is a calligraphic art deco face with an eastern touch, designed by Angel Koziupa and produced by Alejandro Paul. Casual, airy counters and friendly terminals give it an advantage as a packaging font for exotic coffees and teas. It also serves quite well on posters and book jackets where relaying the famous sense of Eastern hospitality and playfulness is a must.",
+  "last_modified": 1456214400000,
+  "size": 42160,
+  "weight_class": 400
+}

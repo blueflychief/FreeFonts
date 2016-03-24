@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Viktoriya Grabowska",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Armata",
+  "font_family_name": "Armata",
+  "full_font_name": "Armata-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Armata-Regular",
+  "trademark": "Armata is a trademark of Sorkin Type Co.",
+  "manufacturer": "Viktoriya Grabowska",
+  "designer": "Viktoriya Grabowska",
+  "designer_url": "www.vikaniesiada.blogspot.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Armata is a low contrast sans serif text face. In Aramata we find a mixture of a the familiar shapes and an aesthetic steadiness and strength with a small number of innovative and delicate gestures. Armata can be used in a wide range of sizes.",
+  "last_modified": 1456214400000,
+  "size": 90596,
+  "weight_class": 400
+}

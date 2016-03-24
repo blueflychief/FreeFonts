@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "MADType",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Lustria",
+  "font_family_name": "Lustria",
+  "full_font_name": "Lustria",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Lustria-Regular",
+  "trademark": "Lustria is a trademark of Matthew Desmond.",
+  "manufacturer": "Matthew Desmond",
+  "designer": "Matthew Desmond",
+  "designer_url": "http://www.madtype.com",
+  "vendor_url": "http://www.madtype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.001",
+  "description": "Lustria is a rounded-serif text typeface with details that make it interesting to use at larger display sizes as well. Started in 1999, this typeface has been aged to perfection and is finally ready for public consumption.",
+  "last_modified": 1456214400000,
+  "size": 37400,
+  "weight_class": 400
+}

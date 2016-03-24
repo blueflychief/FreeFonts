@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Rubik Mono One",
+    "folder": "rubik_mono_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Megrim",
+    "folder": "megrim",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Titan One",
+    "folder": "titan_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Over the Rainbow",
+    "folder": "over_the_rainbow",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Mountains of Christmas",
+    "folder": "mountains_of_christmas",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Lily Script One",
+    "folder": "lily_script_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "IM Fell English",
+    "folder": "im_fell_english",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Podkova",
+    "folder": "podkova",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Kotta One",
+    "folder": "kotta_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Share Tech",
+    "folder": "share_tech",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Averia Serif Libre",
+    "folder": "averia_serif_libre",
+    "variants": [
+      "300",
+      "300italic",
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Norican",
+    "folder": "norican",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Patrick Hand SC",
+    "folder": "patrick_hand_sc",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "vietnamese",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Karma",
+    "folder": "karma",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Shanti",
+    "folder": "shanti",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Geo",
+    "folder": "geo",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Holtwood One SC",
+    "folder": "holtwood_one_sc",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Seaweed Script",
+    "folder": "seaweed_script",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Carrois Gothic SC",
+    "folder": "carrois_gothic_sc",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Buenard",
+    "folder": "buenard",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Iceland",
+    "folder": "iceland",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Life Savers",
+    "folder": "life_savers",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Stardos Stencil",
+    "folder": "stardos_stencil",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Salsa",
+    "folder": "salsa",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Expletus Sans",
+    "folder": "expletus_sans",
+    "variants": [
+      "regular",
+      "italic",
+      "500",
+      "500italic",
+      "600",
+      "600italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Griffy",
+    "folder": "griffy",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Dorsa",
+    "folder": "dorsa",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Quintessential",
+    "folder": "quintessential",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Federo",
+    "folder": "federo",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Unna",
+    "folder": "unna",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Italiana",
+    "folder": "italiana",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Condiment",
+    "folder": "condiment",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Stalemate",
+    "folder": "stalemate",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Tienne",
+    "folder": "tienne",
+    "variants": [
+      "regular",
+      "700",
+      "900"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Gabriela",
+    "folder": "gabriela",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "IM Fell English SC",
+    "folder": "im_fell_english_sc",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Voces",
+    "folder": "voces",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Fondamento",
+    "folder": "fondamento",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Suwannaphum",
+    "folder": "suwannaphum",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "khmer"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1428303600000
+  },
+  {
+    "name": "Meddon",
+    "folder": "meddon",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1439362800000
+  },
+  {
+    "name": "NTR",
+    "folder": "ntr",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "telugu",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Bilbo Swash Caps",
+    "folder": "bilbo_swash_caps",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Kurale",
+    "folder": "kurale",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1431586800000
+  },
+  {
+    "name": "Hind Vadodara",
+    "folder": "hind_vadodara",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "gujarati"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1441782000000
+  },
+  {
+    "name": "Kite One",
+    "folder": "kite_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Fira Mono",
+    "folder": "fira_mono",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "greek",
+      "latin",
+      "cyrillic-ext"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1428303600000
+  },
+  {
+    "name": "Mate SC",
+    "folder": "mate_sc",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Sail",
+    "folder": "sail",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456300800000
+  },
+  {
+    "name": "Inika",
+    "folder": "inika",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Dawning of a New Day",
+    "folder": "dawning_of_a_new_day",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  }
+]

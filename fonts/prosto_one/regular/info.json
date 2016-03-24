@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Prosto One",
+  "font_family_name": "Prosto One",
+  "full_font_name": "Prosto One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ProstoOne-Regular",
+  "trademark": "Prosto One is a trademark of Pavel Emelyanov and Jovanny Lemonad.",
+  "manufacturer": "Pavel Emelyanov and Jovanny Lemonad",
+  "designer": "Pavel Emelyanov and Jovanny lemonad",
+  "designer_url": "http://jovanny.ru",
+  "vendor_url": "http://jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "This font was created during a 6 month collaboration by two designers in Russia, Jovanny Lemonad and Pavel Emelyanov. They wanted to make a modern \u0027accidental grotesque,\u0027 useful for logos and presentations. The project\u0027s initiator and chief designer is Pavel Emelyanov, who worked with his mentor Ivan Gladkikh, known as Jovanny Lemonad, who helped with technical expertize to finalize the font. To contribute to the project contact Jovanny Lemonad and Pavel Emelyanov.",
+  "last_modified": 1456214400000,
+  "size": 96868,
+  "weight_class": 400
+}

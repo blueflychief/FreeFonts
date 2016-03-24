@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Impallari Type",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Life Savers",
+  "font_family_name": "Life Savers",
+  "full_font_name": "Life Savers Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "LifeSavers-Bold",
+  "trademark": "Life Savers is a trademark of Pablo Impallari.",
+  "manufacturer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.001; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+  "description": "Do you remember the \"Life Savers\" candies adds from the 50s? That was a time when Ad Agencies actually hired Lettering Artist for they advertising text. Before the advent of Photo Typesetting, all the text was beautifully drawn by hand. We are going to put some love to work and bring back the Life Savers hand-lettered Typewriter/Stymie mix. Probably drawn originally by Frazier Purdy for the Sam Marsh Studio. Bold weight added in December 2012.",
+  "last_modified": 1456214400000,
+  "size": 179816,
+  "weight_class": 700
+}

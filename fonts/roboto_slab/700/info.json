@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "greek",
+    "vietnamese",
+    "latin",
+    "cyrillic-ext",
+    "greek-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Christian Robertson",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Roboto Slab",
+  "font_family_name": "Roboto Slab",
+  "full_font_name": "Roboto Slab Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "RobotoSlab-Bold",
+  "trademark": "Roboto Slab is a trademark of Google.",
+  "designer": "Google",
+  "designer_url": "Christian Robertson",
+  "vendor_url": "Google.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.100263; 2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -G 200 -x 14 -w \"\" -W",
+  "description": "Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves. While some grotesks distort their letterforms to force a rigid rhythm, Roboto doesn’t compromise, allowing letters to be settled into their natural width. This makes for a more natural reading rhythm more commonly found in humanist and serif types. This is the Roboto Slab family, which can be used alongside the normal Roboto family and the Roboto Condensed family.",
+  "last_modified": 1456214400000,
+  "size": 170616,
+  "weight_class": 700
+}

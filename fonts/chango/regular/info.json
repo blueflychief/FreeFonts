@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Fontstage",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Chango",
+  "font_family_name": "Chango",
+  "full_font_name": "Chango Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Chango-Regular",
+  "trademark": "Chango is a trademark of Fontstage.",
+  "manufacturer": "Fontstage",
+  "designer": "Manuel Lupez",
+  "designer_url": "www.fontstage.com",
+  "vendor_url": "www.fontstage.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Chango is a display face based on letters drawn by Mexican illustrator Ernesto “Chango” García Cabral. It’s big and heavy, ideal for head-line body sizes with a humorous touch.",
+  "last_modified": 1456214400000,
+  "size": 40732,
+  "weight_class": 400
+}

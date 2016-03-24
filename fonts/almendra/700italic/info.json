@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Ana Sanfelippo",
+  "varient": "700italic",
+  "kind": "webfonts#webfont",
+  "family": "Almendra",
+  "font_family_name": "Almendra",
+  "full_font_name": "Almendra Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Almendra-BoldItalic",
+  "trademark": "Almendra is a trademark of Ana Sanfelippo.",
+  "manufacturer": "Ana Sanfelippo",
+  "designer": "Ana Sanfelippo",
+  "designer_url": "www.anasanfelippo.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Almendra is a typeface design based on calligraphy. Its style is related to the chancery and gothic hands. It is intended to be used in long texts, especially young children\u0027s literature. Almendra\u0027s black and white forms generate a nice texture in small sizes, while its many details appear when given the opportunity in huge sizes. The main challenge was to make compatible dialectic elements, especially balancing legibility and formal identity. Almendra was selected to be exhibited at the Bienal Iberoamericana de Diseo in 2010 and was part of the German editorial project Typodarium 2012. This is the Regular family, and there are sister Small Cap and Display families.",
+  "last_modified": 1456214400000,
+  "size": 35496,
+  "weight_class": 700
+}

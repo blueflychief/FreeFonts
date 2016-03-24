@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Indian Type Foundry",
+  "varient": "500",
+  "kind": "webfonts#webfont",
+  "family": "Teko",
+  "font_family_name": "Teko Medium",
+  "full_font_name": "Teko Medium",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Teko-Medium",
+  "trademark": "Teko is a trademark of Indian Type Foundry.",
+  "manufacturer": "Indian Type Foundry",
+  "designer": "Manushi Parikh, Jonny Pinhorn",
+  "designer_url": "http://www.indiantypefoundry.com",
+  "vendor_url": "http://www.indiantypefoundry.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.105;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+  "description": "Teko is an Open Source typeface that currently supports the Devanagari and Latin scripts. This font family has been created for use in headlines and other display-sized text on screen. Five font styles make up the initial release. Display families with extensive character sets are rare for any script. With Indian typefaces, however, large character sets are even less common. ITF’s designs are an exception. The Teko typeface features letterforms with low stroke contrast, square proportions and a structure that appears visually simple. The Regular, Medium and Semibold fonts are recommended for use in long headlines, while Bold is intended primarily for setting just one or two words. The Light is a beautiful variant that may be put to exceptionally good use in large headlines on websites. At display sizes, Teko works equally well on screen or in print. Each font contains 1090 glyphs, offering full support for the conjuncts and ligatures required by languages written with the Devanagari script. Teko is an excellent choice for use in advertising or for news tickers on television screens (breaking news, etc.) Manushi Parikh designed the Teko typeface for the Indian Type Foundry, who published it in 2014.",
+  "last_modified": 1456214400000,
+  "size": 310328,
+  "weight_class": 500
+}

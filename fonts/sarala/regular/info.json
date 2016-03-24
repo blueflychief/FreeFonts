@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Andres Torresi",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Sarala",
+  "font_family_name": "Sarala",
+  "full_font_name": "Sarala",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sarala-Regular",
+  "trademark": "Sarala is a trademark of Andres Torresi (huertatipografica.com.ar).",
+  "manufacturer": "Huerta Tipografica",
+  "designer": "Andres Torresi",
+  "designer_url": "http://www.huertatipografica.com",
+  "vendor_url": "http://www.huertatipografica.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004;PS 001.003;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G",
+  "description": "Sarala is a Devanagari typeface family designed by Andrés Torresi and Carolina Giovagnoli for Huerta Tipográfica. It is based on the original Latin typeface Telex, a sans serif typeface for text. It is a humanist sans serif design, conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness. Thanks to José Nicolás Silva, Vaishnavi Murthy and Erin McLaughlin for their feedback. The Sarala project is led by Andrés Torresi, a type designer based in Argentina. To contribute, see github.com/andrestelex/sarala",
+  "last_modified": 1434524400000,
+  "size": 241592,
+  "weight_class": 400
+}

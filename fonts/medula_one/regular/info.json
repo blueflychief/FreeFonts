@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "LatinoType",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Medula One",
+  "font_family_name": "Medula One",
+  "full_font_name": "Medula One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MedulaOne-Regular",
+  "trademark": "Medula is a trademark of LatinoType Limitada.",
+  "manufacturer": "Luciano Vergara",
+  "designer": "Luciano Vergara",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Medula One is a friendly rhythmic sans serif with brush-like end strokes. Economical and capable of straightforward display work, Medula One remixes the old and the new, the organic and the modern into a fresh and versatile condensed typeface.",
+  "last_modified": 1456214400000,
+  "size": 33684,
+  "weight_class": 400
+}

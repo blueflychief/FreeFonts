@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Englebert",
+  "font_family_name": "Englebert",
+  "full_font_name": "Englebert",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Englebert-Regular",
+  "trademark": "Englebert is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Englebert draws inspiration from the title screen of the 1930\u0027s film titled Der blue Engel, starring Marlene Dietrich. It is casual and playful in a mild manner, yet striking enough to catch the eye. To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 53048,
+  "weight_class": 400
+}

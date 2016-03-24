@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Audiowide",
+  "font_family_name": "Audiowide",
+  "full_font_name": "Audiowide",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Audiowide-Regular",
+  "trademark": "Audiowide is a trademark of Astigmatic.",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Audiowide is a sans serif, technology styled, typeface composed of soft corner tubular forms. With vague nods to letter styles like that of Handel Gothic and the Converse logo, Audiowide veers off in a direction of its own for a slightly more techno-futuristic and yet cleanly readable typestyle. Designed by Brian J. Bonislawsky for Astigmatic (AOETI). Audiowide is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 70900,
+  "weight_class": 400
+}

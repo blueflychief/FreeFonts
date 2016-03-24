@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Nicole Fally",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Ovo",
+  "font_family_name": "Ovo",
+  "full_font_name": "Ovo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ovo",
+  "trademark": "Ovo is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Ovo was inspired by a set of hand lettered caps seen in a 1930\u0027s lettering guide. The capitals suggested the time in which they were made because of the soft serif treatment used. This detail and a subtle casual feeling creeping into the otherwise classical forms led to the soft genial lowercase and the whimsical numbers now seen in Ovo. Ovo is a medium contrast serif font. Because of the old style variable letter widths and subtle detail it will work best at medium to large sizes.",
+  "last_modified": 1456214400000,
+  "size": 50864,
+  "weight_class": 400
+}

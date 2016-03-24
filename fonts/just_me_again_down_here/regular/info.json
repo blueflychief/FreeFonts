@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Kimberly Geswein",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Just Me Again Down Here",
+  "font_family_name": "Just Me Again Down Here",
+  "full_font_name": "Just Me Again Down Here",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "JustMeAgainDownHere",
+  "trademark": "Just Me Again Down Here is a trademark of Kimberly Geswein.",
+  "manufacturer": "Kimberly Geswein",
+  "designer": "Kimberly Geswein",
+  "designer_url": "http://kimberlygeswein.com",
+  "vendor_url": "http://kimberlygeswein.com",
+  "license_desciption": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+  "license_url": " http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002 2007",
+  "description": "Just Me Again Down Here was created a few weeks after my family and I moved to China, using a Wacom Tablet and Adobe Illustrator. This is my “messy” handwriting with mixed capitals and irregularities. After moving to China and finding myself without the ability to communicate in my new home country’s language, creating a font was something that reminded me that I did know how to do something and I would survive those first confusing weeks abroad.",
+  "last_modified": 1456214400000,
+  "size": 72060,
+  "weight_class": 400
+}

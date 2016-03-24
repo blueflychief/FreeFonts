@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "greek",
+    "latin",
+    "cyrillic-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Jonas Hecksher",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Play",
+  "font_family_name": "Play",
+  "full_font_name": "Play Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Play-Bold",
+  "trademark": "Play is a trademark of Jonas Hecksher, Playtype, e-types AS.",
+  "manufacturer": "Jonas Hecksher, Playtype, e-types AS",
+  "designer": "Jonas Hecksher",
+  "designer_url": "http://www.e-types.com",
+  "vendor_url": "http://www.playtype.com",
+  "license_desciption": "Available under SIL OFL v1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003; ttfautohint (v1.5) -l 7 -r 28 -G 50 -x 13 -D latn -f cyrl -w G -X \"\"",
+  "description": "Play is a minimalistic sans serif typeface designed by Jonas Hecksher during his time as Type Director of Playtype Type Foundry. All letters in Play derive from the \u0027O\u0027 – square and circular at the same time. Play is designed with large, open counters, ample lowercase x-heights and a corporate, yet friendly appearance. The combination of these qualities give Play both a high legibility and readability. Updated: February 2016 to version 1.003, removing faulty kern table and updating name table metadata, and applying ttfautohint hinting for Windows Firefox.",
+  "last_modified": 1456214400000,
+  "size": 218176,
+  "weight_class": 700
+}

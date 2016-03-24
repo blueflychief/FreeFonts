@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Onur Yazıcıgil",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Duru Sans",
+  "font_family_name": "Duru Sans",
+  "full_font_name": "Duru Sans Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DuruSans-Regular",
+  "trademark": "Duru is a trademark of Sorkin Type Co.",
+  "manufacturer": "Onur Yazõcõgil",
+  "designer": "Onur Yazõcõgil",
+  "designer_url": "http://onuryazicigil.com",
+  "vendor_url": "http://www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Duru Sans is low contrast a classic 20th century style sans design. Duru Sans is a new take on mixing the humanist urge with the modernist one. Duru Sans also somehow manages to be elegant and a workhorse type at the same time. Duru Sans can be used at a wide range of sizes.",
+  "last_modified": 1456214400000,
+  "size": 88088,
+  "weight_class": 400
+}

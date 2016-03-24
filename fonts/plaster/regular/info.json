@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Eben Sorkin",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Plaster",
+  "font_family_name": "Plaster",
+  "full_font_name": "Plaster",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Plaster-Regular",
+  "trademark": "Plaster is a trademark of Sorkin Type Co.",
+  "manufacturer": "Eben Sorkin",
+  "designer": "Eben Sorkin",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.007",
+  "description": "Plaster is a very low contrast extremely geometric design done in the tradition of the work of Joseph Albers. However many of the solutions to the glyph design vary from Alber\u0027s choices. Plaster is suitable for use in medium to large sizes including headlines. This font deviates from most similar fonts because the space between letters is larger. The gaps in the stencil style letters makes letter identification more difficult. A wider letter space helps make the letters easy to read again.",
+  "last_modified": 1456214400000,
+  "size": 32852,
+  "weight_class": 400
+}

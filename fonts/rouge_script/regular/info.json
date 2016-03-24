@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sabrina Mariela Lopez",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Rouge Script",
+  "font_family_name": "Rouge Script",
+  "full_font_name": "Rouge Script",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RougeScript-Regular",
+  "trademark": "Rouge Script is a trademark of Typesenses",
+  "manufacturer": "Typesenses",
+  "designer": "Sabrina Mariela Lopez",
+  "designer_url": "www.typesenses.com",
+  "vendor_url": "www.typesenses.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Rouge Script is a formal script type, initiall drawn by hand with a copperplate nib and redrawn with the termination style of a brush script. This gives it the flavor of a casual script. It is very soft and has fast curves, while its low slant angle makes it very legible and improves the render on-screen. It works perfectly for titles or short phrases in branding, magazines, food, feminine and fashion related typography.",
+  "last_modified": 1456214400000,
+  "size": 46752,
+  "weight_class": 400
+}

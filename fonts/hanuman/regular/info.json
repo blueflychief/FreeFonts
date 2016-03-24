@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "khmer"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Danh Hong",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Hanuman",
+  "font_family_name": "Hanuman",
+  "full_font_name": "Hanuman",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Hanuman",
+  "manufacturer": "Danh Hong",
+  "designer": "Danh Hong",
+  "designer_url": "http://www.khmertype.blogspot.com/",
+  "vendor_url": "http://www.khmertype.blogspot.com/",
+  "version_string": "Version 2.00 August 13, 2011",
+  "description": "The Hanuman fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong, has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language. Updated August 2015: Regular and Bold styles were updated to allow document embedding.",
+  "last_modified": 1456214400000,
+  "size": 128376,
+  "weight_class": 300
+}

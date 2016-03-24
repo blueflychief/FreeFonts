@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Kimberly Geswein",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Give You Glory",
+  "font_family_name": "Give You Glory",
+  "full_font_name": "Give You Glory",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GiveYouGlory",
+  "trademark": "Give You Glory is a trademark of Kimberly Geswein.",
+  "manufacturer": "Kimberly Geswein",
+  "designer": "Kimberly Geswein",
+  "designer_url": "http://kimberlygeswein.com",
+  "vendor_url": "http://kimberlygeswein.com",
+  "license_desciption": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com). This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "This mixed-case font is a quirky, fun font infused with that special “something” that makes it feel authentic. I love that it isn’t perfect or traditional but that it has the flow of real handwriting – complete with the mixed-case style so many of us use in our daily writing.",
+  "last_modified": 1456214400000,
+  "size": 43012,
+  "weight_class": 400
+}

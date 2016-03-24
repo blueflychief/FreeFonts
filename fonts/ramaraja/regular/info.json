@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "telugu",
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Appaji Ambarisha Darbha",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Ramaraja",
+  "font_family_name": "Ramaraja",
+  "full_font_name": "Ramaraja",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ramaraja",
+  "manufacturer": "Andhrapradesh Society for Knowledge Networks",
+  "designer": "Appaji Ambarisha Darbha",
+  "designer_url": "adityafonts.com",
+  "vendor_url": "adityafonts.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0.4; ttfautohint (v1.2.25-373a) -l 7 -r 28 -G 50 -x 13 -D telu -f latn -w G -X \"\"",
+  "description": "Ramaraja is an Open Source typeface supporting both the Telugu and Latin scripts. It was developed mainly for use in news publications and is suitable for text, headings, posters, and invitations. Developed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Ramaraja project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/ramaraja",
+  "last_modified": 1456214400000,
+  "size": 704256,
+  "weight_class": 400
+}

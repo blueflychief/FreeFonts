@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Mystery Quest",
+  "font_family_name": "Mystery Quest",
+  "full_font_name": "Mystery Quest",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MysteryQuest",
+  "trademark": "Mystery Quest is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Grab your gear! Check your nerves! Get ready for Mystery Quest! This far-out funky font brings danger with every curve! You never know what this playful 1960s mod inspired typeface will bring and design adventure is just around the corner! Are you ready? Designed by Dave \u0027Squid\u0027 Cohen of Sideshow (a DBA of Font Diner, Inc.) To contribute to the project, contact the Font Diner.",
+  "last_modified": 1456214400000,
+  "size": 42124,
+  "weight_class": 400
+}

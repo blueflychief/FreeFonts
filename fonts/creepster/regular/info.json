@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Creepster",
+  "font_family_name": "Creepster",
+  "full_font_name": "Creepster",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Creepster-Regular",
+  "trademark": "Creepster is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Its ghastly! Its gory! Its gruesomely gleeful! Its Creepster, the blood-curdling new font from Squid and Sideshow. This fright-filled font has so many alternates its like stitching together your own monster every time you use it. Creepster: Perfect for all of your grisly graphic needs!",
+  "last_modified": 1456214400000,
+  "size": 62724,
+  "weight_class": 400
+}

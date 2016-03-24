@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "TypeSETit",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Alex Brush",
+  "font_family_name": "Alex Brush",
+  "full_font_name": "Alex Brush",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AlexBrush-Regular",
+  "trademark": "Alex Brush is a trademark of TypeSETit, LLC",
+  "manufacturer": "Robert E. Leuschke",
+  "designer": "Robert E. Leuschke",
+  "designer_url": "www.typesetit.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Alex Brush is a beautifully flowing brush script. It has short ascenders and descenders allowing a legibility not seen in other script fonts.",
+  "last_modified": 1456214400000,
+  "size": 49020,
+  "weight_class": 400
+}

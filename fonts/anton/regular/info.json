@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Anton",
+  "font_family_name": "Anton",
+  "full_font_name": "Anton",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Anton",
+  "trademark": "Anton is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Anton is a reworking of a traditional advertising sans serif typeface. The letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Update: Anton was extended from a single bold style into a family in March 2013, named Antonio.",
+  "last_modified": 1456214400000,
+  "size": 42376,
+  "weight_class": 400
+}

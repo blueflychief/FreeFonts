@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Lemon",
+  "font_family_name": "Lemon",
+  "full_font_name": "Lemon Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Lemon-Regular",
+  "trademark": "Lemon is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Lemon is a display typeface with soft and fluid shapes that come from painted street shop signage. The dark weight is ideal for headlines and short texts, and a future release of a lighter weight could be useful for longer text. The uppercase letters are very carefully drawn, making an attractive and unique design for text in all caps, compound words in capital letters, and acronyms. The same dynamic is inherent in the lowercase and numbers!",
+  "last_modified": 1456214400000,
+  "size": 34648,
+  "weight_class": 400
+}

@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Indian Type Foundry",
+  "varient": "500",
+  "kind": "webfonts#webfont",
+  "family": "Laila",
+  "font_family_name": "Laila Medium",
+  "full_font_name": "Laila Medium",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Laila-Medium",
+  "trademark": "Laila is a trademark of Indian Type Foundry.",
+  "manufacturer": "Indian Type Foundry",
+  "designer": "Hitesh Malaviya",
+  "designer_url": "http://www.indiantypefoundry.com",
+  "vendor_url": "http://www.indiantypefoundry.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.301;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+  "description": "Laila is a typeface family supporting the Devanagari and Latin scripts. This is an Open Source font family first published by the Indian Type Foundry in 2014.",
+  "last_modified": 1457938800000,
+  "size": 341724,
+  "weight_class": 500
+}

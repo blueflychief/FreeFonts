@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "creator": "Barry Schwartz",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Fanwood Text",
+  "font_family_name": "Fanwood Text",
+  "full_font_name": "Fanwood Text Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "FanwoodText-Italic",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.101 ",
+  "description": "Based on Fairfield, the typeface first published in 1940 and designed by Rudolph Ruzicka, a famous Czech-American type designer. Fanwood Text roman and italic are the same as Fanwood, but slightly darker and reduced in contrast; this was tailored for increased readability on the Amazon Kindle 3 e-book reader hardware. For more information about the typeface, read the Wikipedia article on Fairfield. The fonts are available from the designer\u0027s own site, Sortmill, with a very liberal MIT-style license, and are made available here and on the League of Movable Type under the SIL OFL, without a Reserved Font Name.",
+  "last_modified": 1456214400000,
+  "size": 96364,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Sorkin Type",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Asset",
+  "font_family_name": "Asset",
+  "full_font_name": "Asset",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Asset",
+  "trademark": "Asset is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Designer: Riccardo De Franceschi Asset was inspired by the engraved letters found on United States dollar bills. Asset belongs to the \"fat face\" category because it is so bold or heavy. It is also a high contrast design and very extended or wide. Although it is legible at medium sizes it will shine most when used large where both its restraint and passion can be seen. This font was made specifically to be web type, however it will work well in print as well.",
+  "last_modified": 1456214400000,
+  "size": 52028,
+  "weight_class": 400
+}

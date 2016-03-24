@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Domine",
+    "folder": "domine",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Old Standard TT",
+    "folder": "old_standard_tt",
+    "variants": [
+      "regular",
+      "italic",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Hammersmith One",
+    "folder": "hammersmith_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Coming Soon",
+    "folder": "coming_soon",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Source Code Pro",
+    "folder": "source_code_pro",
+    "variants": [
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Armata",
+    "folder": "armata",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Rubik",
+    "folder": "rubik",
+    "variants": [
+      "300",
+      "300italic",
+      "regular",
+      "italic",
+      "500",
+      "500italic",
+      "700",
+      "700italic",
+      "900",
+      "900italic"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1437548400000
+  },
+  {
+    "name": "Economica",
+    "folder": "economica",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Satisfy",
+    "folder": "satisfy",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Alfa Slab One",
+    "folder": "alfa_slab_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "ABeeZee",
+    "folder": "abeezee",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Fredoka One",
+    "folder": "fredoka_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Archivo Black",
+    "folder": "archivo_black",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cabin Condensed",
+    "folder": "cabin_condensed",
+    "variants": [
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Covered By Your Grace",
+    "folder": "covered_by_your_grace",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Philosopher",
+    "folder": "philosopher",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Sanchez",
+    "folder": "sanchez",
+    "variants": [
+      "regular",
+      "italic"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Handlee",
+    "folder": "handlee",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Quattrocento",
+    "folder": "quattrocento",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Tinos",
+    "folder": "tinos",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "hebrew",
+      "cyrillic",
+      "latin-ext",
+      "greek",
+      "vietnamese",
+      "latin",
+      "cyrillic-ext",
+      "greek-ext"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Poppins",
+    "folder": "poppins",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin",
+      "devanagari"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Rambla",
+    "folder": "rambla",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Permanent Marker",
+    "folder": "permanent_marker",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Courgette",
+    "folder": "courgette",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Roboto Mono",
+    "folder": "roboto_mono",
+    "variants": [
+      "100",
+      "100italic",
+      "300",
+      "300italic",
+      "regular",
+      "italic",
+      "500",
+      "500italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "greek",
+      "vietnamese",
+      "latin",
+      "cyrillic-ext",
+      "greek-ext"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1432796400000
+  },
+  {
+    "name": "Rock Salt",
+    "folder": "rock_salt",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Kreon",
+    "folder": "kreon",
+    "variants": [
+      "300",
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Ruda",
+    "folder": "ruda",
+    "variants": [
+      "regular",
+      "700",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Acme",
+    "folder": "acme",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Jura",
+    "folder": "jura",
+    "variants": [
+      "300",
+      "regular",
+      "500",
+      "600"
+    ],
+    "subsets": [
+      "cyrillic",
+      "latin-ext",
+      "greek",
+      "latin",
+      "cyrillic-ext"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cookie",
+    "folder": "cookie",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Bevan",
+    "folder": "bevan",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Actor",
+    "folder": "actor",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Varela",
+    "folder": "varela",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Voltaire",
+    "folder": "voltaire",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Cardo",
+    "folder": "cardo",
+    "variants": [
+      "regular",
+      "italic",
+      "700"
+    ],
+    "subsets": [
+      "latin-ext",
+      "greek",
+      "latin",
+      "greek-ext"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Gentium Book Basic",
+    "folder": "gentium_book_basic",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Work Sans",
+    "folder": "work_sans",
+    "variants": [
+      "100",
+      "200",
+      "300",
+      "regular",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1449561600000
+  },
+  {
+    "name": "Shadows Into Light Two",
+    "folder": "shadows_into_light_two",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Paytone One",
+    "folder": "paytone_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Vidaloka",
+    "folder": "vidaloka",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Tangerine",
+    "folder": "tangerine",
+    "variants": [
+      "regular",
+      "700"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Playball",
+    "folder": "playball",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Amaranth",
+    "folder": "amaranth",
+    "variants": [
+      "regular",
+      "italic",
+      "700",
+      "700italic"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "sans-serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Droid Sans Mono",
+    "folder": "droid_sans_mono",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "monospace"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Luckiest Guy",
+    "folder": "luckiest_guy",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "display"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Antic Slab",
+    "folder": "antic_slab",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Great Vibes",
+    "folder": "great_vibes",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Pinyon Script",
+    "folder": "pinyon_script",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin"
+    ],
+    "categories": [
+      "handwriting"
+    ],
+    "last_modified": 1456214400000
+  },
+  {
+    "name": "Fauna One",
+    "folder": "fauna_one",
+    "variants": [
+      "regular"
+    ],
+    "subsets": [
+      "latin-ext",
+      "latin"
+    ],
+    "categories": [
+      "serif"
+    ],
+    "last_modified": 1456214400000
+  }
+]

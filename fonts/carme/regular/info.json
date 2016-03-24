@@ -1,0 +1,23 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Rubén Prol",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Carme",
+  "font_family_name": "Carme",
+  "full_font_name": "Carme Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Carme",
+  "license_desciption": "Copyright (c) 2010-2011, Rubén Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.\r\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.000",
+  "description": "Carme (Version 1.0) is a clean sans-serif font, specially designed for texts. It contains 206 glyphs and it was given visual metrics and kerning. The bold version is about to be released.",
+  "last_modified": 1456214400000,
+  "size": 78028,
+  "weight_class": 400
+}

@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Diplomata",
+  "font_family_name": "Diplomata",
+  "full_font_name": "Diplomata",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Diplomata-Regular",
+  "trademark": "Diplomata is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Diplomata started several years ago when a friend in the printing industry who had an old metal typeface wanted it to be digitalized for offset printing. He brought everything the original type offered as a start, a set of upper case characters, numbers, and some punctuation marks. But what he brought in printed form was not enough to meet his needs, and letterforms that did not exist had to be created. It is a fine job to reinterpret a design, to make decisions on what already exists and also have in mind the changes needed for the new technological context where Diplomata will be used. Its style, similar to Bodoni, has a remarkable degree of horizontal expansion; a weight which indicates verticality; areas between serif and stem softened by a curve connecting them, and the light in the main stroke of each glyph is a detail that lightens up and gives prominence to Diplomata. It is a distinct typeface, ideal for composing headlines and small prestigious pieces of text. To improve and expand the use of Diplomata, it was necessary to create small caps and a lower case, which ended up constituting this family that has two variables today. To contribute to the project contact Eduardo Tunni at edu@tipo.net.ar",
+  "last_modified": 1458716400000,
+  "size": 43320,
+  "weight_class": 400
+}

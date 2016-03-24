@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Riccardo De Franceschi",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Emblema One",
+  "font_family_name": "Emblema One",
+  "full_font_name": "Emblema One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "EmblemaOne-Regular",
+  "trademark": "Emblema One is a trademark of Sorkin Type Co.",
+  "manufacturer": "Riccardo De Franceschi",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.rdftype.it",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Emblema One is inspired by UK Victorian era bold italic display type. It breaks from tradition by using a stenciled kind of construction. The stencil style too is atypical and gives the font its distinctive feeling. Emblema One has been made for display purposes and should be used from medium to large sizes.",
+  "last_modified": 1456214400000,
+  "size": 61832,
+  "weight_class": 400
+}

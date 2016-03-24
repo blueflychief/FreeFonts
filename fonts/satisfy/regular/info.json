@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Satisfy",
+  "font_family_name": "Satisfy",
+  "full_font_name": "Satisfy",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Satisfy",
+  "trademark": "Satisfy is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Looking for a brush script with a little pizazz? This new Sideshow typeface will fill the bill! Satisfy gives you the look of a timeless classic with a unique modern flair. Download this font by designer Squid and you\u0027ll be satisfied!",
+  "last_modified": 1456214400000,
+  "size": 47928,
+  "weight_class": 400
+}

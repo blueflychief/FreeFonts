@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Bowlby One",
+  "font_family_name": "Bowlby One",
+  "full_font_name": "Bowlby One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BowlbyOne",
+  "trademark": "Bowlby One is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "http://www.newtypography.co.uk",
+  "vendor_url": "http://www.newtypography.co.uk",
+  "license_desciption": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\" \"Bowlby One\" and \"Bowlby One SC\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Bowlby One has been designed for use as a utilitarian, all caps display font. A version with lowercase characters is also available. Its forms are a fusion of a handfull of designs scanned from old, early Twentieth Century type specimens. Bowlby One is perfect for big bold headlines and display uses that need a slightly roughened look. Bowlby is a web font, designed to be used freely across the internet by web browsers on desktop computers, laptops, cloud systems and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 61620,
+  "weight_class": 400
+}

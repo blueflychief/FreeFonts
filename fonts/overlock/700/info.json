@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Dario Manuel Muhafara",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Overlock",
+  "font_family_name": "Overlock",
+  "full_font_name": "Overlock-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Overlock-Bold",
+  "trademark": "Overlock is a trademark of Dario Manuel Muhafara.",
+  "manufacturer": "Dario Manuel Muhafara",
+  "designer": "Dario Muhafara",
+  "designer_url": "www.tipo.net.ar",
+  "vendor_url": "www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "The Overlock typeface family was selected by the Letras Latinas Biennal in 2006. The initial idea of this typeface was to simulate the Overlock sewing technique. The special thing about these forms is the warm feeling that they give to your text, because of the particular rounded glyph shapes that emerge. As a result, the Overlock typeface family is great for titles and short texts in magazine style layouts. It looks its very best at bigger sizes. It comes in three weights, Regular, Bold and Black, each with a true italic. It has two set of numbers and small caps which are available as a sister family, Overlock SC.",
+  "last_modified": 1456214400000,
+  "size": 42368,
+  "weight_class": 700
+}

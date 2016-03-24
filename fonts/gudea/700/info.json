@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Agustina Mingote",
+  "varient": "700",
+  "kind": "webfonts#webfont",
+  "family": "Gudea",
+  "font_family_name": "Gudea",
+  "full_font_name": "Gudea Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Gudea-Bold",
+  "trademark": "Gudea is a trademark of Agustina Mingote.",
+  "manufacturer": "Agustina Mingote",
+  "designer": "Agustina Mingote",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Gudea is a readable, clear and functional typeface family, with a simple and condensed structure that brings a pleasant feeling when used at any size. Inspired by engineering documentation, it expresses the technical feeling of graphic information enjoyed by those who are interested in areas such as engineering, land surveying and architecture. Initially this type was developed for use in labels and maps, but it is now a versatile family that seamlessly suits any piece of design.",
+  "last_modified": 1456214400000,
+  "size": 22560,
+  "weight_class": 700
+}

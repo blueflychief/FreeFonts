@@ -1,0 +1,24 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Typomondo",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Butcherman",
+  "font_family_name": "Butcherman",
+  "full_font_name": "Butcherman",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Butcherman-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.003 ",
+  "description": "Butcherman is a zombified display font, hacked and chopped and left for dead, yet still crawling.",
+  "last_modified": 1456214400000,
+  "size": 66344,
+  "weight_class": 400
+}

@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Hubert and Fischer",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Rubik Mono One",
+  "font_family_name": "Rubik Mono One",
+  "full_font_name": "Rubik Mono One Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RubikMonoOne-Regular",
+  "manufacturer": "Hubert and Fischer with Elvire Volk Leonovitch",
+  "designer": "Hubert and Fischer with Elvire Volk Leonovitch",
+  "designer_url": "www.hubertfischer.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert \u0026 Fischer as part of the Chrome Cube Lab project. Rubik Mono One is a monospaced sister of the Black roman style in the Rubik family, which has 5 weights.",
+  "last_modified": 1456214400000,
+  "size": 121204,
+  "weight_class": 400
+}

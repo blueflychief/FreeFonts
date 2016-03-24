@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "James Grieshaber",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Black Ops One",
+  "font_family_name": "Black Ops One",
+  "full_font_name": "BlackOpsOne-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BlackOpsOne-Regular",
+  "trademark": "Black Ops is a trademark of Sorkin Type Co.",
+  "manufacturer": "James Grieshaber",
+  "designer": "James Grieshaber",
+  "designer_url": "www.typeco.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Black Ops is a low contrast semi geometric typeface inspired by military stencil lettering. Black Ops is heavy, sturdy, and punchy. Because of the small cuts found in stencils like this one, Black Ops will look best when used at medium to large sizes.",
+  "last_modified": 1456214400000,
+  "size": 76116,
+  "weight_class": 400
+}

@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Raleway Dots",
+  "font_family_name": "Raleway Dots ",
+  "full_font_name": "Raleway Dots ",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RalewayDots-Regular",
+  "trademark": "Raleway is a trademark of Matt McInerney.",
+  "manufacturer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer_url": "http://pixelspread.com",
+  "vendor_url": "http://theleagueofmoveabletype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "A dotted version of Raleway, for posters and big headlines. It is a display face and the download features both old style and lining numerals, standard and discretionary ligatures, a pretty complete set of diacritics, as well as a stylistic alternate inspired by more geometric sans-serif typefaces than its neo-grotesque inspired default character set. To contribute to the project visit impallari.com/projects.",
+  "last_modified": 1456214400000,
+  "size": 465136,
+  "weight_class": 400
+}

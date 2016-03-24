@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Denis Masharov",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Glass Antiqua",
+  "font_family_name": "Glass Antiqua",
+  "full_font_name": "Glass Antiqua",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GlassAntiqua-Regular",
+  "trademark": "Glass Antiqua is a trademark of Denis Masharov.",
+  "manufacturer": "Denis Masharov",
+  "designer": "Denis Masharov",
+  "designer_url": "denis.masharov@gmail.com",
+  "vendor_url": "denis.masharov@gmail.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.001",
+  "description": "This is revival of the 1913 typeface \"Glass Antiqua\" by \"Genzsch \u0026 Heyse\" found in the Taschen book \"Type: A Visual History of Typefaces and Graphic Styles, 1901-1938.\" A magnificent and unique design with a Jugenstile fleur, combining Slab Serif and Antiqua, plus elements of cursive calligraphy. It is suitable for any purpose, giving a text a retro feel and soft informal look. The character set is extended but the originals are carefully restored, and all are patiently spaced and kerned.",
+  "last_modified": 1456214400000,
+  "size": 63012,
+  "weight_class": 400
+}

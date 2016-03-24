@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "italic",
+  "kind": "webfonts#webfont",
+  "family": "Oregano",
+  "font_family_name": "Oregano",
+  "full_font_name": "Oregano Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Oregano-Italic",
+  "trademark": "Oregano Italic is a trademark of Astigmatic.",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "The Oregano family is based on cartoon style lettering of calligrapher and logo designer Rand Holub. This style of hand lettering adorned many retro brochures and advertisements of the late 40\u0027s through the 1960\u0027s. This approachable vintage spunk-filled lettering style exudes a casual and care free flavor perfect for both on screen and printed materials.",
+  "last_modified": 1456214400000,
+  "size": 87000,
+  "weight_class": 400
+}

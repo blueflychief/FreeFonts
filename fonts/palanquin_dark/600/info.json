@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin",
+    "devanagari"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Pria Ravichandran",
+  "varient": "600",
+  "kind": "webfonts#webfont",
+  "family": "Palanquin Dark",
+  "font_family_name": "Palanquin Dark SemiBold",
+  "full_font_name": "Palanquin Dark SemiBold",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PalanquinDark-SemiBold",
+  "designer": "Pria Ravichandran",
+  "license_desciption": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Palanquin is a Unicode-compliant Latin and Devanagari text type family designed for the digital age. The Devanagari is monolinear and was designed alongside the sans serif Latin. Palanquin Dark is the heavier display family, with 4 weights. Palanquin is a text family with seven text weights. The Palanquin superfamily is versatile and strikes a balance between typographic conventions and that bit of sparkle. Many thanks to Michael for all the technical assistance. Heartfelt thanks to Maggi for the sincere support. The Palanquin project is led by Pria Ravichandran, a type designer from India. To contribute, see github.com/VanillaandCream/Palanquin",
+  "last_modified": 1456214400000,
+  "size": 521908,
+  "weight_class": 600
+}

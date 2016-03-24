@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "cyrillic",
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "creator": "Gaslight",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Bad Script",
+  "font_family_name": "Bad Script",
+  "full_font_name": "Bad Script Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BadScript-Regular",
+  "trademark": "Bad Script is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Roman Shchyukin (Gaslight Type Foundry)",
+  "designer_url": "http://new.myfonts.com/foundry/Gaslight/",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Bad Script started from a simple six-letter logotype and developed into a separate font, supporting Latin and Cyrillic character sets. It was completely made using a tablet to imitate casual and neat handwriting. Designed to resemble the designer\u0027s own handwriting, while making it systematic and smooth. Designed by Roman Shchyukin from Gaslight.",
+  "last_modified": 1456214400000,
+  "size": 54420,
+  "weight_class": 400
+}

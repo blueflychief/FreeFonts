@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "latin-ext",
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "creator": "Fontstage",
+  "varient": "regular",
+  "kind": "webfonts#webfont",
+  "family": "Viga",
+  "font_family_name": "Viga",
+  "full_font_name": "Viga-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Viga-Regular",
+  "trademark": "Viga is a trademark of Fontstage.",
+  "manufacturer": "Fontstage",
+  "designer": "Oscar Yáñez",
+  "designer_url": "www.fontstage.com",
+  "vendor_url": "www.fontstage.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Viga is a sans serif with a good performance on screen. Its anatomy gives it a great personality and also makes it useful for reading on screen.",
+  "last_modified": 1456214400000,
+  "size": 28436,
+  "weight_class": 400
+}
