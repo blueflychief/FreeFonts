@@ -18,3 +18,13 @@ Hundreds of free fonts. Here are just a few of them:
 # <a href="fonts/roboto_slab/regular"><img src="fonts/roboto_slab/regular/preview1.png"></a>
 # <a href="fonts/droid_serif/regular"><img src="fonts/droid_serif/regular/preview1.png"></a>
 # <a href="fonts/arimo/regular"><img src="fonts/arimo/regular/preview1.png"></a>
+
+## Licensing
+
+It is important to always read the license for every font that you use.
+Each font directory contains a json file with information about the font and the licensing.
+The fonts files themselves also contain licensing and authorship metadata.
+
+Most of the fonts in the collection use the SIL Open Font License, v1.1.
+Some fonts use the Apache 2 license. 
+The Ubuntu fonts use the Ubuntu Font License v1.0. 
