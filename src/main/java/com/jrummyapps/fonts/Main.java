@@ -35,8 +35,33 @@ import java.util.Map;
 public class Main {
 
   public static void main(String[] args) throws IOException {
-    downloadAllFonts(false);
-    createJsonFiles();
+    printReadMe();
+  }
+
+  private static void printReadMe() {
+    Gson gson = new GsonBuilder().setPrettyPrinting().create();
+    GoogleWebFonts fonts = GoogleFonts.getGoogleWebFonts(gson, GoogleFonts.Sorting.POPULARITY);
+
+    System.out.println("Hundreds of free fonts. Here are just a few of them:");
+
+    int x = 0;
+    for (GoogleWebFont item : fonts.items) {
+
+      if (!item.files.containsKey("regular")) {
+        continue;
+      }
+
+      String folder = item.family.toLowerCase().replaceAll(" ", "_");
+
+      System.out.println("# <a href=\"fonts/" + folder + "/regular\">" +
+          "<img src=\"fonts/" + folder + "/regular/preview1.png\"></a>");
+
+      if (x == 15) {
+        break;
+      }
+      x++;
+
+    }
   }
 
   private static void createJsonFiles() throws IOException {
