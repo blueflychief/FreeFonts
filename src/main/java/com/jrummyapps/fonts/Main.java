@@ -165,7 +165,7 @@ public class Main {
   }
 
   private static File createApk(File fontFile, String fontName, String filename, String suffix) throws IOException {
-    String cmd = "bash flipfont.bsh \"" + fontFile.getAbsolutePath() + "\" \"" + fontName + "\" \"" + filename + "\"";
+    String cmd = "bash flipfont.sh \"" + fontFile.getAbsolutePath() + "\" \"" + fontName + "\" \"" + filename + "\"";
     if (suffix != null) cmd += " " + suffix;
     CommandLine commandLine = CommandLine.parse(cmd);
     DefaultExecutor defaultExecutor = new DefaultExecutor();
