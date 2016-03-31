@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Brownfox",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Henny Penny",
+  "font_family_name": "Henny Penny",
+  "full_font_name": "Henny Penny",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HennyPenny-Regular",
+  "trademark": "Henny Penny is a trademark of Brownfox",
+  "manufacturer": "Brownfox",
+  "designer": "Olga Umpeleva",
+  "vendor_url": "http://www.brownfox.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Henny Penny is an offbeat display font with loads of personality, named in honour of the fairy-tale character chicken Henny Penny. It is a friendly and playful decorative typeface. Its classical nature is successfully hidden behind its very informal structure: There is no common baseline, no common character size and no common slope of the letters. This makes the typeface very amusing. HennyPenny is a headline typeface for use in large size fonts. It may be used for childrens books, magazines and websites. Designed by Olga Umpeleva for Brownfox. To contribute to the project contact Gayaneh Bagdasaryan.",
+  "last_modified": 1456214400000,
+  "size": 92596,
+  "weight_class": 400,
+  "rank": 500
+}

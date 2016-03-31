@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "display",
+    "sans",
+    "humanist"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Philatype",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Sen",
+  "font_family_name": "Sen",
+  "full_font_name": "Sen",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sen-Regular",
+  "manufacturer": "Philatype",
+  "designer": "Kosal Sen, Philatype",
+  "designer_url": "http://www.philatype.com",
+  "version_string": "Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1435734000000,
+  "size": 22176,
+  "weight_class": 400,
+  "rank": 767
+}

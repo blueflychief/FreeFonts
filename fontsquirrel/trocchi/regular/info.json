@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "headings",
+    "paragraph"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Trocchi",
+  "font_family_name": "Trocchi Bold",
+  "full_font_name": "Trocchi-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Trocchi-Bold",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "version_string": "Version 1.000;PS (version unavailable);hotconv 1.0.57;makeotf.lib2.0.21895 DEVELOPMENT",
+  "last_modified": 1333090800000,
+  "size": 17984,
+  "weight_class": 400,
+  "rank": 298
+}

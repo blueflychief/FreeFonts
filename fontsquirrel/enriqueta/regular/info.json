@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "casual",
+    "contemporary",
+    "humanist",
+    "paragraph",
+    "western"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "FontFuror",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Enriqueta",
+  "font_family_name": "Enriqueta",
+  "full_font_name": "Enriqueta-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Enriqueta-Regular",
+  "trademark": "Enriqueta is a trademark of Viviana Monsalve \u0026 Gustavo Ibarra.",
+  "manufacturer": "Viviana Monsalve, Gustavo Ibarra",
+  "designer": "Viviana Monsalve, Gustavo Ibarra",
+  "designer_url": "www.fontfuror.com",
+  "vendor_url": "www.fontfuror.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1326355200000,
+  "size": 33748,
+  "weight_class": 400,
+  "rank": 452
+}

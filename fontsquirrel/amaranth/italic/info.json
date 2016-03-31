@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Gesine Todt",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Amaranth",
+  "font_family_name": "Amaranth",
+  "full_font_name": "Amaranth-Italic",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Amaranth-Italic",
+  "trademark": "Amaranth is a trademark of Gesine Todt.",
+  "manufacturer": "Gesine Todt",
+  "designer": "Gesine Todt",
+  "designer_url": "http://www.gesine-todt.de",
+  "license_desciption": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1303974000000,
+  "size": 56056,
+  "weight_class": 400,
+  "rank": 88
+}

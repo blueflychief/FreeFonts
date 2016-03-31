@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "classical",
+    "condensed",
+    "display",
+    "oblique",
+    "paragraph",
+    "serif",
+    "small caps",
+    "true italics"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "GUST e-foundry",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Latin Modern Roman",
+  "font_family_name": "LM Roman 10",
+  "full_font_name": "LMRoman10-BoldItalic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "LMRoman10-BoldItalic",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "version_string": "Version 1.106;PS 1.106;hotconv 1.0.49;makeotf.lib2.0.14853",
+  "last_modified": 1230710400000,
+  "size": 114140,
+  "weight_class": 700,
+  "rank": 144
+}

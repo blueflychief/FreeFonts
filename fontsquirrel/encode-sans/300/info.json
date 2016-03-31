@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "condensed",
+    "contemporary",
+    "paragraph",
+    "sans",
+    "humanist",
+    "wide"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Impallari Type",
+  "varient": "300",
+  "source": "fontsquirrel",
+  "family": "Encode Sans",
+  "font_family_name": "Encode Sans",
+  "full_font_name": "Encode Sans Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "EncodeSans-Light",
+  "trademark": "Encode Sans is a trademark of Pablo Impallari.",
+  "manufacturer": "Pablo Impallari, Andres Torresi",
+  "designer": "Pablo Impallari, Andres Torresi",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000; ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G",
+  "last_modified": 1396335600000,
+  "size": 191308,
+  "weight_class": 300,
+  "rank": 362
+}

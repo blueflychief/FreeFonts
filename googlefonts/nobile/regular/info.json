@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Nobile",
+  "font_family_name": "Nobile",
+  "full_font_name": "Nobile",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Nobile-Regular",
+  "trademark": "Nobile is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "version_string": "Version 001.001",
+  "description": "\"Nobile\" is designed to work with the technologies of digital screens and handheld devices without losing the distinctive look more usually found in fonts designed for printing. Going back to William Morris\u0027s baseline \"Have nothing in your house that you do not know to be useful, or believe to be beautiful\", the aim was to design a font that could function well, have good legibility on screen yet also be good looking, not only at larger display sizes but also right down to small text sizes.",
+  "last_modified": 1456214400000,
+  "size": 65140,
+  "weight_class": 400,
+  "rank": 140
+}

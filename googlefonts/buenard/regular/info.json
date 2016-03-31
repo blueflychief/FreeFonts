@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "FontFuror",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Buenard",
+  "font_family_name": "Buenard",
+  "full_font_name": "Buenard",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Buenard-Regular",
+  "trademark": "Buenard is a trademark of FontFuror",
+  "manufacturer": "FontFuror",
+  "designer": "Gustavo Ibarra",
+  "designer_url": "www.fontfuror.com",
+  "vendor_url": "www.fontfuror.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001 2011",
+  "description": "Buenard is a high-quality serif typeface for art books. Its based on the Transitional Roman classical structure, with less contrasted strokes and heavier serifs. It has its own contemporary style, combining elegance, consistency and legibility for all text sizes, making it an excellent choice when selecting a serif font. Buenard was initially designed for an Argentinian art publisher and progressed as a final project in the Postgraduate Career in Typography at the University of Buenos Aires.",
+  "last_modified": 1456214400000,
+  "size": 60188,
+  "weight_class": 400,
+  "rank": 422
+}

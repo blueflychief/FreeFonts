@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Nathan Willis",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Della Respira",
+  "font_family_name": "Della Respira",
+  "full_font_name": "Della Respira",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DellaRespira-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 0.201",
+  "description": "Della Respira a revival of the Della Robbia typeface by American Type Founders (ATF). Della Respira is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Nathan Willis and see the source files on Launchpad.",
+  "last_modified": 1456214400000,
+  "size": 51208,
+  "weight_class": 500,
+  "rank": 568
+}

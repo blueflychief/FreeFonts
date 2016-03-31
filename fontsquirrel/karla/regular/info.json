@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Jonathan Pinhorn",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Karla",
+  "font_family_name": "Karla",
+  "full_font_name": "Karla",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Karla-Regular",
+  "designer": "Jonathan Pinhorn",
+  "designer_url": "jonpinhorn.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1333090800000,
+  "size": 16816,
+  "weight_class": 400,
+  "rank": 529
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Miguel Hernandez",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Erica One",
+  "font_family_name": "Erica One",
+  "full_font_name": "Erica One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "EricaOne-Regular",
+  "trademark": "Erica is a trademark of LatinoType Limitada",
+  "manufacturer": "Miguel Hernandez",
+  "designer": "Miguel Hernandez",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Erica is a voluptuous contemporary tribute to the sans serif work of Eric Gill that is mixed with the painter Botero.",
+  "last_modified": 1456300800000,
+  "size": 26244,
+  "weight_class": 400,
+  "rank": 708
+}

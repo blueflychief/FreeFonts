@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Dario Manuel Muhafara",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Balthazar",
+  "font_family_name": "Balthazar",
+  "full_font_name": "Balthazar Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Balthazar-Regular",
+  "trademark": "Balthazar is a trademark of Dario Manuel Muhafara.",
+  "manufacturer": "Dario Manuel Muhafara",
+  "designer": "Dario Manuel Muhafara",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Balthazar is a contemporary \"Copperplate Gothic like\" serif typeface inspired by the kind of typefaces used by many bistros and cafes in New York City and Paris. Unusually this type includes lowercase letters. The high x-height gives the text a compact look, true to the original Cooperplate Gothic design. The general form is less condensed. It has diagonal stress, and a soft variation in contrast to improve legibility. It is bolder than normal for better rasterization on screen. The typeface works smoothly at text sizes with its delicate serifs, which gives a crisp effect on the screen. At larger sizes it shows a strong personality with the combination of serif details and the modulation of its strokes. It is useful for both short text and headlines, but it is also comfortable for reading on screen. Designed by Dario Muhafara for tipo foundry.",
+  "last_modified": 1456214400000,
+  "size": 28224,
+  "weight_class": 400,
+  "rank": 408
+}

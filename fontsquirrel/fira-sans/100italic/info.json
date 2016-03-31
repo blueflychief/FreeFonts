@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph",
+    "sans",
+    "humanist"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Mozilla",
+  "varient": "100italic",
+  "source": "fontsquirrel",
+  "family": "Fira Sans",
+  "font_family_name": "Fira Sans Eight",
+  "full_font_name": "Fira Sans Eight Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "FiraSans-EightItalic",
+  "trademark": "Fira Sans is a trademark of The Mozilla Corporation.",
+  "manufacturer": "Carrois Corporate GbR \u0026 Edenspiekermann AG",
+  "designer": "Carrois Corporate \u0026 Edenspiekermann AG",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "Licensed under the Open Font License, version 1.1 or later",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 4.106;PS 004.106;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1382598000000,
+  "size": 299920,
+  "weight_class": 100,
+  "rank": 74
+}

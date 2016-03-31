@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Asap",
+  "font_family_name": "Asap",
+  "full_font_name": "Asap Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Asap-BoldItalic",
+  "trademark": "Asap is a trademark of Omnibus-Type.",
+  "manufacturer": "Omnibus-Type",
+  "designer": "Pablo Cosgaya",
+  "designer_url": "www.omnibus-type.com",
+  "vendor_url": "www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap (\"as soon as possible\") there are 4 styles: Regular, Italic, Bold and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya and Hector Gatti), and has been developed with the collaboration of Andrés Torresi.",
+  "last_modified": 1456214400000,
+  "size": 32220,
+  "weight_class": 700,
+  "rank": 56
+}

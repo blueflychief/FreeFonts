@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Rammetto One",
+  "font_family_name": "Rammetto One",
+  "full_font_name": "Rammetto One Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RammettoOne-Regular",
+  "trademark": "Rammetto is a trademark of Vernon Adams.",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "designer_url": "newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Rammetto is a typeface based on the Stephenson Blake uppercase display font, Basuto, released in 1926. The Rammetto design refines some of the old font\u0027s forms, introduces a full set of lowercase characters and adds extended support for European languages.",
+  "last_modified": 1456214400000,
+  "size": 30420,
+  "weight_class": 400,
+  "rank": 488
+}

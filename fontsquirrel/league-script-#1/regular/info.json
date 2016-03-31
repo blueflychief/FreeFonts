@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "casual",
+    "curly",
+    "cursive",
+    "display",
+    "monolinear"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "The League of Moveable Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "League Script #1",
+  "font_family_name": "League Script Thin",
+  "full_font_name": "LeagueScriptThin-LeagueScript",
+  "font_subfamily_name": "League Script",
+  "postscript_name": "LeagueScriptThin-LeagueScript",
+  "version_string": "",
+  "last_modified": 1285311600000,
+  "size": 43756,
+  "weight_class": 400,
+  "rank": 367
+}

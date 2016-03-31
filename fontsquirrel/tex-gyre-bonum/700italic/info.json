@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "classical",
+    "paragraph",
+    "serif",
+    "serif",
+    "transitional",
+    "true italics"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "GUST e-foundry",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "TeX Gyre Bonum",
+  "font_family_name": "TeX Gyre Bonum",
+  "full_font_name": "TeXGyreBonum-BoldItalic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "TeXGyreBonum-BoldItalic",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "version_string": "Version 1.103;PS 1.103;hotconv 1.0.49;makeotf.lib2.0.14853",
+  "last_modified": 1230537600000,
+  "size": 158400,
+  "weight_class": 700,
+  "rank": 671
+}

@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Steve Matteson",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Droid Sans",
+  "font_family_name": "Droid Sans",
+  "full_font_name": "Droid Sans Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "DroidSans-Bold",
+  "trademark": "Droid is a trademark of Google and may be registered in certain jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.00 build 112",
+  "description": "Droid Sans is a humanist sans serif typeface designed by Steve Matteson, Type Director of Ascender Corp. Droid Sans was designed with an upright stress, open forms and a neutral, yet friendly appearance. Droid Sans was optimized for user interfaces and to be comfortable for reading on a mobile handset in menus, web browser and other screen text. More information on the Droid Fonts can be found at http://www.droidfonts.com.",
+  "last_modified": 1456214400000,
+  "size": 42480,
+  "weight_class": 700,
+  "rank": 11
+}

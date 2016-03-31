@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Andreas Kalpakidis",
+  "varient": "600",
+  "source": "googlefonts",
+  "family": "Advent Pro",
+  "font_family_name": "Advent Pro",
+  "full_font_name": "Advent Pro SemiBold",
+  "font_subfamily_name": "SemiBold",
+  "postscript_name": "AdventPro-SemiBold",
+  "trademark": "Advent Pro Thin is a trademark of INDE Andreas Kalpakidis.",
+  "manufacturer": "Andreas Kalpakidis",
+  "designer": "Andreas Kalpakidis",
+  "designer_url": "www.inderesting.com",
+  "vendor_url": "www.inderesting.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.003",
+  "description": "Advent Pro is a modern font designed for web and print. Advent Pro utilizes some of the universal characteristics of a sans-serif font with modern characteristics to give an edge to your typography. The font supports a wide range of languages including Greek, Turkish, English and German.",
+  "last_modified": 1456214400000,
+  "size": 51200,
+  "weight_class": 600,
+  "rank": 252
+}

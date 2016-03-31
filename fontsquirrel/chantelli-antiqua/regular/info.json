@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "calligraphic",
+    "elegant",
+    "handwritten",
+    "medieval",
+    "paragraph",
+    "quill",
+    "serif"
+  ],
+  "classifications": [
+    "calligraphic"
+  ],
+  "creator": "Bernd Montag",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Chantelli Antiqua",
+  "font_family_name": "Chantelli Antiqua",
+  "full_font_name": "Chantelli Antiqua",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Chantelli Antiqua",
+  "version_string": "Version 1.0",
+  "last_modified": 1231401600000,
+  "size": 21348,
+  "weight_class": 400,
+  "rank": 326
+}

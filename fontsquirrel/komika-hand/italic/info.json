@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "all caps",
+    "casual",
+    "display",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "comic"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Komika Hand",
+  "font_family_name": "Komika Hand",
+  "full_font_name": "Komika Hand Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "KomikaHand-Italic",
+  "trademark": "Komika is a trademark of Apostrophic Labs.",
+  "designer": "WolfBainX \u0026 Apostrophe",
+  "designer_url": "mailto:info@apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "2.0",
+  "last_modified": 1230883200000,
+  "size": 81636,
+  "weight_class": 400,
+  "rank": 559
+}

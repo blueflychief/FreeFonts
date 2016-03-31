@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Luciano Vergara",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Julius Sans One",
+  "font_family_name": "Julius Sans One",
+  "full_font_name": "Julius Sans One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "JuliusSansOne-Regular",
+  "trademark": "Julius Sans One is a trademark of LatinoType.",
+  "manufacturer": "LatinoType",
+  "designer": "Luciano Vergara",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002; ttfautohint (v1.3)",
+  "description": "Julius Sans One is a sans serif typeface family from Chilean type foundry LatinoType. Updated, April 2015: hinting was applied (with ttfautohint) and the non-breaking space glyph was adjusted to be the same width as space.",
+  "last_modified": 1456214400000,
+  "size": 42288,
+  "weight_class": 400,
+  "rank": 222
+}

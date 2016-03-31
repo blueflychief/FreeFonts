@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Adamina",
+  "font_family_name": "Adamina",
+  "full_font_name": "Adamina",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Adamina-Regular",
+  "trademark": "Adamina is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Alexei Vanyashin",
+  "designer": "Cyreal (www.cyreal.org)",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.012",
+  "description": "Adamina is a typeface designed for text setting in small sizes. For this purpose the x-height is increased and contrast lowered. Proportions are transitional and compact. Refined design features like one-sided flaring and asymmetrical serifs are there to provide a pleasant reading experience. Designed by Alexei Vanyashin for Cyreal. To contribute to the project, visit github.com/cyrealtype/Adamina Updated: January 2016 to Version 1.012, to correct GPOS table (enabling kerning.)",
+  "last_modified": 1456214400000,
+  "size": 113848,
+  "weight_class": 400,
+  "rank": 249
+}

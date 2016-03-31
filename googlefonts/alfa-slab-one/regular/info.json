@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "JM Solé",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Alfa Slab One",
+  "font_family_name": "Alfa Slab One",
+  "full_font_name": "Alfa Slab One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AlfaSlabOne-Regular",
+  "trademark": "Alfa Slab is a trademark of JM Sole.",
+  "manufacturer": "JM Sole",
+  "designer": "JM Sole",
+  "designer_url": "http://jmsole.cl",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Alfa Slab One is a contemporary take on the Six-lines Pica Egyptian created by Robert Thorne for the Thorowgood Foundry in 1921. Although initially based on that model, Alfa Slab One was designed with an extreme stem weight, big serifs, more stem contrast and gradual terminals with a single serif. All this attributes give Alfa Slab One a contemporary look with extreme black density.",
+  "last_modified": 1456214400000,
+  "size": 36504,
+  "weight_class": 400,
+  "rank": 134
+}

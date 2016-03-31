@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "casual",
+    "cute",
+    "display",
+    "retro"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Grand Hotel",
+  "font_family_name": "Grand Hotel",
+  "full_font_name": "GrandHotel-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GrandHotel-Regular",
+  "trademark": "Grand Hotel is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Brian J. Bonislawsky \u0026 Jim Lyles for Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.000",
+  "last_modified": 1354867200000,
+  "size": 48388,
+  "weight_class": 400,
+  "rank": 21
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Fernando Díaz",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fenix",
+  "font_family_name": "Fenix",
+  "full_font_name": "Fenix",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Fenix",
+  "trademark": "Fenix is a trademark of Fernando Diaz.",
+  "manufacturer": "Fernando Diaz",
+  "designer": "Fernando Diaz",
+  "designer_url": "http://www.ferfolio.com",
+  "vendor_url": "http://www.tipotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "004.301",
+  "description": "Fenix is a serif typeface designed for use in both display and long text. Very inspired by calligraphy, it has strong serifs and rough strokes. Its proportions are designed to gain space savings in text, both in height and width. It is elegant at large sizes and legible at the same time, with a lot of rhythm in small sizes.",
+  "last_modified": 1456214400000,
+  "size": 45144,
+  "weight_class": 400,
+  "rank": 324
+}

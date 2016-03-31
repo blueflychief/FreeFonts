@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Nicole Fally",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Vast Shadow",
+  "font_family_name": "Vast Shadow",
+  "full_font_name": "Vast Shadow Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "VastShadow-Regular",
+  "trademark": "Vast is a trademark of Sorkin Type Co.",
+  "manufacturer": "Nicole Fally",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "Copyright (c) 2010 by Sorkin Type Co, with Reserved Font Name Vast and Vast Shadow. ÊLicenced under the SIL Open Font License, Version 1.1, available with a FAQ at\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id\u003dnrsi\u0026id\u003dOFL",
+  "version_string": "Version 1.002",
+  "description": "Vast is a Victorian slab serif advertising type. Vast has a feeling of sturdy solidity combined with just a little bit of refinement. Because Vast Shadow has a thin shadow that won\u0027t display well at small sizes we recommend that you use it from 32px and larger.",
+  "last_modified": 1456214400000,
+  "size": 62364,
+  "weight_class": 400,
+  "rank": 483
+}

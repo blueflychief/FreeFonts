@@ -1,0 +1,35 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Oranienbaum",
+  "font_family_name": "Oranienbaum",
+  "full_font_name": "Oranienbaum",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Oranienbaum-Regular",
+  "trademark": "Oranienbaum is a trademark of Oleg Pospelov and jovanny Lemonad.",
+  "manufacturer": "Oleg Pospelov and jovanny Lemonad",
+  "designer": "Oleg Pospelov and Jovanny Lemonad",
+  "designer_url": "http://pospelov.com/",
+  "vendor_url": "http://jovanny.ru/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w \"gGD\"",
+  "description": "Oranienbaum is a modern high contrast Antiqua with well-defined, recognizable features. Based on the architecture of classic Antiqua fonts, such as Bodoni, Oranienbaum is typical of the typefaces from the first quarter of the 20th century: pronounced serifs, contrasting geometry, and an interplay of right angles and flowing lines. The font is well suited for both headlines and body text. It was designed through a collaboration of Oleg Pospelov as the main type designer, with Jovanny Lemonad as art director, technical engineer and publisher.",
+  "last_modified": 1456214400000,
+  "size": 141220,
+  "weight_class": 400,
+  "rank": 257
+}

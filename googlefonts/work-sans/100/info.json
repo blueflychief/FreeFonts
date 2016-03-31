@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Wei Huang",
+  "varient": "100",
+  "source": "googlefonts",
+  "family": "Work Sans",
+  "font_family_name": "Work Sans Thin",
+  "full_font_name": "Work Sans Thin",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "WorkSans-Thin",
+  "manufacturer": "Wei Huang",
+  "designer": "Wei Huang",
+  "designer_url": "wweeiihhuuaanngg@gmail.com",
+  "vendor_url": "wweeiihhuuaanngg@gmail.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.400",
+  "description": "Work Sans is a typeface family based loosely on early Grotesques, such as those by Stephenson Blake, Miller \u0026 Richard and Bauerschen Giesserei. The Regular weight and others in the middle of the family are optimised for on-screen text usage at medium-sizes (14px-48px) and can also be used in print design. The fonts closer to the extreme weights are designed more for display use both on the web and in print. Overall, features are simplified and optimised for screen resolutions; for example, diacritic marks are larger than how they would be in print. A version optimised for desktop applications is available from the Work Sans github project page. The Work Sans project is led by Wei Huang, a type designer from Australia. To contribute, see github.com/weiweihuanghuang/Work-Sans Updated August 2015: All styles were updated to v1.40 to change the Thin (100) style to be the same as \u0027HairLine\u0027 in previous versions - even thinner! This avoids the complication of a second \"Hairline\" family. The ExtraLight (200) and Light (300) styles also changed accordingly. Reflow will occur from previous versions on these weights.",
+  "last_modified": 1449561600000,
+  "size": 135044,
+  "weight_class": 260,
+  "rank": 122
+}

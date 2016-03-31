@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Nobile",
+  "font_family_name": "Nobile",
+  "full_font_name": "Nobile Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Nobile-BoldItalic",
+  "trademark": "Nobile Bold Italic is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "version_string": "Version 1.000;PS 001.000;hotconv 1.0.38",
+  "last_modified": 1277449200000,
+  "size": 86172,
+  "weight_class": 700,
+  "rank": 91
+}

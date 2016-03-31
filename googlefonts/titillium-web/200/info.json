@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "200",
+  "source": "googlefonts",
+  "family": "Titillium Web",
+  "font_family_name": "Titillium Web",
+  "full_font_name": "Titillium WebThin",
+  "font_subfamily_name": "Thin",
+  "postscript_name": "TitilliumWeb-Thin",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001;PS 57.000;hotconv 1.0.70;makeotf.lib2.5.55311",
+  "description": "Titillium is born inside the Accademia di Belle Arti di Urbino as a didactic project Course Type design of the Master of Visual Design Campi Visivi. The aim of the project is the creation of a collective fonts released under OFL. Each academic year, a dozen students work on the project, developing it further and solving problems. Any type designer interested in the amendment or revision of Titillium is invited to co-operate with us, or develop their own variants of the typeface according to the terms specified in the Open Font license. We also ask all graphic designers who use Titillium in their projects to email us some examples of the typeface family in use, in order to prepare a case histories database. Three years after the birth of Titillium, the project is still evolving, and even we don’t know what it will become in the future. Special thanks go to: Prof. Luciano Perondi, design and curation Prof. Marcello Signorile, coordination Prof. Manuel Zanettin, web project supervision Diego Giusti, design of the first prototype",
+  "last_modified": 1456214400000,
+  "size": 63124,
+  "weight_class": 200,
+  "rank": 21
+}

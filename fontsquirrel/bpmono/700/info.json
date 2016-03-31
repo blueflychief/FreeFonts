@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "display",
+    "monospaced",
+    "paragraph",
+    "sans serif",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Backpacker",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "BPmono",
+  "font_family_name": "BPmono",
+  "full_font_name": "BPmono Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "BPmono-Bold",
+  "trademark": "BPmono Bold is a trademark of George Triantafyllakos.",
+  "manufacturer": "George Triantafyllakos",
+  "designer": "George Triantafyllakos",
+  "designer_url": "http://www.backpacker.gr",
+  "vendor_url": "http://www.backpacker.gr",
+  "version_string": "Version 1.000",
+  "last_modified": 1253689200000,
+  "size": 57284,
+  "weight_class": 700,
+  "rank": 614
+}

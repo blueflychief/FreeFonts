@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "casual",
+    "comic",
+    "cute",
+    "decorative",
+    "retro",
+    "serif"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Risque",
+  "font_family_name": "Risque",
+  "full_font_name": "Risque-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Risque-Regular",
+  "trademark": "Risque is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1371279600000,
+  "size": 65696,
+  "weight_class": 400,
+  "rank": 624
+}

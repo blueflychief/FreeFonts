@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "classical",
+    "paragraph",
+    "serif",
+    "true italics"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Igino Marini",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "IM FELL French Canon PRO",
+  "font_family_name": "IM FELL French Canon PRO",
+  "full_font_name": "IM_FELL_French_Canon_PRO_Roman",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "IM_FELL_French_Canon_PRO_Roman",
+  "manufacturer": "Igino Marini,",
+  "designer": "Igino Marini",
+  "designer_url": "www.iginomarini.com",
+  "vendor_url": "www.iginomarini.com",
+  "license_desciption": "This font is a nearly free font. You can use it freely but:\r\na) If you want to use it in publications on any kind of media you have to put in the following quote as a note: «The Fell Types are digitally reproduced by Igino Marini. www.iginomarini.com» and let the designer know where you used it.\r\nb) You can?t change the font and its contents (including outlines, kerning and other data as well).\r\nc) You can distribute it freely with license aside but not sell it in any way.\r\nAny other different use has to be authorized by the designer.",
+  "license_url": "www.iginomarini.com",
+  "version_string": "3.00",
+  "last_modified": 1230710400000,
+  "size": 152812,
+  "weight_class": 400,
+  "rank": 717
+}

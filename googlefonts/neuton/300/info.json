@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Brian Zick",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Neuton",
+  "font_family_name": "Neuton",
+  "full_font_name": "Neuton Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "Neuton-Light",
+  "designer": "Brian M Zick",
+  "designer_url": "http://21326.info/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.42 ",
+  "description": "Neuton is a clean, dark, somewhat Dutch-inspired serif font which reminds you a little of Times. It has a large height, short extenders, and a compact width for better screen use, and economy of space. The family will comprise a regular, italic, and cursive, each in five weights and with smallcaps. Two italics — one will be called \"italic\", and the other \"cursive\" — are uncommon, but very useful. Ever tried emphasizing something already emphasized? Beyond that obvious example, there are other uses. Sometimes a text needs a different flavor or feel. While one roman can work for a variety of texts, the companion italics don\u0027t always. In more classical or personal documents, a stiff, sober, modern and down-to-earth italic will never work. And in many essays, some of the fancier italics look ridiculous. Who said a roman needs only one companion?",
+  "last_modified": 1456214400000,
+  "size": 49792,
+  "weight_class": 300,
+  "rank": 199
+}

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "humanist",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Google Android",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Droid Sans",
+  "font_family_name": "Droid Sans",
+  "full_font_name": "Droid Sans",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DroidSans",
+  "trademark": "Droid is a trademark of Google and may be registered in certain jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.00 build 114",
+  "last_modified": 1230883200000,
+  "size": 190776,
+  "weight_class": 400,
+  "rank": 39
+}

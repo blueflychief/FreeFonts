@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Riccardo De Franceschi",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Wellfleet",
+  "font_family_name": "Wellfleet",
+  "full_font_name": "Wellfleet",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Wellfleet-Regular",
+  "trademark": "Wellfleet is a trademark of Sorkin Type Co.",
+  "manufacturer": "Riccardo De Franceschi",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.rdftype.it",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Wellfleet is a versatile low-contrast slab serif text typeface with a a bouncy and upbeat feeling. It was inspired by German poster lettering. Despite having display letters as a source of inspiration, Wellfleet is functional in a wide range of sizes.",
+  "last_modified": 1456214400000,
+  "size": 82016,
+  "weight_class": 400,
+  "rank": 565
+}

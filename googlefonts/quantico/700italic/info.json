@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "MADType",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Quantico",
+  "font_family_name": "Quantico",
+  "full_font_name": "Quantico-BoldItalic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Quantico-BoldItalic",
+  "trademark": "Quantico is a trademark of Matt Desmond.",
+  "manufacturer": "MADtype",
+  "designer": "Matt Desmond",
+  "designer_url": "http://www.madtype.com",
+  "vendor_url": "http://www.madtype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.002",
+  "description": "Quantico is an angular typeface family that was inspired by old beer packaging and military lettering. It utilizes 30 degree angles and completely straight lines to form unique character shapes. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "last_modified": 1456214400000,
+  "size": 20660,
+  "weight_class": 700,
+  "rank": 254
+}

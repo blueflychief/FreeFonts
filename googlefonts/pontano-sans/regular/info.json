@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Pontano Sans",
+  "font_family_name": "Pontano Sans",
+  "full_font_name": "Pontano Sans",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PontanoSans-Regular",
+  "trademark": "Pontano Sans is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.001",
+  "description": "Pontano Sans is a minimalist and light weighted Sans Serif. Pontano is designed mainly for use as a display font but is useable as a text font too. Pontano Sans has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 126596,
+  "weight_class": 400,
+  "rank": 98
+}

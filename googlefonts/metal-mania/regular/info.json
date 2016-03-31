@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Open Window",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Metal Mania",
+  "font_family_name": "Metal Mania",
+  "full_font_name": "Metal Mania",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MetalMania-Regular",
+  "trademark": "Metal Mania is a trademark of Open Window",
+  "manufacturer": "Open Window",
+  "designer": "Dathan Boardman",
+  "designer_url": "http://www.fontbros.com/openwindow.php",
+  "vendor_url": "http://www.fontbros.com/openwindow.php",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Metal Mania was inspired by lots of Heavy Metal album covers and posters. Only the most \u0027Metal\u0027 elements were combined to make the quintessential Heavy Metal font. Looks good on concert posters and guitar picks! Long live Metal Mania. First drawn were the inline forms and then they were traced, utilizing a playful \u0027cutout\u0027 effect. Designed by Dathan Boardman of Open Window.",
+  "last_modified": 1456214400000,
+  "size": 254568,
+  "weight_class": 400,
+  "rank": 661
+}

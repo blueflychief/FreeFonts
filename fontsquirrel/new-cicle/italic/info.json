@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "humanist",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "La Tipomatika",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "New Cicle",
+  "font_family_name": "New Cicle",
+  "full_font_name": "New Cicle Fina Italic",
+  "font_subfamily_name": "Fina Italic",
+  "postscript_name": "NewCicle-FinaItalic",
+  "trademark": "New Cicle Fina Italic is a trademark of La Tipomatika.",
+  "manufacturer": "La Tipomatika",
+  "designer": "La Tipomatika (Digital Type Foundry)",
+  "designer_url": "http://tipomatika.co.nr/",
+  "vendor_url": "http://tipomatika.co.nr/",
+  "license_desciption": "Llicència gratuïta / Free License (La Tipomatika)",
+  "license_url": "http://tipomatika.co.nr/",
+  "version_string": "Version 001.000",
+  "last_modified": 1230710400000,
+  "size": 49500,
+  "weight_class": 400,
+  "rank": 218
+}

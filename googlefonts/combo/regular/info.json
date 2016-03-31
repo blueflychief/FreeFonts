@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Combo",
+  "font_family_name": "Combo",
+  "full_font_name": "Combo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Combo-Regular",
+  "trademark": "Combo is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Combo has a simple structure, based on the elliptical arcs and strokes of a flat-tipped marker pen. This display typeface is suitable for use in advertisements, headlines and short texts.",
+  "last_modified": 1456214400000,
+  "size": 132848,
+  "weight_class": 400,
+  "rank": 596
+}

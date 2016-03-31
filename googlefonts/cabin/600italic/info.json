@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "600italic",
+  "source": "googlefonts",
+  "family": "Cabin",
+  "font_family_name": "Cabin SemiBold",
+  "full_font_name": "Cabin SemiBold Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Cabin-SemiBoldItalic",
+  "trademark": "Cabin is a trademark of Pablo Impallari",
+  "manufacturer": "Pablo Impallari",
+  "designer": "Pablo Impallari",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.007",
+  "description": "The Cabin font family is a humanist sans with 4 weights and true italics, inspired by Edward Johnston’s and Eric Gill’s typefaces, with a touch of modernism. Cabin incorporates modern proportions, optical adjustments, and some elements of the geometric sans. It remains true to its roots, but has its own personality. The weight distribution is almost monotone, although top and bottom curves are slightly thin. Counters of the b, g, p and q are rounded and optically adjusted. The curved stem endings have a 10 degree angle. E and F have shorter center arms. M is splashed. Updated: January 2016 to version 1.007",
+  "last_modified": 1456214400000,
+  "size": 157124,
+  "weight_class": 600,
+  "rank": 32
+}

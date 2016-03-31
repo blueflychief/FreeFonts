@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Trocchi",
+  "font_family_name": "Trocchi",
+  "full_font_name": "Trocchi",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Trocchi",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0; ttfautohint (v0.8) -l 6 -r 50 -G 100",
+  "description": "Trocchi is a design derived from a number of old faces from the English typecutter Vincent Figgins (1766-1844) including Nebiolo’s ‘Egiziano’, and Caslon \u0026 Co’s ‘Antique No.4? and ‘Ionic No.2?. Trocchi derivates from these earlier designs to produce a more casual slab serif. Trocchi is designed for use both as text and display type. The font is named after the Scottish novelist Alexander Trocchi. To contribute to the project contact Vernon Adams and see Trocchi on GitHub.",
+  "last_modified": 1456214400000,
+  "size": 143880,
+  "weight_class": 400,
+  "rank": 284
+}

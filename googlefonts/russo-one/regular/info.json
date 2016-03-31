@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Russo One",
+  "font_family_name": "Russo One",
+  "full_font_name": "Russo One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RussoOne-Regular",
+  "trademark": "Russo is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny lemonad",
+  "designer_url": "http://jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Russo means Russian. It seems strange that in a such font there is no snow, vodka or bears. What I wanted to show is that Russian culture is quite varied and modern. In Russia, too, some people love good fonts and typography. Russo One is designed for headlines and logotypes. It is simple and original, stylish and casual. Russo One is a Unicode typeface family that supports languages that use the Cyrillic, Baltic, Turkish, Central Europe, Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Jovanny Lemonad.",
+  "last_modified": 1456214400000,
+  "size": 39124,
+  "weight_class": 400,
+  "rank": 99
+}

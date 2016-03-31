@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Chank",
+  "varient": "800italic",
+  "source": "fontsquirrel",
+  "family": "Panefresco",
+  "font_family_name": "Panefresco 800wt",
+  "full_font_name": "Panefresco 800wt Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Panefresco800wt-Italic",
+  "manufacturer": "Campivisivi \u0026 Chank Co",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1295596800000,
+  "size": 114536,
+  "weight_class": 800,
+  "rank": 433
+}

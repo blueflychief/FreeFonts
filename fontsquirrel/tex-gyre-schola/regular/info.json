@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "paragraph",
+    "serif",
+    "serif",
+    "transitional",
+    "true italics"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "GUST e-foundry",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "TeX Gyre Schola",
+  "font_family_name": "TeXGyreSchola",
+  "full_font_name": "TeXGyreSchola-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "TeXGyreSchola-Regular",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "version_string": "Version 1.103;PS 1.103;hotconv 1.0.49;makeotf.lib2.0.14853",
+  "last_modified": 1230537600000,
+  "size": 155916,
+  "weight_class": 400,
+  "rank": 541
+}

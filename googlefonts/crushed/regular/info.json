@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Crushed",
+  "font_family_name": "Crushed",
+  "full_font_name": "Crushed",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Crushed-Regular",
+  "trademark": "Crushed is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 001.000",
+  "description": "Crushed was designed in 2010 as a headline and display typeface. Featuring a condensed body width and subtlely tapered vertical strokes, Crushed is a unicase design, tossing aside the traditional lowercase for one that matches the cap height. Though intended for display, Crushed actually looks great and reads well in text usage. The gentle taper of the stems add a certain class and the basic letterforms are modern and fresh.",
+  "last_modified": 1456214400000,
+  "size": 57856,
+  "weight_class": 400,
+  "rank": 365
+}

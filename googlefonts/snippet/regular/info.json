@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Gesine Todt",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Snippet",
+  "font_family_name": "Snippet",
+  "full_font_name": "Snippet",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Snippet",
+  "trademark": "Snippet is a trademark of Gesine Todt.",
+  "manufacturer": "Gesine Todt",
+  "designer": "Gesine Todt",
+  "designer_url": "http://www.gesine-todt.de",
+  "vendor_url": "http://www.gesine-todt.de",
+  "license_desciption": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Snippet’s light weight and unusual construction give texts a special flow and make you want to look twice! In headlines Snippet’s many details show and help you create a clean but witty look.",
+  "last_modified": 1456214400000,
+  "size": 39284,
+  "weight_class": 400,
+  "rank": 566
+}

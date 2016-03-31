@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "chiseled",
+    "industrial",
+    "serif"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Sorkin Type Co",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Goblin",
+  "font_family_name": "Goblin",
+  "full_font_name": "Goblin",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Goblin",
+  "trademark": "Goblin is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.rdftype.it",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1341903600000,
+  "size": 20980,
+  "weight_class": 400,
+  "rank": 606
+}

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph",
+    "sans",
+    "square"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Objets Dart",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Enigmatic",
+  "font_family_name": "Enigmatic",
+  "full_font_name": "Enigmatic Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Enigmatic",
+  "manufacturer": "Starving-4 Entertainment",
+  "designer": "Darren Rigby",
+  "designer_url": "dart@puzzlers.org",
+  "vendor_url": "http://dartcanada.tripod.com/Objets",
+  "version_string": "Version 2.1, September 2003",
+  "last_modified": 1230710400000,
+  "size": 19112,
+  "weight_class": 400,
+  "rank": 273
+}

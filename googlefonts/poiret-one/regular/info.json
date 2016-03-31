@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Denis Masharov",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Poiret One",
+  "font_family_name": "Poiret One",
+  "full_font_name": "Poiret One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PoiretOne-Regular",
+  "trademark": "Poiret is a trademark of Denis Masharov.",
+  "manufacturer": "Denis Masharov",
+  "designer": "Denis Masharov",
+  "designer_url": "denis.masharov@gmail.com",
+  "vendor_url": "denis.masharov@gmail.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "A fresh decorative geometric grotesque with a hint of Art Deco and c?onstructivism. Poiret One is a unique typeface with light forms and pure elegance. Sleek and simple. Based on geometric forms, it has stylish lines and graceful curves. The font is applicable for large signs, labels, titles, headlines and any type of graphic design on the web, in motion graphics, or in print - from t-shirts to posters and logos. It is also well-suited for short texts and advertising where style is desired. Complete with a lower-case letters, the Poiret One is also useful for all-caps usage. To contribute to the project contact Denis Masharov.",
+  "last_modified": 1456214400000,
+  "size": 47708,
+  "weight_class": 400,
+  "rank": 25
+}

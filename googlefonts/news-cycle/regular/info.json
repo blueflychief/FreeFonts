@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Nathan Willis",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "News Cycle",
+  "font_family_name": "News Cycle",
+  "full_font_name": "News Cycle",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "NewsCycle",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 0.5.1",
+  "description": "News Cycle is a realist, sans-serif typeface based primarily on a revival of the 1908-era News Gothic, the stalwart newspaper face from American Type Founders (ATF). Like News Gothic, it is designed for clarity and readability in large blocks of copy, but to still look good in headline-sizes at the top of the page. It also extends News Gothic to better cover more of the world\u0027s orthographies, starting with Eastern European and African languages, and soon Greek and Cyrillic alphabets as well. This project is led by Nathan Wilis, a type designer based in Texas, USA. To contribute, visit launchpad.net/newscycle",
+  "last_modified": 1429167600000,
+  "size": 179600,
+  "weight_class": 400,
+  "rank": 87
+}

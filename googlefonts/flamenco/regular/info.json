@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "LatinoType",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Flamenco",
+  "font_family_name": "Flamenco",
+  "full_font_name": "Flamenco",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Flamenco-Regular",
+  "trademark": "Flamenco is a trademark of LatinoType Limitada",
+  "manufacturer": "Luciano Vergara",
+  "designer": "Luciano Vergara",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Flamenco is a semi-serif slab typeface. It is inspired by the bird of the same name; its long ascenders and descenders provide elegance and a classic touch, while it is monolinear humanist structure and rounded terminals give it a kind and smooth feeling.",
+  "last_modified": 1456214400000,
+  "size": 36700,
+  "weight_class": 400,
+  "rank": 481
+}

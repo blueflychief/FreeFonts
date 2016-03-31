@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin",
+    "arabic"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Khaled Hosny",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Amiri",
+  "font_family_name": "Amiri",
+  "full_font_name": "Amiri Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Amiri-Bold",
+  "designer": "Khaled Hosny",
+  "designer_url": "http://www.khaledhosny.org",
+  "vendor_url": "http://www.amirifont.org",
+  "license_desciption": "OFL v1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 000.107 ",
+  "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at www.amirifont.org Updated in February 2015 to v0.107",
+  "last_modified": 1428390000000,
+  "size": 351796,
+  "weight_class": 700,
+  "rank": 167
+}

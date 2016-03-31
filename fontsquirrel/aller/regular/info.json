@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "humanist",
+    "oblique",
+    "paragraph",
+    "sans serif",
+    "sans",
+    "humanist",
+    "small caps"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Dalton Maag Ltd",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Aller",
+  "font_family_name": "Aller Display",
+  "full_font_name": "Aller Display",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AllerDisplay",
+  "manufacturer": "Dalton Maag Ltd.",
+  "version_string": "Version 1.00",
+  "last_modified": 1231401600000,
+  "size": 95616,
+  "weight_class": 400,
+  "rank": 7
+}

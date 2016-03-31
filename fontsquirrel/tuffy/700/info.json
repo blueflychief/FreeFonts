@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Thatcher Ulrich",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Tuffy",
+  "font_family_name": "Tuffy",
+  "full_font_name": "Tuffy Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Tuffy-Bold",
+  "designer": "Thatcher Ulrich, Karoly Barta, Michael Everson",
+  "designer_url": "http://tulrich.com\n",
+  "vendor_url": "http://tulrich.com\n",
+  "license_desciption": "Public Domain\n",
+  "version_string": "Version 001.280 ",
+  "last_modified": 1256281200000,
+  "size": 97308,
+  "weight_class": 700,
+  "rank": 442
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Gary Lonergan",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Headland One",
+  "font_family_name": "HeadlandOne",
+  "full_font_name": "HeadlandOne-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HeadlandOne-Regular",
+  "trademark": "Headland is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Gary Lonergan",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Headland One is a text typeface designed to be highly legible and comfortable when reading screens. Headland One is useful from very small sizes to headlines. Headland One\u0027s personality recalls the geniality of the UK private press movement types made at the turn of the 20th century. Headland One\u0027s eccentric details contribute to the distinctive feeling of the type at smaller sizes but do not become obvious until the type becomes much larger.",
+  "last_modified": 1456214400000,
+  "size": 149692,
+  "weight_class": 400,
+  "rank": 313
+}

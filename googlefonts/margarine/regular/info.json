@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Margarine",
+  "font_family_name": "Margarine",
+  "full_font_name": "Margarine",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Margarine-Regular",
+  "trademark": "Margarine is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Margarine draws its roots loosely from various inspirations, with a thick marker weight and deliberate carrying of rounds into regularly straightened lowercase characters, this typeface has that warm and fuzzy feeling to it. To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 148820,
+  "weight_class": 400,
+  "rank": 622
+}

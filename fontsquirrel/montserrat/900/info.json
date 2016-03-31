@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "paragraph",
+    "sans",
+    "geometric",
+    "vintage"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Julieta Ulanovsky",
+  "varient": "900",
+  "source": "fontsquirrel",
+  "family": "Montserrat",
+  "font_family_name": "Montserrat Black",
+  "full_font_name": "Montserrat Black",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Montserrat-Black",
+  "manufacturer": "Julieta Ulanovsky",
+  "designer": "Julieta Ulanovsky",
+  "designer_url": "http://www.zkysky.com.ar/",
+  "vendor_url": "http://www.zkysky.com.ar/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000;PS 002.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT",
+  "last_modified": 1405580400000,
+  "size": 45336,
+  "weight_class": 900,
+  "rank": 36
+}

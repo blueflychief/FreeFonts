@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Impallari Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Racing Sans One",
+  "font_family_name": "Racing Sans One",
+  "full_font_name": "Racing Sans One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RacingSansOne-Regular",
+  "trademark": "Racing Sans is a trademark of Pablo Impallari",
+  "manufacturer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.8) -G 200 -r 50",
+  "description": "Around 1800 (100 years before Helvetica and Univers) the first Sans Serif typefaces to include lowercase letters used to have very High Contrast (the difference between thick and thin lines). Maybe because the were derived from the more traditional serif typefaces of the time. But for same reason, as the genre evolved, the fashion was to create \u0027monoline\u0027 sans, of very little contrast. Today, contrasted Sans are very rare, and only a few are successful. While digging in old specimens, we found three that immediately caught our attention: Doric Italic and Taylor Gothic from American Type Founders (1897), and Charter Oak from Keystone Type Foundry of Philadelphia (1906). Racing Sans is a current high contrast sans, paying tribute to this forgotten genre.",
+  "last_modified": 1456214400000,
+  "size": 145796,
+  "weight_class": 400,
+  "rank": 337
+}

@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "architectural",
+    "comic",
+    "handwritten"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Robby Woodard",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Veggieburger",
+  "font_family_name": "Veggieburger",
+  "full_font_name": "Veggieburger-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Veggieburger-Bold",
+  "trademark": "Veggieburger Bold is a trademark of Designed and produced by Robby Woodard.",
+  "manufacturer": "Designed and produced by Robby Woodard",
+  "designer": "Robby Woodard",
+  "designer_url": "http://www.woodardworks.com",
+  "version_string": "Version 001.000",
+  "last_modified": 1273647600000,
+  "size": 36576,
+  "weight_class": 700,
+  "rank": 177
+}

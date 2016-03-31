@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph",
+    "soft"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus Type",
+  "varient": "500italic",
+  "source": "fontsquirrel",
+  "family": "Asap",
+  "font_family_name": "Asap Medium",
+  "full_font_name": "Asap-MediumItalic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Asap-MediumItalic",
+  "trademark": "Asap is a trademark of Omnibus-Type.",
+  "manufacturer": "Pablo Cosgaya",
+  "designer": "Pablo Cosgaya",
+  "designer_url": "www.omnibus-type.com",
+  "vendor_url": "www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.007;PS 001.007;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1327478400000,
+  "size": 104256,
+  "weight_class": 500,
+  "rank": 163
+}

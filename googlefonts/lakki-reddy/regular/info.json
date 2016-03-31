@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin",
+    "telugu"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Appaji Ambarisha Darbha",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Lakki Reddy",
+  "font_family_name": "Lakki Reddy",
+  "full_font_name": "Lakki Reddy",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "LakkiReddy",
+  "designer": "Appaji Ambarisha Darbha",
+  "designer_url": "adityafonts.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0.4; ttfautohint (v1.2.42-39fb)",
+  "description": "Lakki Reddy is a Telugu display typeface, mainly suitable for headings, posters and decorative invitations. Use it anywhere you want to use a handwriting style to add informality and personality to your text. The Telugu is designed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Font Diner, a type foundry in the USA, and originally published as Irish Grover. The Lakki Reddy project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/lakkireddy",
+  "last_modified": 1456214400000,
+  "size": 583032,
+  "weight_class": 400,
+  "rank": 722
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Dan Reynolds",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Martel",
+  "font_family_name": "Martel",
+  "full_font_name": "Martel Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Martel-Bold",
+  "manufacturer": "Dan Reynolds",
+  "designer": "Dan Reynolds",
+  "designer_url": "https://github.com/typeoff/martel",
+  "vendor_url": "http://www.typeoff.de",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License\nVersion 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v1.1) -l 5 -r 5 -G 72 -x 0 -D latn -f none -w gGD -W -c",
+  "description": "Martel is a libre font development project. Begun in 2008 in the Department of Typography \u0026 Graphic Communication at the University of Reading, the first weights of the font family (Martel UltraLight, Light, Regular, DemiBold, Bold, ExtraBold and Heavy) were released in 2014. The Devanagari glyphs to-date have all been designed by Dan Reynolds, whereas the Latin script’s glyphs are based on the Merriweather fonts. Check out the Martel Sans project, too. The Martel Devanagari typeface is designed for typesetting immersive-style documents. It may be be used to set long passages of text in languages that are written in the Devanagari script, including Hindi, Marathi, Nepali, Sanskrit, etc. Martel Devanagari is a readable typeface whose glyph proportions are inspired by traditional writing and calligraphic styles. Its high-contrast strokes have a diagonal axis, in keeping with the pen-angle most often used for the Devanagari writing system. The Martel project is led by Dan Reynolds, a type designer in Berlin. To contribute, visit github.com/typeoff/martel",
+  "last_modified": 1429686000000,
+  "size": 170240,
+  "weight_class": 700,
+  "rank": 465
+}

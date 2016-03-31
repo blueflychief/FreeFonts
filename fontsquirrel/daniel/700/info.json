@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "casual",
+    "handwritten",
+    "marker"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Daniel Midgley",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Daniel",
+  "font_family_name": "Daniel",
+  "full_font_name": "Daniel-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Daniel-Bold",
+  "trademark": "Please refer to the Copyright section for the font trademark attribution notices.",
+  "designer": "Daniel Midgley",
+  "designer_url": "http://goodreasonblog.blogspot.com/p/fontery.html",
+  "vendor_url": "http://goodreasonblog.blogspot.com/p/fontery.html",
+  "license_desciption": "This font is free for you to use for any purpose, commercial or not.\nYou can share this font with anyone.\nPlease do not distribute modified copies. \nThis font is licensed under a Creative Commons Attribution-NoDerivs 3.0 Unported License. \nWhen using this font, please consider giving attribution where possible.",
+  "license_url": "http://creativecommons.org/licenses/by-nd/3.0/",
+  "version_string": "Version 1.000;PS 001.001;hotconv 1.0.56",
+  "last_modified": 1232006400000,
+  "size": 73768,
+  "weight_class": 700,
+  "rank": 46
+}

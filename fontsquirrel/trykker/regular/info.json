@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Sorkin Type Co",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Trykker",
+  "font_family_name": "Trykker",
+  "full_font_name": "Trykker",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Trykker-Regular",
+  "trademark": "Trykker is a trademark of Sorkin Type Co.",
+  "manufacturer": "Magnus Gaarde",
+  "designer": "Magnus Gaarde",
+  "designer_url": "www.skriftklog.dk",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1334732400000,
+  "size": 42460,
+  "weight_class": 400,
+  "rank": 763
+}

@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Santiago Orozco",
+  "varient": "600italic",
+  "source": "googlefonts",
+  "family": "Josefin Sans",
+  "font_family_name": "Josefin Sans",
+  "full_font_name": "Josefin Sans SemiBold",
+  "font_subfamily_name": "SemiBold",
+  "postscript_name": "JosefinSans-SemiBold",
+  "trademark": "Josefin Sans SemiBold is a trademark of Typemade.",
+  "manufacturer": "Typemade",
+  "designer": "Santiago Orozco",
+  "designer_url": "www.typemade.mx",
+  "license_desciption": "Copyright (c) 2010, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Josefin. This Font Software is licensed under the Apache License, Version 2.0. This license is available with a FAQ at: http://www.apache.org/licenses/LICENSE-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "description": "The idea for creating this typeface was to make it geometric, elegant and kind of vintage, especially for titling. It is inspired by Rudolf Koch\u0027s Kabel (1927), Rudolf Wolf\u0027s Memphis (1930), Paul Renner\u0027s Futura (1927). My idea was to draw something with good style, that reflects Swedish design and their passion for a good lifestyle, and by default all other Scandinavian styles. Something weird happened when I drew the letter \"z\": when I took my typography courses in college, I saw a very interesting typeface in a book, the New Universal Typeface \"Newut\" from André Baldinger (which I have loved since then), and after I finished the \"z\" I ran into Newut\u0027 site again and noticed that I had unconsciously drawn it with the same haircut. The x-height is half way from baseline to caps height, unlike any other modern typeface. I wanted to do something different with the ampersand, so I made three and will include them as alternates in future versions. This version also includes Old Style Numerals. There is a sister family, Josefin Slab. Updated August 2014: Completely redesigned and extended with Extended Latin support for many more European languages. The previous version of Josefin Sans included Extended Latin characters in the Latin subset. If you are experiencing problems, please select the Extended Latin (latin-ext) subset to render all European languages correctly. Here is an example of a complete link tag that selects these subsets: \u003clink href\u003d\u0027http://fonts.googleapis.com/css?family\u003dJosefin+Sans\u0026subset\u003dlatin,latin-ext\u0027 rel\u003d\u0027stylesheet\u0027 type\u003d\u0027text/css\u0027\u003e",
+  "last_modified": 1456214400000,
+  "size": 96400,
+  "weight_class": 600,
+  "rank": 46
+}

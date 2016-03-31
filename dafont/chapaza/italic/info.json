@@ -1,0 +1,20 @@
+{
+  "categories": [
+    "Basic",
+    "Serif"
+  ],
+  "varient": "italic",
+  "source": "dafont",
+  "family": "Chapaza",
+  "font_family_name": "Chapaza Italic",
+  "full_font_name": "Chapaza Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "ChapazaItalic-Italic",
+  "designer": "Steve Gardner",
+  "designer_url": "www.explogos.com",
+  "version_string": "Version 1.000; ttfautohint (v0.97) -l 8 -r 100 -G 200 -x 6 -f dflt -w G -c",
+  "last_modified": 0,
+  "size": 112716,
+  "weight_class": 400,
+  "rank": 353
+}

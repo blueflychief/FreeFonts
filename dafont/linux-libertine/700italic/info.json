@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "Basic",
+    "Serif"
+  ],
+  "varient": "700italic",
+  "source": "dafont",
+  "family": "Linux Libertine",
+  "font_family_name": "Linux Libertine Slanted",
+  "full_font_name": "Linux Libertine Slanted Bold",
+  "font_subfamily_name": "Bold Slanted",
+  "postscript_name": "LinLibertineSlantedB",
+  "manufacturer": "Philipp H. Poll",
+  "designer": "Philipp H. Poll",
+  "designer_url": "http://www.linuxlibertine.org",
+  "vendor_url": "http://www.linuxlibertine.org",
+  "license_desciption": "GPL- General Public License AND OFL-Open Font License",
+  "license_url": "http://www.fsf.org/licenses/gpl.html AND http://scripts.sil.org/OFL",
+  "version_string": "Version 5.0.3 ",
+  "last_modified": 0,
+  "size": 879624,
+  "weight_class": 700,
+  "rank": 719
+}

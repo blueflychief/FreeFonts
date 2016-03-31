@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Hanalei Fill",
+  "font_family_name": "Hanalei Fill",
+  "full_font_name": "Hanalei Fill",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HanaleiFill-Regular",
+  "trademark": "Hanalei Fill is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Hanalei Fill is for the Polynesian fan. Inspired by the bamboo lettering of the iconic Mai Kai restaurant logo, Hanalei Fill has all the flavor of the genre without compromise. Great for titling and larger typesetting. Hanalei Fill is a compliment to Hanalei (the outline version.) Designed by Brian J. Bonislawsky for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 92108,
+  "weight_class": 400,
+  "rank": 727
+}

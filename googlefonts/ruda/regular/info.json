@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Ruda",
+  "font_family_name": "Ruda",
+  "full_font_name": "Ruda",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ruda",
+  "trademark": "Ruda is a trademark of Mariela Monsalve and Angelina Sanchez",
+  "manufacturer": "Mariela Monsalve, Angelina Sanchez",
+  "designer": "Mariela Monsalve, Angelina Sanchez",
+  "designer_url": "www.mukamonsalve.com.ar",
+  "vendor_url": "www.angelinasanchez.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Ruda is a sans serif typeface originally developed for a specific context of use, product labels. Designed by Mariela Monsalve and Angelina S?nchez, Ruda features a very large x-height, low cap-height and open forms. Ruda is a collaboration between marie monsalve and Angelina S?anchez.",
+  "last_modified": 1456214400000,
+  "size": 24944,
+  "weight_class": 400,
+  "rank": 124
+}

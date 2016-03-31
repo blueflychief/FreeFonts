@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "italic",
+  "source": "googlefonts",
+  "family": "Changa One",
+  "font_family_name": "Changa One",
+  "full_font_name": "Changa One Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "ChangaOne-Italic",
+  "trademark": "Changa is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Changa One is intended for titles, with its short ascenders and descenders and a set of lowercase letters inscribed within a square. The uppercases case gains slightly more in height and develops its morphology in a single height in order to make it possible to create text composition with minimum line spacing. Its counter-shapes are rectangular, featuring small curvatures in opposite vertexes which accompany and break the shapes, thus evoking a modern style. A script type by Eduardo Tunni, and more documentation can be found at www.tipo.net.ar",
+  "last_modified": 1456214400000,
+  "size": 26728,
+  "weight_class": 400,
+  "rank": 156
+}

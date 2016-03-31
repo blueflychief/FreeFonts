@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "headings",
+    "humanist",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "M+ Fonts",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "M+ 1c",
+  "font_family_name": "M+ 1c",
+  "full_font_name": "M+ 1c regular",
+  "font_subfamily_name": "regular",
+  "postscript_name": "mplus-1c-regular",
+  "vendor_url": "http://mplus-fonts.sourceforge.jp",
+  "version_string": "Version 1.018 ",
+  "last_modified": 1231401600000,
+  "size": 323012,
+  "weight_class": 400,
+  "rank": 551
+}

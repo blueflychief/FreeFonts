@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Amita",
+  "font_family_name": "Amita",
+  "full_font_name": "Amita Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Amita-Bold",
+  "trademark": "Amita is a trademark of Eduardo Rodriguez Tunni",
+  "manufacturer": "Eduardo Rodriguez Tunni, Modular Infotech, Brian J. Bonislawsky",
+  "designer": "Eduardo Rodriguez Tunni, Modular Infotech, Brian J. Bonislawsky",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Amita is the Indian Feminine form of Amit. Amita is a Latin and Devanagari typeface derived from Redressed and Modular Infotech Devanagari 2310 and 1228. The Latin is a script type designed by Brian Bonislawsky which blends script and italic letterforms together in an upright non-connecting style. Open spacing and stylish letterforms lend themselves to titling, but also to clean legibility at smaller sizes as body copy. The Devanagari is a traditionally calligraphic style. The combination was designed by Eduardo Tunni. This project is led by Eduardo Tunni, a type designer based in Buenos Aires. To contribute, see github.com/etunni/Amita",
+  "last_modified": 1433314800000,
+  "size": 220448,
+  "weight_class": 700,
+  "rank": 706
+}

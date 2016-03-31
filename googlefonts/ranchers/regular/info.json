@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Impallari Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Ranchers",
+  "font_family_name": "Ranchers",
+  "full_font_name": "Ranchers",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ranchers-Regular",
+  "trademark": "Ranchers is a trademark of Pablo Impallari.",
+  "manufacturer": "Pablo Impallari, Brenda Gallo",
+  "designer": "Pablo Impallari, Brenda Gallo",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000; ttfautohint (v0.8) -G 200 -r 50",
+  "description": "Ranchers is one of the many hand-lettering artists\u0027 relaxed interpretations of sans serif type, typical of the 1950s. It\u0027s great for big posters and fun headlines. Use it bigger than 40px for maximum effect.",
+  "last_modified": 1456214400000,
+  "size": 167420,
+  "weight_class": 400,
+  "rank": 618
+}

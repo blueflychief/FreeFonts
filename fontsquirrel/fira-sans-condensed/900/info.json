@@ -1,0 +1,28 @@
+{
+  "categories": [
+    ""
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Mozilla",
+  "varient": "900",
+  "source": "fontsquirrel",
+  "family": "Fira Sans Condensed",
+  "font_family_name": "Fira Sans Condensed Heavy",
+  "full_font_name": "FiraSansCondensed-Heavy",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FiraSansCondensed-Heavy",
+  "trademark": "Fira Sans is a trademark of The Mozilla Corporation.",
+  "manufacturer": "Carrois Corporate GbR \u0026 Edenspiekermann AG",
+  "designer": "Carrois Corporate \u0026 Edenspiekermann AG",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "Licensed under the Open Font License, version 1.1 or later",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 4.202;PS 004.202;hotconv 1.0.88;makeotf.lib2.5.64775",
+  "last_modified": 1450339200000,
+  "size": 90668,
+  "weight_class": 900,
+  "rank": 773
+}

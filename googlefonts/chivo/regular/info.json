@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Chivo",
+  "font_family_name": "Chivo",
+  "full_font_name": "Chivo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Chivo-Regular",
+  "trademark": "Chivo is a trademark of Omnibus-Type.",
+  "manufacturer": "Omnibus-Type",
+  "designer": "Hector Gatti",
+  "designer_url": "www.omnibus-type.com",
+  "vendor_url": "www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Chivo (Goat) is a new Omnibus-Type grotesque Sans Serif typeface family. The strength of Chivo Black makes it ideal for highlights and headlines. Chivo Regular\u0027s elegance makes it ideal for combining with the strength of Chivo Black and for for continuous reading settings. Its design details make it an indispensable ally for any designer. Italics were added on 6th December 2011",
+  "last_modified": 1456214400000,
+  "size": 50844,
+  "weight_class": 400,
+  "rank": 163
+}

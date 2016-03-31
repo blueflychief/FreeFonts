@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "American Philological Association",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "New Athena Unicode",
+  "font_family_name": "New Athena Unicode",
+  "full_font_name": "NewAthenaUnicode",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "NewAthenaUnicode",
+  "trademark": "New Athena Unicode is a trademark of American Philological Association.",
+  "manufacturer": "American Philological Association",
+  "designer": "J. Rusten 1997; rev. by R. Hancock 2001, 2002, rev. by D. Mastronarde 2002-2009",
+  "designer_url": "http://apagreekkeys.org/",
+  "vendor_url": "http://www.apaclassics.org/",
+  "license_desciption": "This Font Software is made available for free and is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).",
+  "license_url": "http://apagreekkeys.org/GreekKeysLicenses.pdf",
+  "version_string": "Version 3.502",
+  "last_modified": 1256108400000,
+  "size": 690612,
+  "weight_class": 400,
+  "rank": 395
+}

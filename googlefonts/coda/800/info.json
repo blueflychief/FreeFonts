@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "800",
+  "source": "googlefonts",
+  "family": "Coda",
+  "font_family_name": "Coda",
+  "full_font_name": "Coda Heavy",
+  "font_subfamily_name": "Heavy",
+  "postscript_name": "Coda-Heavy",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000; ttfautohint (v0.8) -r 50 -G 200 -x",
+  "description": "Eye-catching, no-messing, bandwidth-saving, Coda\u0027s Heavy (800) style is designed to be an unassuming, practical, impact heavy display font for the world wide web. Designed to be used in large sizes to bring bold information to web pages, it is complemented by a Regular weight for use in text and display contexts. These webfonts are designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 90476,
+  "weight_class": 800,
+  "rank": 193
+}

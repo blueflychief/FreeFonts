@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Amatic SC",
+  "font_family_name": "Amatic SC",
+  "full_font_name": "Amatic SC Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "AmaticSC-Bold",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004",
+  "description": "Amatic SC (Small Caps) is a simple but effective hand drawn webfont. Amatic SC can be used for titling and small runs of text. It has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Updated September 2015: Thanks to Peter Verswyvelen, the Regular style was updated to fix a production error that caused it to appear as Bold in some situations.",
+  "last_modified": 1456214400000,
+  "size": 36492,
+  "weight_class": 700,
+  "rank": 61
+}

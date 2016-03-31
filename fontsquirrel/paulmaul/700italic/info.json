@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "casual",
+    "handwritten",
+    "paragraph"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "!Exclamachine Type Foundry",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "PaulMaul",
+  "font_family_name": "!PaulMaul",
+  "full_font_name": "!PaulMaul Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "!PaulMaul-Bold",
+  "trademark": "!PaulMaul is a trademark of !Exclamachine.",
+  "manufacturer": "!Exclamachine",
+  "designer": "Choz Cunningham",
+  "designer_url": "http://www.exclamachine.com",
+  "vendor_url": "http://www.exclamachine.com",
+  "version_string": "Version 1.00 December 04, 2005, initial release",
+  "last_modified": 1254898800000,
+  "size": 68360,
+  "weight_class": 700,
+  "rank": 299
+}

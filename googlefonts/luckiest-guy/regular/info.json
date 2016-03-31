@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Luckiest Guy",
+  "font_family_name": "Luckiest Guy",
+  "full_font_name": "Luckiest Guy",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "LuckiestGuy-Regular",
+  "trademark": "Luckiest Guy is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Luckiest Guy is a friendly heavyweight sans-serif font inspired by custom hand lettered 1950\u0027s advertisements. Large and in charge, this offbeat, lovably legible font lends itself to all sorts of uses. Take Luckiest Guy for a spin and let him pack a punch for both your website and your design work.",
+  "last_modified": 1456214400000,
+  "size": 73728,
+  "weight_class": 400,
+  "rank": 145
+}

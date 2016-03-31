@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Imprima",
+  "font_family_name": "Imprima",
+  "full_font_name": "Imprima",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Imprima-Regular",
+  "trademark": "Imprima is a trademark of Eduardo Tunni.",
+  "manufacturer": "Eduardo Tunni",
+  "designer": "Eduardo Tunni",
+  "designer_url": "www.tipo.net",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Imprima looks excellent even on cheap home printers because it has broad counters, strong joins between stems and inktraps that enable it to perform well in very small sizes. Professionally printed documents will make it look even better, especially in large sizes, because there the details of its design that are distinctive become clearly visible. The design of this typeface family is cared for as one cares for your own family. Each component has been treated humanely, by hand. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 24912,
+  "weight_class": 400,
+  "rank": 340
+}

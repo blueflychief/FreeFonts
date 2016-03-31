@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Dan Sayers",
+  "varient": "300italic",
+  "source": "googlefonts",
+  "family": "Averia Serif Libre",
+  "font_family_name": "Averia Serif Libre",
+  "full_font_name": "Averia Serif Libre Light Italic",
+  "font_subfamily_name": "Light Italic",
+  "postscript_name": "AveriaSerifLibre-LightItalic",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Avería (\"breakdown\" or \"mechanical damage\" in Spanish - related to the root of the English word \"average\") is a Unicode typeface superfamily created from the average of all fonts on the computer of the creator, Dan Sayers. The process is described at iotic.com/averia. All metrics are the result of an averaging process. The included glyphs are those that existed in a majority of the source fonts. The Averia Libre families of fonts are based on the average of all 725 fonts in the Google Web Fonts project, released under the SIL Open Font License, as of 9 Nov 2011. Averia Serif Libre exists in 6 styles, and there are also the Averia Libre, Averia Sans Libre and Averia Gruesa Libre families. For more information please visit the Avería page on the iotic website or send an email to Dan Sayers.",
+  "last_modified": 1456214400000,
+  "size": 135976,
+  "weight_class": 400,
+  "rank": 436
+}

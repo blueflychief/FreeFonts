@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Riccardo De Franceschi",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Sonsie One",
+  "font_family_name": "Sonsie One",
+  "full_font_name": "Sonsie One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SonsieOne-Regular",
+  "trademark": "Sonsie One is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.rdftype.it",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Sonsie One is a heavy, medium contrast, large x-height script font. It was inspired by hand painted signs seen in Munich. Sonsie One improves on its sources by adding warmth, smoother flow and of touch of funkiness. Sonsie One is best used for display purposes at medium to large sizes.",
+  "last_modified": 1456214400000,
+  "size": 75992,
+  "weight_class": 400,
+  "rank": 553
+}

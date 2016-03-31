@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "calligraphic",
+    "casual",
+    "curly",
+    "decorative",
+    "display",
+    "elegant",
+    "formal"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Latinotype",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Sail",
+  "font_family_name": "Sail",
+  "full_font_name": "Sail",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sail-Regular",
+  "trademark": "Sail is a trademark of LatinoType Limitada.",
+  "manufacturer": "Miguel Hernandez",
+  "designer": "Miguel Hernandez",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1326960000000,
+  "size": 26728,
+  "weight_class": 400,
+  "rank": 42
+}

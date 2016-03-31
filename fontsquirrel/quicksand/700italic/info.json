@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "contemporary",
+    "dashed",
+    "dots",
+    "geometric",
+    "oblique",
+    "paragraph",
+    "rounded",
+    "sans",
+    "geometric"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Andrew Paglinawan",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Quicksand",
+  "font_family_name": "Quicksand",
+  "full_font_name": "Quicksand-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Quicksand-Bold",
+  "trademark": "Quicksand Bold is a trademark of the Andrew Paglinawan.",
+  "manufacturer": "Andrew Paglinawan",
+  "designer": "Andrew Paglinawan",
+  "designer_url": "www.andrewpaglinawan.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.002",
+  "last_modified": 1231401600000,
+  "size": 29324,
+  "weight_class": 700,
+  "rank": 2
+}

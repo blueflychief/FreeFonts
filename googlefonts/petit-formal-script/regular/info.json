@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Impallari Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Petit Formal Script",
+  "font_family_name": "Petit Formal Script",
+  "full_font_name": "Petit Formal Script",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PetitFormalScript-Regular",
+  "trademark": "Petit Formal Script is a trademark of Pablo Impallari.",
+  "manufacturer": "Pablo Impallari, Brenda Gallo, Rodrigo Fuenzalida",
+  "designer": "Pablo Impallari, Brenda Gallo, Rodrigo Fuenzalida",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.8) -G 200 -r 50",
+  "description": "Formal Scripts are great typefaces to suggest elegance, quality, refinement and luxury. They are used a lot in print publishing, but you don\u0027t see many formal scripts used on the web. Isn\u0027t it? Mostly because their tiny hairlines breaks and disappear when used at small sizes on the screen. Also, they usually have long ascenders and descenders, and the lowercase letters look too small when compared to most sans or serif fonts. More over, they are usually quite condensed, making them even more difficult to read. That\u0027s why we designed a script type specifically tailored for web use, that can survive being set even as small as 13px.",
+  "last_modified": 1456214400000,
+  "size": 175068,
+  "weight_class": 400,
+  "rank": 328
+}

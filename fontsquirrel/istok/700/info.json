@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Andrey Panov",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Istok",
+  "font_family_name": "Istok",
+  "full_font_name": "Istok Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Istok-Bold",
+  "manufacturer": "Andrey V. Panov",
+  "designer": "Andrey V. Panov",
+  "designer_url": "http://code.google.com/u/andrej.panov/",
+  "vendor_url": "http://code.google.com/p/istok",
+  "license_desciption": "Copyright (c) 2008-2012, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/ofl",
+  "version_string": "Version 1.0.1 ",
+  "last_modified": 1317279600000,
+  "size": 246888,
+  "weight_class": 700,
+  "rank": 574
+}

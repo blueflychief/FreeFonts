@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Gabriela",
+  "font_family_name": "Gabriela",
+  "full_font_name": "Gabriela",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Gabriela-Regular",
+  "trademark": "Gabriela is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Gabriela is a serif typeface with soft shapes, and special terminal forms which are shaped like curls. They connect each letter to create attractive word shapes and text blocks with a fine texture. In small bodies of text she works well for reading, and in headlines provides interesting details to catch the eye.",
+  "last_modified": 1456214400000,
+  "size": 36856,
+  "weight_class": 400,
+  "rank": 420
+}

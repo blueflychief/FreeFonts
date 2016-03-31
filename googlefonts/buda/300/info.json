@@ -1,0 +1,26 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Adèle Antignac",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Buda",
+  "font_family_name": "Buda",
+  "full_font_name": "Buda",
+  "font_subfamily_name": "light",
+  "postscript_name": "Buda",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002 ",
+  "description": "Against the typographical grey, Buda is a black and white typeface. The letters are shared by two contrasting weights, which clash and balance each other out. This typeface is inspired by Budapest, a paradoxal town, beautiful and ugly, fragile and exuberant. Like this town, the typeface Buda is an assemblage of heterogeneous elements which form a harmony.",
+  "last_modified": 1456214400000,
+  "size": 105988,
+  "weight_class": 400,
+  "rank": 533
+}

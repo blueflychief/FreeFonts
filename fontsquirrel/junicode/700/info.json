@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "condensed",
+    "oblique",
+    "paragraph",
+    "serif",
+    "transitional"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Peter S. Baker",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Junicode",
+  "font_family_name": "Junicode",
+  "full_font_name": "JunicodeBold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Junicode-Bold",
+  "manufacturer": "Briery Creek Software",
+  "designer": "Peter S. Baker",
+  "designer_url": "http://junicode/sourceforge.net/",
+  "license_desciption": "This font is free software; you are free to use it as you like, modify it, and redistribute it under the terms of the GNU Public License.\n\nSource code for this font (a Pfaedit spline font database) is available for download at www.engl.virginia.edu/OE/.",
+  "license_url": "http://www.gnu.org/licenses/gpl.txt",
+  "version_string": "Version 0.6.17 ",
+  "last_modified": 1449216000000,
+  "size": 151944,
+  "weight_class": 700,
+  "rank": 772
+}

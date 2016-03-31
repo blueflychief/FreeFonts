@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "paragraph",
+    "sans serif"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Daniel Maciel",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Palitoon",
+  "font_family_name": "Palitoon",
+  "full_font_name": "Palitoon-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Palitoon-Regular",
+  "manufacturer": "Daniel Maciel",
+  "designer": "Daniel Maciel",
+  "designer_url": "http://twitter.com/dmaciel",
+  "vendor_url": "http://dmaciel.net",
+  "version_string": "Version 1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "last_modified": 1432018800000,
+  "size": 32528,
+  "weight_class": 400,
+  "rank": 690
+}

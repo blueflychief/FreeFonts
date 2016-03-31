@@ -1,0 +1,29 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Erin McLaughlin",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Yantramanav",
+  "font_family_name": "Yantramanav Light",
+  "full_font_name": "Yantramanav Light",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Yantramanav-Light",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+  "description": "Yantramanav (?????????) is a Devanagari typeface family designed by Erin McLaughlin. The style and weights of Yantramanav\u0027s Devanagari were designed as a compliment to Roboto, a Latin family designed by Christian Robertson. This project is led by Erin McLaughlin, an independent typeface designer, font developer, and consultant who specializes in Indic fonts. To contribute, see github.com/erinmclaughlin/Yantramanav",
+  "last_modified": 1433314800000,
+  "size": 160460,
+  "weight_class": 300,
+  "rank": 384
+}

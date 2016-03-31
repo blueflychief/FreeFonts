@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Contra",
+  "font_family_name": "Contra",
+  "full_font_name": "Contra",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Contra",
+  "trademark": "Contra is a trademark of Fredrick Nader.",
+  "manufacturer": "Fredrick Nader",
+  "designer": "Fredrick Nader",
+  "designer_url": "www.apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "0.7",
+  "last_modified": 1230883200000,
+  "size": 69536,
+  "weight_class": 400,
+  "rank": 589
+}

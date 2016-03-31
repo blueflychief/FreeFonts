@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "cute",
+    "elegant",
+    "handwritten"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Birgit Pulk",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Kristi",
+  "font_family_name": "Kristi",
+  "full_font_name": "Kristi",
+  "font_subfamily_name": "Medium",
+  "postscript_name": "Kristi",
+  "license_desciption": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003 ",
+  "last_modified": 1305702000000,
+  "size": 47476,
+  "weight_class": 400,
+  "rank": 195
+}

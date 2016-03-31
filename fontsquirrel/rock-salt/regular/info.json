@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "brushed",
+    "handwritten",
+    "rough"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Rock Salt",
+  "font_family_name": "Rock Salt",
+  "full_font_name": "Rock Salt",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RockSalt",
+  "trademark": "Rock Salt is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1295856000000,
+  "size": 110080,
+  "weight_class": 400,
+  "rank": 139
+}

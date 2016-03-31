@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "casual",
+    "childish",
+    "cursive",
+    "handwritten"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Desyrel",
+  "font_family_name": "Desyrel",
+  "full_font_name": "Desyrel",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Desyrel",
+  "designer": "Dana Rice \u0026 Apostrophe",
+  "designer_url": "http://members.home.com/apostrophe/",
+  "vendor_url": "http://members.home.com/apostrophe/",
+  "version_string": "Version 1.0; 2000; initial release",
+  "last_modified": 1230883200000,
+  "size": 90928,
+  "weight_class": 400,
+  "rank": 143
+}

@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "headings",
+    "paragraph",
+    "serif",
+    "slab"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Christian Robertson",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Roboto Slab",
+  "font_family_name": "Roboto Slab",
+  "full_font_name": "Roboto Slab Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "RobotoSlab-Bold",
+  "trademark": "Roboto Slab is a trademark of Google.",
+  "designer": "Google",
+  "designer_url": "Christian Robertson",
+  "vendor_url": "Google.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.100263; 2013; ttfautohint (v0.94.20-1c74) -l 8 -r 12 -G 200 -x 14 -w \"\" -W",
+  "last_modified": 1373958000000,
+  "size": 170616,
+  "weight_class": 700,
+  "rank": 89
+}

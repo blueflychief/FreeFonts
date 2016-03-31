@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "David Perry",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Cardo",
+  "font_family_name": "Cardo",
+  "full_font_name": "Cardo Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Cardo-Italic",
+  "trademark": "Cardo Italic is a trademark of David J. Perry.",
+  "manufacturer": "David J. Perry",
+  "designer": "David J. Perry",
+  "designer_url": "http://scholarsfonts.net",
+  "vendor_url": "http://scholarsfonts.net",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 0.991",
+  "last_modified": 1277449200000,
+  "size": 262388,
+  "weight_class": 400,
+  "rank": 193
+}

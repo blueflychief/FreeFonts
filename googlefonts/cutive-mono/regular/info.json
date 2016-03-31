@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "monospace"
+  ],
+  "classifications": [
+    "monospace"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Cutive Mono",
+  "font_family_name": "Cutive Mono",
+  "full_font_name": "Cutive Mono",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CutiveMono-Regular",
+  "trademark": "CutiveMono is a trademark of Vernon Adams.",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "designer_url": "http://newtypography.co.uk",
+  "vendor_url": "http://newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002; ttfautohint (v0.93.5-3d13) -l 8 -r 50 -G 200 -x 16 -w \"gG\" -c",
+  "description": "The design of Cutive, and this monospace sister family Cutive Mono, is based on a number of classic typewriter typefaces, in particular the faces of IBM\u0027s \u0027Executive,\u0027 and the older \u0027Smith-Premier.\u0027 In Cutive these old faces re-emerge as webfonts that are useful for adding character to body texts as well as in larger sizes for headers and display. To contribute to the project see Cutive on GitHub.",
+  "last_modified": 1456214400000,
+  "size": 69180,
+  "weight_class": 400,
+  "rank": 362
+}

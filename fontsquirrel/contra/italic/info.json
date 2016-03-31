@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Contra",
+  "font_family_name": "Contra",
+  "full_font_name": "Contra Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Contra-Italic",
+  "trademark": "Contra Italic is a trademark of Fredrick Nader.",
+  "manufacturer": "Fredrick Nader",
+  "version_string": "0.7",
+  "last_modified": 1230883200000,
+  "size": 56236,
+  "weight_class": 400,
+  "rank": 589
+}

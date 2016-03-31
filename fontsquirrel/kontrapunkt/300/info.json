@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "headings",
+    "paragraph",
+    "serif",
+    "slab",
+    "square",
+    "true italics"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Kontrapunkt",
+  "varient": "300",
+  "source": "fontsquirrel",
+  "family": "Kontrapunkt",
+  "font_family_name": "Kontrapunkt Light",
+  "full_font_name": "KontrapunktLight",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "KontrapunktLight",
+  "version_string": "Version 001.000 ",
+  "last_modified": 1230883200000,
+  "size": 29180,
+  "weight_class": 300,
+  "rank": 212
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "calligraphic",
+    "casual",
+    "display",
+    "elegant",
+    "handrawn",
+    "handwritten"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Kingthings",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Kingthings Wrote",
+  "font_family_name": "Kingthings Wrote",
+  "full_font_name": "Kingthings Wrote",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Kingthings Wrote",
+  "trademark": "Kingthings Wrote (c) Kevin King - Kingthings 2004",
+  "manufacturer": "http://mysite.freeserve.com/Kingthings/index.htm",
+  "designer": "kevinking@kingthings.freeserve.co.uk",
+  "designer_url": "kevinking@kingthings.freeserve.co.uk",
+  "vendor_url": "http://mysite.freeserve.com/Kingthings/index.htm",
+  "version_string": "Version 1.0 September 2004",
+  "last_modified": 1232006400000,
+  "size": 14032,
+  "weight_class": 400,
+  "rank": 210
+}

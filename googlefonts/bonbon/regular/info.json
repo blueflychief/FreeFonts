@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Bonbon",
+  "font_family_name": "Bonbon",
+  "full_font_name": "Bonbon",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Bonbon-Regular",
+  "trademark": "Bonbon is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Ksenia Erulevich",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Bonbon is a fancy handwriting font for cheerful and bright headlines. The letterforms are artistic and naive as if they are written in a teenage girl\u0027s diary. It is drawn with a fine marker by author Ksenia Erulevich. Curves are carefully adjusted so that the font will also work well in print - making it a good choice for appetizing product design, greeting cards, or titling in children\u0027s books. Extra ornamental characters are included.",
+  "last_modified": 1456214400000,
+  "size": 82892,
+  "weight_class": 400,
+  "rank": 712
+}

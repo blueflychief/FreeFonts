@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "brushed",
+    "calligraphic",
+    "handwritten",
+    "paragraph"
+  ],
+  "classifications": [
+    "calligraphic"
+  ],
+  "creator": "frostmoth",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "MothproofScript",
+  "font_family_name": "MothproofScript",
+  "full_font_name": "MothproofScript",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MothproofScript",
+  "trademark": "",
+  "version_string": "Macromedia Fontographer 4.1 12/19/99",
+  "last_modified": 1232438400000,
+  "size": 43264,
+  "weight_class": 400,
+  "rank": 329
+}

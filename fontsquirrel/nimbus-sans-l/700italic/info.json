@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "corporate",
+    "neutral",
+    "paragraph",
+    "sans",
+    "neo-grotesque"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "URW++",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Nimbus Sans L",
+  "font_family_name": "NimbusSanL",
+  "full_font_name": "NimbusSanL-BolIta",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "NimbusSanL-BolIta",
+  "manufacturer": "(URW)++ Design \u0026 Development",
+  "designer_url": "http://www.urwpp.com",
+  "vendor_url": "http://www.urwpp.de",
+  "version_string": "Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895",
+  "last_modified": 1455264000000,
+  "size": 77360,
+  "weight_class": 700,
+  "rank": 775
+}

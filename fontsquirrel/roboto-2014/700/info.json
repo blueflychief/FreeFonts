@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "condensed",
+    "contemporary",
+    "oblique",
+    "paragraph",
+    "sans",
+    "neo-grotesque"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Christian Robertson",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Roboto 2014",
+  "font_family_name": "Roboto",
+  "full_font_name": "Roboto Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Roboto-Bold",
+  "trademark": "Roboto is a trademark of Google.",
+  "designer": "Google",
+  "designer_url": "Christian Robertson",
+  "vendor_url": "Google.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 2.001150; 2014",
+  "last_modified": 1404802800000,
+  "size": 162464,
+  "weight_class": 700,
+  "rank": 378
+}

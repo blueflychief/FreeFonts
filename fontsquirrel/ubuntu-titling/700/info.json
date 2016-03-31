@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "poster",
+    "rounded",
+    "sans serif"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Betatype",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Ubuntu Titling",
+  "font_family_name": "Ubuntu Titling Rg",
+  "full_font_name": "UbuntuTitling-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "UbuntuTitling-Bold",
+  "trademark": "Ubuntu Titling is a trademark of Canonical.",
+  "designer": "Betatype",
+  "designer_url": "Christian Robertson, Betatype.com",
+  "vendor_url": "Betatype.com",
+  "version_string": "Version 1.000 2007 initial release",
+  "last_modified": 1258704000000,
+  "size": 55460,
+  "weight_class": 700,
+  "rank": 192
+}

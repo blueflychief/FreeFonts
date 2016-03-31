@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Miltonian",
+  "font_family_name": "Miltonian",
+  "full_font_name": "Miltonian",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Miltonian-Regular",
+  "trademark": "Miltonian is a trademark of Pablo Impallari",
+  "manufacturer": "Pablo Impallari",
+  "designer": "Pablo Impallari",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.008",
+  "description": "Miltonian is a fun \u0027tattoo\u0027 font. There is also the Miltonian Tattoo variant with filled-in forms. For nice effects, the two fonts can be combined by overlaying them. Also included are a few dingbats that can be used for decoration. Updated: January 2016 to version 1.008",
+  "last_modified": 1456214400000,
+  "size": 126804,
+  "weight_class": 400,
+  "rank": 647
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Belleza",
+  "font_family_name": "Belleza",
+  "full_font_name": "Belleza",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Belleza-Regular",
+  "trademark": "Belleza is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Belleza is a humanist sans serif typeface inspired by the world of fashion. With classic proportions, high contrast in its strokes and special counters, it provides a fresh look that reminds readers of elegant models and feminine beauty. Belleza is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 27820,
+  "weight_class": 400,
+  "rank": 296
+}

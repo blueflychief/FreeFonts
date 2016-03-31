@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Caveat Brush",
+  "font_family_name": "Caveat Brush",
+  "full_font_name": "Caveat Brush",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CaveatBrush-Regular",
+  "manufacturer": "Creative Lab NY",
+  "designer": "Pablo Impallari",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.096; ttfautohint (v1.3)",
+  "description": "Caveat is a handwriting type family designed by Pablo Impallari. It is designed for short annotations. For a different style, there is also a sister family, Caveat The fonts have OpenType features that enable the letters to have slight variations according to their occurrence within a word, for a natural handwritten feel.",
+  "last_modified": 1444028400000,
+  "size": 295568,
+  "weight_class": 400,
+  "rank": 523
+}

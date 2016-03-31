@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Vidaloka",
+  "font_family_name": "Vidaloka ",
+  "full_font_name": "Vidaloka ",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Vidaloka-Regular",
+  "trademark": "Vidaloka is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Cyreal (www.cyreal.org)",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Vidaloka\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": " http://scripts.sil.org/OFL",
+  "version_string": "Version 1.011",
+  "description": "Vidaloka is a Didone display typeface for headlines and short blocks of text. Because of its high contrast it will work best from 16px and above. The main features are curlified drops and sloped terminals. Tail of Q has a distinctive baroque inspired form. Vidaloka is designed by Alexei Vanyashin and Olga Karpushina.",
+  "last_modified": 1456214400000,
+  "size": 135704,
+  "weight_class": 400,
+  "rank": 128
+}

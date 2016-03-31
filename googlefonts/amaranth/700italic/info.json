@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Gesine Todt",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Amaranth",
+  "font_family_name": "Amaranth",
+  "full_font_name": "Amaranth Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Amaranth-BoldItalic",
+  "trademark": "Amaranth Bold Italic is a trademark of Gesine Todt.",
+  "manufacturer": "Gesine Todt",
+  "designer": "Gesine Todt",
+  "designer_url": "http://www.gesine-todt.de",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "The Amaranth family is a friendly upright italic design with a slight contrast and distinctive curves. With its three new styles Amaranth is healthy for all your texts too!",
+  "last_modified": 1456214400000,
+  "size": 107536,
+  "weight_class": 700,
+  "rank": 155
+}

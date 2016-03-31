@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "condensed",
+    "display",
+    "serif",
+    "slab",
+    "western"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Smokum",
+  "font_family_name": "Smokum",
+  "full_font_name": "Smokum",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Smokum-Regular",
+  "trademark": "Smokum is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1338361200000,
+  "size": 63948,
+  "weight_class": 400,
+  "rank": 728
+}

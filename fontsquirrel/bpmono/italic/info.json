@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "display",
+    "monospaced",
+    "paragraph",
+    "sans serif",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Backpacker",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "BPmono",
+  "font_family_name": "BPmono",
+  "full_font_name": "BPmono Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "BPmono-Italic",
+  "trademark": "BPmono Italic is a trademark of George Triantafyllakos.",
+  "manufacturer": "George Triantafyllakos",
+  "designer": "George Triantafyllakos",
+  "designer_url": "http://www.backpacker.gr",
+  "vendor_url": "http://www.backpacker.gr",
+  "version_string": "Version 1.000 2007 initial release",
+  "last_modified": 1253689200000,
+  "size": 43184,
+  "weight_class": 400,
+  "rank": 614
+}

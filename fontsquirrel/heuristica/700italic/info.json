@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "paragraph",
+    "serif",
+    "transitional"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Andrej Panov",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Heuristica",
+  "font_family_name": "Heuristica",
+  "full_font_name": "Heuristica Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Heuristica-BoldItalic",
+  "license_desciption": "\nCopyright (c) 2008-2012 Andrey V. Panov (panov@canopus.iacp.dvo.ru), \nwith Reserved Font Name Heuristica.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied together with this font package in OFL.txt, \nand is also available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "version_string": "Version 1.0.1 ",
+  "last_modified": 1373612400000,
+  "size": 184748,
+  "weight_class": 700,
+  "rank": 427
+}

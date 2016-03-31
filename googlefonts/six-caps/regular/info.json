@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Six Caps",
+  "font_family_name": "Six Caps",
+  "full_font_name": "Six Caps",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SixCaps",
+  "trademark": "Six Caps is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "version_string": "Version 001.000",
+  "description": "Six Caps is a highly condensed and tight display font. It is a stripped down and \u0027normalised\u0027 version of the classic grotesk display forms.",
+  "last_modified": 1456214400000,
+  "size": 46388,
+  "weight_class": 400,
+  "rank": 259
+}

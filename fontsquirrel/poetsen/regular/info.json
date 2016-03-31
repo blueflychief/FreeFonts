@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "brush",
+    "brushed",
+    "casual",
+    "headline"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Impallari Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Poetsen",
+  "font_family_name": "PoetsenOne",
+  "full_font_name": "PoetsenOne-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PoetsenOne-Regular",
+  "trademark": "Poetsen is a trademark of Pablo Impallari, Rodrigo Fuenzalida.",
+  "manufacturer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer": "Rodrigo Fuenzalida, Pablo Impallari",
+  "designer_url": "www.impallari.com, www.rfuenzalida.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1374562800000,
+  "size": 83060,
+  "weight_class": 400,
+  "rank": 409
+}

@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Chank",
+  "varient": "900italic",
+  "source": "fontsquirrel",
+  "family": "Panefresco",
+  "font_family_name": "Panefresco 999wt",
+  "full_font_name": "Panefresco 999wt Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Panefresco999wt-Italic",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1295596800000,
+  "size": 113068,
+  "weight_class": 900,
+  "rank": 433
+}

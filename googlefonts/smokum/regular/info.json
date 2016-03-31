@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Smokum",
+  "font_family_name": "Smokum",
+  "full_font_name": "Smokum",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Smokum-Regular",
+  "trademark": "Smokum is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Smokum is a western inspired slab-serif font with a little playful swagger to it. It\u0027s perfect for headlines and display uses that require a little loosened up country flair, but because of the contrast of thicks and thins, it will perform best as a WebFont at medium to large point sizes.",
+  "last_modified": 1456214400000,
+  "size": 63948,
+  "weight_class": 400,
+  "rank": 658
+}

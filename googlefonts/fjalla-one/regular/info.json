@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Sorkin Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fjalla One",
+  "font_family_name": "Fjalla One",
+  "full_font_name": "Fjalla One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FjallaOne-Regular",
+  "trademark": "Fjalla is a trademark of Sorkin Type Co.",
+  "manufacturer": "Irina Smirnova",
+  "designer": "Irina Smirnova",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Foundry: Sorkin Type Co Fjalla One is a medium contrast display sans serif. Fjalla One has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Fjalla One can be used in a wide range of sizes. Source files are available from Google Code. To contribute to the project contact Eben Sorkin.",
+  "last_modified": 1456214400000,
+  "size": 36572,
+  "weight_class": 400,
+  "rank": 17
+}

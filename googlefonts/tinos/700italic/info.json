@@ -1,0 +1,39 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "greek-ext",
+    "cyrillic",
+    "vietnamese",
+    "hebrew",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Steve Matteson",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Tinos",
+  "font_family_name": "Tinos",
+  "full_font_name": "Tinos Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Tinos-BoldItalic",
+  "trademark": "Tinos is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+  "manufacturer": "Monotype Imaging Inc.",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase",
+  "vendor_url": "http://www.monotypeimaging.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.23",
+  "description": "Tinos was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in May 2013 with improved hinting and released under the Apache 2.0 license.",
+  "last_modified": 1456214400000,
+  "size": 457320,
+  "weight_class": 700,
+  "rank": 114
+}

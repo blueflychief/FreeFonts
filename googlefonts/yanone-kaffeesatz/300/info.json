@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Yanone",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Yanone Kaffeesatz",
+  "font_family_name": "Yanone Kaffeesatz",
+  "full_font_name": "Yanone Kaffeesatz Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "YanoneKaffeesatz-Light",
+  "trademark": "Yanone Kaffeesatz is a trademark of Yanone Font Production. Not",
+  "manufacturer": "Yanone Font Production. Not for release.",
+  "designer": "Yanone",
+  "designer_url": "http://yanone.de/typedesign/",
+  "vendor_url": "http://yanone.de/typedesign/",
+  "license_desciption": "SIL Open Font License, Version 1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "\"Yanone Kaffeesatz\" was first published in 2004 and is Yanone’s first ever finished typeface. Its Bold is reminiscent of 1920s coffee house typography, while the rather thin fonts bridge the gap to present times. Lacking self confidence and knowledge about the type scene, Yanone decided to publish the family for free under a Creative Commons License. A decision that should turn out one of the best he ever made. It has been downloaded over 100,000 times to date, and you can witness Kaffeesatz use on German fresh-water gyms, Dubai mall promos and New Zealand McDonalds ads. And of course on coffee and foodstuff packaging and café design around the globe. In 2009 he reworked much of the typeface and it got published in FontShop’s FontFont Library under the new name FF Kava. You can read more about it in an extensive article by Yves Peters on FontFeed.",
+  "last_modified": 1456214400000,
+  "size": 77296,
+  "weight_class": 300,
+  "rank": 24
+}

@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "clean",
+    "headings",
+    "oblique",
+    "paragraph",
+    "sans",
+    "humanist"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Punchcut",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Amble",
+  "font_family_name": "Amble",
+  "full_font_name": "Amble Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Amble-Bold",
+  "trademark": "Amble is a trademark of Punchcut.",
+  "designer": "Punchcut",
+  "designer_url": "Christian Robertson",
+  "vendor_url": "Punchcut.com",
+  "version_string": "Version 1.00000; 2009",
+  "last_modified": 1331193600000,
+  "size": 88958,
+  "weight_class": 700,
+  "rank": 106
+}

@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans serif"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "M+ Fonts",
+  "varient": "500",
+  "source": "fontsquirrel",
+  "family": "M+ 1m",
+  "font_family_name": "M+ 1m",
+  "full_font_name": "M+ 1m medium",
+  "font_subfamily_name": "medium",
+  "postscript_name": "mplus-1m-medium",
+  "vendor_url": "http://mplus-fonts.sourceforge.jp",
+  "version_string": "Version 1.018 ",
+  "last_modified": 1231401600000,
+  "size": 288820,
+  "weight_class": 500,
+  "rank": 644
+}

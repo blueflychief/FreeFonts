@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "paragraph"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Paratype",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "PT Serif",
+  "font_family_name": "PT Serif",
+  "full_font_name": "PT Serif Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "PTSerif-Bold",
+  "trademark": "PT Serif is a trademark of the ParaType Ltd.",
+  "manufacturer": "ParaType Ltd",
+  "designer": "A.Korolkova, O.Umpeleva, V.Yefimov",
+  "designer_url": "http://www.paratype.com/help/designers/",
+  "vendor_url": "http://www.paratype.com",
+  "license_desciption": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp.",
+  "license_url": "http://www.paratype.com/public/pt_openlicense_eng.asp",
+  "version_string": "Version 1.000",
+  "last_modified": 1293696000000,
+  "size": 327840,
+  "weight_class": 700,
+  "rank": 196
+}

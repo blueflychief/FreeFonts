@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "serif",
+    "transitional"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Google",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Noto Serif",
+  "font_family_name": "Noto Serif",
+  "full_font_name": "Noto Serif Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "NotoSerif-Bold",
+  "trademark": "Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+  "manufacturer": "Monotype Imaging Inc.",
+  "designer": "Monotype Design team",
+  "designer_url": "http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase",
+  "vendor_url": "http://code.google.com/p/noto/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.02",
+  "last_modified": 1373958000000,
+  "size": 370884,
+  "weight_class": 700,
+  "rank": 371
+}

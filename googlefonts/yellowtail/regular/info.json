@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Yellowtail",
+  "font_family_name": "Yellowtail",
+  "full_font_name": "Yellowtail",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Yellowtail",
+  "version_string": "Version 001.001 ",
+  "description": "Yellowtail is an old school flavored flat brush script typeface of medium weight. It\u0027s mix of connecting and non-connecting letterforms lend to its unique look and legibility. Yellowtail nods to classic 1930\u0027s typestyles like Gillies Gothic \u0026 Kaufmann, yet has the loose visual cadence of sign painter scripts.",
+  "last_modified": 1456214400000,
+  "size": 62424,
+  "weight_class": 400,
+  "rank": 251
+}

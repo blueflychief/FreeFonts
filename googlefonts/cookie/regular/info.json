@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Ania Kruk",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Cookie",
+  "font_family_name": "Cookie",
+  "full_font_name": "Cookie-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Cookie-Regular",
+  "trademark": "Cookie Regular is a trademark of Ania Kruk.",
+  "manufacturer": "Ania Kruk",
+  "designer": "Ania Kruk",
+  "designer_url": "http://www.aniakruk.com",
+  "vendor_url": "http://www.aniakruk.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004",
+  "description": "Cookie is a script typeface based on brush calligraphy. It has a little bit of 1950s style that makes you think about all the beautiful ads and pin-ups from this time. It is sweet and friendly - but not too decorative; simple and legible even in text sizes.",
+  "last_modified": 1456214400000,
+  "size": 43800,
+  "weight_class": 400,
+  "rank": 135
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Szymon Celej",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Doppio One",
+  "font_family_name": "Doppio One",
+  "full_font_name": "Doppio One Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DoppioOne-Regular",
+  "trademark": "Doppio is a trademark of Sorkin Type Co.",
+  "manufacturer": "Szymon Celej",
+  "designer": "Szymon Celej",
+  "designer_url": "www.hypnotype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Doppio One is a robust low contrast sans serif type with a contemporary feeling. Doppio One will work from small text sizes through large display sizes. Doppio\u0027s boxy style makes it especially suitable for screen use. To contribute to the project contact Eben Sorkin",
+  "last_modified": 1456214400000,
+  "size": 55704,
+  "weight_class": 400,
+  "rank": 178
+}

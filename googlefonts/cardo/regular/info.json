@@ -1,0 +1,35 @@
+{
+  "subsets": [
+    "latin",
+    "greek-ext",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "David Perry",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Cardo",
+  "font_family_name": "Cardo",
+  "full_font_name": "Cardo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Cardo-Regular",
+  "trademark": "Cardo is a trademark of David J. Perry.",
+  "manufacturer": "David J. Perry",
+  "designer": "David J. Perry",
+  "designer_url": "http://scholarsfonts.net",
+  "vendor_url": "http://scholarsfonts.net",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0451",
+  "description": "Cardo is a large Unicode font specifically designed for the needs of classicists, Biblical scholars, medievalists, and linguists. It also works well for general typesetting in situations where a high-quality Old Style font is appropriate. Its large character set supports many modern languages as well as those needed by scholars. Cardo also contains features that are required for high-quality typography such as ligatures, text figures (also known as old style numerals), true small capitals and a variety of punctuation and space characters.",
+  "last_modified": 1456214400000,
+  "size": 400468,
+  "weight_class": 400,
+  "rank": 136
+}

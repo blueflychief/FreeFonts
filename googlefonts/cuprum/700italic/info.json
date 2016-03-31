@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Cuprum",
+  "font_family_name": "Cuprum",
+  "full_font_name": "Cuprum Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Cuprum-BoldItalic",
+  "trademark": "Cuprum Bold Italic is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://jovanny.ru",
+  "vendor_url": "http://jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Cuprum was created in 2006 based on the works Miles Newlyn. Cuprum is a narrow grotesque. It is quite versatile. Mostly how it is now, I do not like myself, because as time passed and since then I have learned to make fonts much better. An interesting history of the appearance of his name: Cuprum is copper, not gold or silver. Copper is too noble, but it is much cheaper and copper is not used for medals – only pots.",
+  "last_modified": 1456214400000,
+  "size": 96188,
+  "weight_class": 700,
+  "rank": 55
+}

@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Eben Sorkin",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Dekko",
+  "font_family_name": "Dekko",
+  "full_font_name": "Dekko",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Dekko",
+  "manufacturer": "Sorkin Type",
+  "designer": "Multiple",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.001",
+  "description": "Dekko’s personality is both warm and casual. It originated with Modular InfoTech\u0027s 4948, and was modified to feel more written and regular in appearance and weight. The inter-letter spacing of the design is now wider, allowing for it to be used at smaller sizes on screens. Dekko also comes with a complete set of Latin which matches the Devanagari in weight and and size, and originates with Short Stack. Both the Devanagari and the Latin are based on written forms, and their stroke contrast has thick horizontals. The pen angles traditionally associated with Devanagari has some diagonal stress, but here the Latin script uses a vertical stress. This project is led by Eben Sorkin at Sorkin Type Co, a type foundry based in Boston, USA. To contribute, see Dekko on GitHub. Updated: Improvements to OpenType shaping, in March 2015.",
+  "last_modified": 1428044400000,
+  "size": 215184,
+  "weight_class": 400,
+  "rank": 634
+}

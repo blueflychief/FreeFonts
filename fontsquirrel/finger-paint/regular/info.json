@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "brush",
+    "casual",
+    "display",
+    "handrawn",
+    "paint"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Ralph Oliver du Carrois",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Finger Paint",
+  "font_family_name": "Finger Paint",
+  "full_font_name": "Finger Paint",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FingerPaint-Regular",
+  "trademark": "Finger Paint is a trademark of Ralph du Carrois.",
+  "manufacturer": "Ralph du Carrois",
+  "designer": "Ralph du Carrois",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1382598000000,
+  "size": 107404,
+  "weight_class": 400,
+  "rank": 467
+}

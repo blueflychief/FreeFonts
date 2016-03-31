@@ -1,0 +1,39 @@
+{
+  "subsets": [
+    "devanagari",
+    "cyrillic-ext",
+    "latin",
+    "greek-ext",
+    "cyrillic",
+    "vietnamese",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Google",
+  "varient": "italic",
+  "source": "googlefonts",
+  "family": "Noto Sans",
+  "font_family_name": "Noto Sans",
+  "full_font_name": "Noto Sans Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "NotoSans-Italic",
+  "trademark": "Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+  "manufacturer": "Monotype Imaging Inc.",
+  "designer": "Monotype Design team",
+  "designer_url": "http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase",
+  "vendor_url": "http://code.google.com/p/noto/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.04",
+  "description": "When text is rendered by a computer, sometimes there will be characters in the text that can not be displayed, because no font that supports them is available to the computer. When this occurs, small boxes are shown to represent the characters. We call those small boxes “tofu,” and we want to remove tofu from the Web. This is how the Noto font families got their name. Noto helps to make the web more beautiful across platforms for all languages. Currently, Noto covers over 30 scripts, and will cover all of Unicode in the future. This is the Sans Latin, Greek and Cyrillic family. It has Regular, Bold, Italic and Bold Italic styles and is hinted. It is derived from Droid, and like Droid it has a serif sister family, Noto Serif. Noto fonts for many other languages are available as web fonts from the Google Web Fonts Early Access page. Noto fonts are intended to be visually harmonious across multiple languages, with compatible heights and stroke thicknesses. For the currently released Noto fonts see code.google.com/p/noto/",
+  "last_modified": 1456214400000,
+  "size": 279268,
+  "weight_class": 400,
+  "rank": 20
+}

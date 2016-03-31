@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Barry Schwartz",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Sorts Mill Goudy",
+  "font_family_name": "Sorts Mill Goudy",
+  "full_font_name": "Sorts Mill Goudy Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SortsMillGoudy-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 003.101 ",
+  "description": "A revival of Frederic Goudy\u0027s \u0027Goudy Oldstyle\u0027 with Regular and Italic styles, and extended Latin character coverage.",
+  "last_modified": 1456214400000,
+  "size": 121372,
+  "weight_class": 400,
+  "rank": 152
+}

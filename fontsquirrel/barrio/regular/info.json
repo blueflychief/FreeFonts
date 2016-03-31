@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "all caps",
+    "art deco",
+    "cute",
+    "display",
+    "geometric",
+    "humanist",
+    "informal",
+    "marker",
+    "poster",
+    "sans serif",
+    "uneven"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Omnibus Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Barrio",
+  "font_family_name": "Barrio",
+  "full_font_name": "Barrio",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Barrio-Regular",
+  "manufacturer": "Pablo Cosgaya \u0026 Sergio Jiménez",
+  "designer": "Pablo Cosgaya \u0026 Sergio Jiménez",
+  "designer_url": "http://www.subcoolture.com",
+  "vendor_url": "http://www.omnibus-type.com/",
+  "version_string": "Version 1.002;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1378796400000,
+  "size": 77300,
+  "weight_class": 400,
+  "rank": 332
+}

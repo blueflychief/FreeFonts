@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "geometric",
+    "headings",
+    "paragraph",
+    "true italics"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Anton Koovit",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Arvo",
+  "font_family_name": "Arvo",
+  "full_font_name": "Arvo Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Arvo-Bold",
+  "trademark": "Arvo is a trademark of Anton Koovit. 2010",
+  "manufacturer": "Anton Koovit",
+  "designer": "Anton Koovit",
+  "designer_url": "http://www.kork.ee",
+  "vendor_url": "http://www.korkork.com/",
+  "license_desciption": "SIL openfont License 1.1",
+  "license_url": "http://www.korkork.com/license/arvo/",
+  "version_string": "Version 1.005 2010 beta release",
+  "last_modified": 1292832000000,
+  "size": 37400,
+  "weight_class": 700,
+  "rank": 51
+}

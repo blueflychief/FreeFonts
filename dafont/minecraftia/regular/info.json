@@ -1,0 +1,23 @@
+{
+  "categories": [
+    "Bitmap",
+    "help"
+  ],
+  "varient": "regular",
+  "source": "dafont",
+  "family": "Minecraftia",
+  "font_family_name": "Minecraftia",
+  "full_font_name": "Minecraftia 2.0",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Minecraftia-Regular",
+  "manufacturer": "http://andrewtyler.net",
+  "designer": "Andrew Tyler",
+  "designer_url": "http://andrewtyler.net",
+  "vendor_url": "http://andrewtyler.net",
+  "license_desciption": "Creative Commons Attribution Share Alike",
+  "version_string": "Version 2.0",
+  "last_modified": 0,
+  "size": 70324,
+  "weight_class": 400,
+  "rank": 950
+}

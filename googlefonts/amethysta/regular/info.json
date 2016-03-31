@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Amethysta",
+  "font_family_name": "Amethysta",
+  "full_font_name": "Amethysta",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Amethysta-Regular",
+  "trademark": "Amethysta is a trademark of Cyreal (www.cyreal.org).",
+  "manufacturer": "Cyreal (www.cyreal.org)",
+  "designer": "Konstantin Vinogradov, Alexei Vanyashin",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Amethysta\".\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Amethysta was designed by Konstantin Vinogradov with the purpose of printing on low quality paper in mind. This is why it has such minimalistic wedge serifs and terminals. It builds the impression of a simple and strong text typeface. In terms of proportions it is closely related to the transitional serif group. Amethysta is suitable for small to medium sizes, while some details will be noticeable at larger sizes. It also will work well in print.",
+  "last_modified": 1456214400000,
+  "size": 67044,
+  "weight_class": 400,
+  "rank": 469
+}

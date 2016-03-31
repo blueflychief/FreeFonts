@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "display",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Devroye",
+  "font_family_name": "Devroye Extra",
+  "full_font_name": "Devroye Extra",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DevroyeExtra",
+  "designer": "Apostrophe",
+  "designer_url": "www.apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "1.2",
+  "last_modified": 1253602800000,
+  "size": 36248,
+  "weight_class": 400,
+  "rank": 315
+}

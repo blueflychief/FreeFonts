@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Joti One",
+  "font_family_name": "Joti One",
+  "full_font_name": "Joti One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "JotiOne-Regular",
+  "trademark": "Joti is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "I enjoyed designing this typeface because it was inspired by my little son \"Jonah,\" who is called by his friends \"Joti.\" The type has the informality and style of the cartoons which children watch. Its primary concept is top-heavy stems with a slight sense of movement to further enhance the style. Joti is ideal for composing headlines and short texts in sizes larger than 14 points. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 45584,
+  "weight_class": 400,
+  "rank": 584
+}

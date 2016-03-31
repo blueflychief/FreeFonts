@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "headings",
+    "paragraph",
+    "sans",
+    "square"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Jonas Hecksher",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Play",
+  "font_family_name": "Play",
+  "full_font_name": "Play-Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Play-Bold",
+  "trademark": "Play Bold is a trademark of Jonas Hecksher, Playtypeª, e-types AS.",
+  "manufacturer": "Jonas Hecksher, Playtypeª, e-types AS",
+  "designer": "Jonas Hecksher",
+  "designer_url": "http://www.e-types.com",
+  "vendor_url": "http://www.playtype.com",
+  "license_desciption": "Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS. All\rrights reserved. Available under SIL OFL v1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1305097200000,
+  "size": 170232,
+  "weight_class": 700,
+  "rank": 272
+}

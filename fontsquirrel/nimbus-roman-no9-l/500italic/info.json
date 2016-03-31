@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph",
+    "serif",
+    "transitional"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "URW++",
+  "varient": "500italic",
+  "source": "fontsquirrel",
+  "family": "Nimbus Roman No9 L",
+  "font_family_name": "NimbusRomNo9L",
+  "full_font_name": "NimbusRomNo9L-MedIta",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "NimbusRomNo9L-MedIta",
+  "manufacturer": "(URW)++ Design \u0026 Development",
+  "designer_url": "http://www.urwpp.com",
+  "vendor_url": "http://www.urwpp.de",
+  "version_string": "Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895",
+  "last_modified": 1455264000000,
+  "size": 95924,
+  "weight_class": 500,
+  "rank": 777
+}

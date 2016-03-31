@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Brenda Gallo",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Happy Monkey",
+  "font_family_name": "Happy Monkey",
+  "full_font_name": "Happy Monkey",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HappyMonkey-Regular",
+  "trademark": "Happy Monkey is a trademark of Brenda Gallo (gbrenda1987@gmail.com).",
+  "manufacturer": "Brenda Gallo (gbrenda1987@gmail.com)",
+  "designer": "Brenda Gallo (gbrenda1987@gmail.com)",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Happy Monkey is a display sans serif typeface family, with thin and rounded strokes. Suitable for informal headlines and all your fun typography! Designed by Brenda Gallo and Gustavo Dipre.",
+  "last_modified": 1456214400000,
+  "size": 76344,
+  "weight_class": 400,
+  "rank": 392
+}

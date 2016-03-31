@@ -1,0 +1,25 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Dan Rhatigan",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Astloch",
+  "font_family_name": "Astloch",
+  "full_font_name": "Astloch Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Astloch-Bold",
+  "version_string": "Version 1.000",
+  "description": "Astloch is a set of monolinear display faces — one delicate, one sturdy — based on the mix of sharp angles and florid curves found in fraktur lettering.",
+  "last_modified": 1456214400000,
+  "size": 75684,
+  "weight_class": 700,
+  "rank": 599
+}

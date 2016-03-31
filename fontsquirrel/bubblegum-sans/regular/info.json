@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "casual",
+    "childish",
+    "comic",
+    "cute"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Bubblegum Sans",
+  "font_family_name": "Bubblegum Sans",
+  "full_font_name": "BubblegumSans-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BubblegumSans-Regular",
+  "trademark": "Bubblegum Sans is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1333090800000,
+  "size": 29748,
+  "weight_class": 400,
+  "rank": 208
+}

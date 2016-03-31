@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "casual",
+    "grunge",
+    "handwritten"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Font Diner",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Permanent Marker",
+  "font_family_name": "Permanent Marker",
+  "full_font_name": "Permanent Marker",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PermanentMarker",
+  "trademark": "Permanent Marker is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1294732800000,
+  "size": 74752,
+  "weight_class": 400,
+  "rank": 83
+}

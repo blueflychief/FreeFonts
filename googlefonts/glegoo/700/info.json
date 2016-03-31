@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Glegoo",
+  "font_family_name": "Glegoo",
+  "full_font_name": "Glegoo Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Glegoo-Bold",
+  "trademark": "Glegoo is a trademark of Eduardo Tunni",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.0.1; ttfautohint (v0.9) -r 48 -G 60",
+  "description": "Glegoo, a truly modern slab serif. It has a precise balance of shapes, counterforms and strokes. Glegoo is slightly condensed, has a large x-height, short ascenders/descenders and large counterforms. These attributes all add up to help reading text, even in very small sizes. Its careful design and proper choice of weight generate a nice texture in paragraphs of text, but the design is also intended to work well when composing headlines with presence and elegance. Large usage will show off the delicate modulation of strokes that are in this font. Updated August 2014: A Bold style was added, the family was hinted with ttfautohint, and a Devanagari subset was included. Contribute to the project at github.com/etunni/glegoo",
+  "last_modified": 1456214400000,
+  "size": 271068,
+  "weight_class": 700,
+  "rank": 175
+}

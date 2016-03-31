@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Font Diner",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fontdiner Swanky",
+  "font_family_name": "Fontdiner Swanky",
+  "full_font_name": "Fontdiner Swanky",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FontdinerSwanky",
+  "trademark": "Fontdiner Swanky is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Atomic Age science meets ultra cool with this swingin\u0027 retro latin sharp serif font we call Fontdiner Swanky! Like the older much hipper brother of it\u0027s Loungy counterpart, Swanky brings his bolder style and charming good looks when it\u0027s time to really let the neighbors know you mean business!",
+  "last_modified": 1456214400000,
+  "size": 45524,
+  "weight_class": 400,
+  "rank": 240
+}

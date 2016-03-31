@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "all caps",
+    "felt-tip",
+    "narrow"
+  ],
+  "classifications": [
+    "display",
+    "handdrawn"
+  ],
+  "creator": "Frente",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Frente H1",
+  "font_family_name": "Frente H1",
+  "full_font_name": "FrenteH1-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FrenteH1-Regular",
+  "designer": "Rodrigo Brod - Estudio Frente",
+  "designer_url": "http://frente.cc",
+  "version_string": "Version 1.001;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "last_modified": 1396681200000,
+  "size": 24872,
+  "weight_class": 400,
+  "rank": 125
+}

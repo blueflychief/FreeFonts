@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Naima Ben Ayed",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Tulpen One",
+  "font_family_name": "Tulpen One",
+  "full_font_name": "Tulpen One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "TulpenOne-Regular",
+  "trademark": "Tulpen is a trademark of Naima Ben Ayed.",
+  "manufacturer": "Naima Ben Ayed, Anton Koovit",
+  "designer": "Naima Ben Ayed",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Tulpen is a tall sans serif type, suitable for display uses in headlines and other large text.",
+  "last_modified": 1456214400000,
+  "size": 35244,
+  "weight_class": 400,
+  "rank": 471
+}

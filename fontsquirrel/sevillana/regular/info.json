@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "calligraphic",
+    "decorative",
+    "display",
+    "feminine",
+    "script",
+    "swashed"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Brownfox",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Sevillana",
+  "font_family_name": "Sevillana",
+  "full_font_name": "Sevillana",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sevillana-Regular",
+  "trademark": "Sevillana is a trademark of Brownfox",
+  "manufacturer": "Brownfox",
+  "designer": "Olga Umpeleva",
+  "vendor_url": "http://www.brownfox.org",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1385020800000,
+  "size": 162872,
+  "weight_class": 400,
+  "rank": 358
+}

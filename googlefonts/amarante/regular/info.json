@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Karolina Lach",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Amarante",
+  "font_family_name": "Amarante",
+  "full_font_name": "Amarante Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Amarante-Regular",
+  "trademark": "Amarante is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Karolina Lach",
+  "designer_url": "www.thekarolina.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Amarante is a medium contrast condensed type. It uses unconventional Art Nouveau inspired shapes. Amarante is a display face but works surprisingly well in text and headlines too. Amarante supports a very broad range of languages.",
+  "last_modified": 1456214400000,
+  "size": 148116,
+  "weight_class": 400,
+  "rank": 477
+}

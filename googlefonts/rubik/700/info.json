@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Hubert and Fischer",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Rubik",
+  "font_family_name": "Rubik",
+  "full_font_name": "Rubik Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Rubik-Bold",
+  "manufacturer": "Hubert \u0026 Fischer",
+  "designer": "Hubert \u0026 Fischer",
+  "designer_url": "www.hubertfischer.com",
+  "vendor_url": "www.google.com/fonts",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert \u0026 Fischer as part of the Chrome Cube Lab project. Rubik is a 5 weight family with Roman and Italic styles, that accompanies Rubik Mono One, a monospaced variation of the Black roman design.",
+  "last_modified": 1437548400000,
+  "size": 212840,
+  "weight_class": 700,
+  "rank": 97
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "paragraph",
+    "serif",
+    "slab",
+    "typewriter"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Nixie One",
+  "font_family_name": "Nixie One",
+  "full_font_name": "Nixie One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "NixieOne-Regular",
+  "trademark": "Nixie is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://jovanny.ru/",
+  "vendor_url": "http://jovanny.ru/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.004",
+  "last_modified": 1338879600000,
+  "size": 35972,
+  "weight_class": 400,
+  "rank": 346
+}

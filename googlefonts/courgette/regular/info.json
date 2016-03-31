@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Karolina Lach",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Courgette",
+  "font_family_name": "Courgette",
+  "full_font_name": "Courgette Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Courgette-Regular",
+  "trademark": "Courgette is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Karolina Lach",
+  "designer_url": "www.thekarolina.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Courgette is a medium low contrast brushy italic script type. A brushy italic style is traditionally for display and unsurprisingly Courgette works well in display. However Courgette\u0027s low contrast and carefully made forms mean that it also works well in smaller sizes and even in massed text.",
+  "last_modified": 1456214400000,
+  "size": 122072,
+  "weight_class": 400,
+  "rank": 118
+}

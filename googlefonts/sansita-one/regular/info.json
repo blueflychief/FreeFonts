@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Sansita One",
+  "font_family_name": "Sansita One",
+  "full_font_name": "Sansita One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SansitaOne",
+  "trademark": "Sansita One is a trademark of Omnibus-Type.",
+  "manufacturer": "Omnibus-Type",
+  "designer": "Pablo Cosgaya",
+  "designer_url": "www.omnibus-type.com",
+  "vendor_url": "www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Sansita One is a tasty new Omnibus-Type font designed by Pablo Cosgaya. The flavor of Sansita One\u0027s lowercase explores the relationship between typography and calligraphy. The elegance of Sansita One\u0027s uppercase makes this an excellent choice for packaging, brief texts, branding and slogans.",
+  "last_modified": 1456214400000,
+  "size": 47440,
+  "weight_class": 400,
+  "rank": 263
+}

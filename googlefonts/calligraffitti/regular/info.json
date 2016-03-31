@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Open Window",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Calligraffitti",
+  "font_family_name": "Calligraffitti",
+  "full_font_name": "Calligraffitti",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Calligraffitti-Regular",
+  "trademark": "Calligraffitti is a trademark of Open Window.",
+  "manufacturer": "Open Window",
+  "designer": "Dathan Boardman",
+  "designer_url": "http://www.fontbros.com/openwindow.php",
+  "vendor_url": "http://www.fontbros.com/openwindow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.001",
+  "description": "Calligraffitti by Open Window owes its credit to mom and all her years of Calligraphic experience. This impromptu rendering of her calligraphic alphabet captures her years or formal practice blended with a rare encounter with the mood altering music of Santana.",
+  "last_modified": 1456214400000,
+  "size": 59852,
+  "weight_class": 400,
+  "rank": 183
+}

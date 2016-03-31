@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "display",
+    "informal",
+    "oblique",
+    "paragraph",
+    "sans",
+    "geometric"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Anja Meiners",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "ABeeZee",
+  "font_family_name": "ABeeZee",
+  "full_font_name": "ABeeZee-Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "ABeeZee-Italic",
+  "trademark": "ABeeZee is a trademark of Anja Meiners.",
+  "manufacturer": "Anja Meiners",
+  "designer": "Anja Meiners",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1382598000000,
+  "size": 64744,
+  "weight_class": 400,
+  "rank": 280
+}

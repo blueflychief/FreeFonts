@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "calligraphic",
+    "decorative",
+    "elegant"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Yellowtail",
+  "font_family_name": "Yellowtail",
+  "full_font_name": "Yellowtail",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Yellowtail",
+  "trademark": "Yellowtail is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1369206000000,
+  "size": 56032,
+  "weight_class": 400,
+  "rank": 80
+}

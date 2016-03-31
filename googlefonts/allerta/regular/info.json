@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Matt McInerney",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Allerta",
+  "font_family_name": "Allerta",
+  "full_font_name": "Allerta Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Allerta-Regular",
+  "manufacturer": "Matt McInerney",
+  "designer": "Matt McInerney",
+  "designer_url": "http://pixelspread.com",
+  "license_desciption": "Copyright (c) 2009, Matt McInerney \u003cmatt@pixelspread.com\u003e with Reserved Font Name Allerta.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.0 ",
+  "description": "Allerta is an open source typeface designed for use in signage. Allerta was designed to be easily and quickly read from a distance. Each letter exploits the most unique aspects of that individual letter so that each character can be easily distinguished from any other. Initially published at matt.cc/allerta.",
+  "last_modified": 1456214400000,
+  "size": 19596,
+  "weight_class": 400,
+  "rank": 220
+}

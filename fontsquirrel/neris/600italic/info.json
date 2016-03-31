@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "contemporary",
+    "oblique",
+    "paragraph",
+    "sans",
+    "humanist"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Eimantas Paškonis",
+  "varient": "600italic",
+  "source": "fontsquirrel",
+  "family": "Neris",
+  "font_family_name": "Neris Light",
+  "full_font_name": "Neris SemiBold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Neris-SemiBoldItalic",
+  "designer": "Eimantas Paskonis",
+  "designer_url": "http://cargocollective.com/eimantas",
+  "version_string": "Version 1.000;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1383811200000,
+  "size": 203888,
+  "weight_class": 600,
+  "rank": 376
+}

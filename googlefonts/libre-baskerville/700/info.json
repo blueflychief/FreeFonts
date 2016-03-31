@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Impallari Type",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Libre Baskerville",
+  "font_family_name": "Libre Baskerville",
+  "full_font_name": "Libre Baskerville Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "LibreBaskerville-Bold",
+  "trademark": "Libre Baskerville is a trademark of Pablo Impallari",
+  "manufacturer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+  "description": "Libre Baskerville is a web font optimized for body text (typically 16px.) It is based on the American Type Founder\u0027s Baskerville from 1941, but it has a taller x-height, wider counters and a little less contrast, that allow it to work well for reading on-screen. Join the project at www.impallari.com/projects/overview/libre-baskerville.",
+  "last_modified": 1456214400000,
+  "size": 161104,
+  "weight_class": 700,
+  "rank": 49
+}

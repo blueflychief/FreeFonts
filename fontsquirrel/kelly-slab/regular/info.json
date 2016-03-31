@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "angled",
+    "condensed",
+    "display",
+    "serif",
+    "slab",
+    "square",
+    "western"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Denis Masharov",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Kelly Slab",
+  "font_family_name": "Kelly Slab",
+  "full_font_name": "KellySlab-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "KellySlab-Regular",
+  "trademark": "Kelly is a trademark of Denis Masharov.",
+  "manufacturer": "Denis Masharov",
+  "designer": "Denis Masharov",
+  "designer_url": "denis.masharov@gmail.com",
+  "vendor_url": "denis.masharov@gmail.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "last_modified": 1338361200000,
+  "size": 58276,
+  "weight_class": 400,
+  "rank": 664
+}

@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Slackey",
+  "font_family_name": "Slackey",
+  "full_font_name": "Slackey",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Slackey",
+  "trademark": "Slackey is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Don\u0027t let the name fool you! Slackey really pulls its weight when you need a fun, chunky display font. So next time you have a weighty headlining chore to do, let Slackey do all the heavy lifting! Designed with a good work ethic and plenty of manual labor by Squid.",
+  "last_modified": 1456214400000,
+  "size": 38400,
+  "weight_class": 400,
+  "rank": 325
+}

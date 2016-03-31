@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "khmer"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Danh Hong",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Khmer",
+  "font_family_name": "Khmer",
+  "full_font_name": "Khmer",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Khmer",
+  "trademark": "Khmer is a trademark of Danh Hong and may be registered in certain jurisdictions.",
+  "manufacturer": "Danh Hong",
+  "designer_url": "http://khmertype.blogspot.com/",
+  "vendor_url": "http://khmertype.blogspot.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 2.00 February 8, 2013",
+  "description": "The Khmer fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong, has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "last_modified": 1428303600000,
+  "size": 77684,
+  "weight_class": 400,
+  "rank": 419
+}

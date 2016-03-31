@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "fat",
+    "retro",
+    "serif",
+    "slab",
+    "western",
+    "wood type",
+    "woodcut"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "The League of Moveable Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "ChunkFive",
+  "font_family_name": "ChunkFive Roman",
+  "full_font_name": "ChunkFive-Roman",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ChunkFive-Roman",
+  "version_string": "Version 1.000;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "last_modified": 1247641200000,
+  "size": 10916,
+  "weight_class": 400,
+  "rank": 9
+}

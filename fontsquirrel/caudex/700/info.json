@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Hjort Nidudsson",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Caudex",
+  "font_family_name": "Caudex",
+  "full_font_name": "Caudex Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Caudex-Bold",
+  "vendor_url": "http://caudex.sf.net/",
+  "license_desciption": "SIL Open Font License",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.04 ",
+  "last_modified": 1305702000000,
+  "size": 557784,
+  "weight_class": 700,
+  "rank": 462
+}

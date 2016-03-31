@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Impallari Type",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Domine",
+  "font_family_name": "Domine",
+  "full_font_name": "Domine Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Domine-Bold",
+  "trademark": "Domine is a trademark of Pablo Impallari",
+  "manufacturer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida, Brenda Gallo",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+  "description": "From the very first steps in the design process \u0027Domine\u0027 was designed, tested and optimized for body text on the web. It shines at 14 and 16 px. And can even be used as small as 11, 12 or 13px. Harmless to the eyes when reading long texts. Domine is a perfect choice for newspapers or magazines websites, where text is the main focus. It\u0027s is friendly in appearance because it combines the classic elements of familiar typefaces that have been in use from more than 100 years like Clarendon, Century, Cheltenham and Clearface. The rounded letters (b, c, d, e, o, p, q) are a bit squarish on the inside. This feature opens up the counters for better rendering and also make it look a bit more up-to-date than the classic typefaces previously referenced. The serifs are a bit shorter than usual. Another feature that improves the rendering by allowing more \"air\" between each letter pair. The joins of the stems to the branches in letters like h, m, n are deep enough to prevent dark spots, also improving legibility at small sizes. The friendly lowercase \u0027a\u0027, with the curve starting from the bottom of the stem, is reminiscent of Cheltenham and Clearface. That soft curve is also echoed in the curves of the f, j, n, m and r. The spacing is also optimized for body text on the web, clearly more open than that of typefaces made for print or for headlines. Join the project at www.impallari.com/projects/overview/domine.",
+  "last_modified": 1456214400000,
+  "size": 146200,
+  "weight_class": 700,
+  "rank": 109
+}

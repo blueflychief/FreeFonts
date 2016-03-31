@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Gilda Display",
+  "font_family_name": "Gilda Display",
+  "full_font_name": "Gilda Display",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "GildaDisplay-Regular",
+  "trademark": "Gilda Display is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Gilda Display is a font of classic proportions, in which we can see the finest treatment of curves, strokes and serifs. The high stroke contrast has especially smooth transitions, making this type perfect for the world of fashion, jewelry and luxury items. Gilda Display typically contributes all its glamor to headlines, but the considered design of this font gives it potential for use in longer texts with a fine page texture. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 36804,
+  "weight_class": 400,
+  "rank": 331
+}

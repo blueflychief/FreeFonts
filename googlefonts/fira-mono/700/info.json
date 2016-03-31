@@ -1,0 +1,36 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "cyrillic",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "monospace"
+  ],
+  "classifications": [
+    "monospace"
+  ],
+  "creator": "Carrois and Edenspiekermann",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Fira Mono",
+  "font_family_name": "Fira Mono",
+  "full_font_name": "Fira Mono Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "FiraMono-Bold",
+  "trademark": "Fira Mono is a trademark of The Mozilla Corporation.",
+  "manufacturer": "Carrois Corporate GbR \u0026 Edenspiekermann AG",
+  "designer": "Carrois Corporate \u0026 Edenspiekermann",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.edenspiekermann.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 2.001",
+  "description": "Designed to integrate with the character of the FirefoxOS, the Fira typefaces also aim to cover the legibility needs for a large range of handsets varying in screen quality and rendering. The Fira font family comes in a Sans Serif with 4 weights (Light, Regular, Medium and Bold) all accompanied by italic styles. The package also includes this Mono Spaced variant with 2 weights (Regular and Bold.) See the Mozilla FirefoxOS Style Guide for more details.",
+  "last_modified": 1428303600000,
+  "size": 134512,
+  "weight_class": 700,
+  "rank": 428
+}

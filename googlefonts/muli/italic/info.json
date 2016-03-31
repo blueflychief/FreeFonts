@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "italic",
+  "source": "googlefonts",
+  "family": "Muli",
+  "font_family_name": "Muli",
+  "full_font_name": "Muli Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Muli-Italic",
+  "trademark": "Muli Italic is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "www.newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Muli is a minimalist Sans Serif. Muli is designed mainly for use as a display font but is useable as a text font too. Muli has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 51184,
+  "weight_class": 400,
+  "rank": 43
+}

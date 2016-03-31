@@ -1,0 +1,28 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Typomondo",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Eater",
+  "font_family_name": "Eater",
+  "full_font_name": "Eater",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Eater-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.002 ",
+  "description": "Eater is a display font infected by the darkest of rare disease that slowly spreads at night while the webfont user sleeps.",
+  "last_modified": 1456214400000,
+  "size": 83928,
+  "weight_class": 400,
+  "rank": 690
+}

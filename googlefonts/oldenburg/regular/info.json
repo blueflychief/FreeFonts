@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Nicole Fally",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Oldenburg",
+  "font_family_name": "Oldenburg",
+  "full_font_name": "Oldenburg",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Oldenburg-Regular",
+  "trademark": "Oldenburg is a trademark of Sorkin Type Co.",
+  "manufacturer": "Nicole Fally",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Oldenburg is inspired by nearly monoline handwritting seen on a series of German posters. It has been changed and adapted to be more broadly useful design than a more faithful interpretation would have been. Despite the increased ulity in Oldernburg it still presenst plenty of the whimsical feeling that made its source so attractive. Oldenburg can be used a in a wide range of sizes.",
+  "last_modified": 1456214400000,
+  "size": 46248,
+  "weight_class": 400,
+  "rank": 482
+}

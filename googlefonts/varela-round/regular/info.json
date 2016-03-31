@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Joe Prince",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Varela Round",
+  "font_family_name": "Varela Round",
+  "full_font_name": "Varela Round",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "VarelaRound-Regular",
+  "trademark": "Varela Round is a trademark of Admix Designs (www.admixdesigns.com)",
+  "manufacturer": "Joe Prince",
+  "designer": "Joe Prince",
+  "designer_url": "http://www.admixdesigns.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Varela Round is based on the well known font Varela. Its rounded corners make it perfect for a soft feel and work great at any size. It is suitable for headlines and printed collateral, and maintains its distinct properties amongst other objects. Varela Round is a great font for any website.",
+  "last_modified": 1456214400000,
+  "size": 84028,
+  "weight_class": 400,
+  "rank": 62
+}

@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Seymour One",
+  "font_family_name": "Seymour One",
+  "full_font_name": "Seymour One",
+  "font_subfamily_name": "Book",
+  "postscript_name": "SeymourOne",
+  "trademark": "Seymour One is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_desciption": "Copyright (c) 2012, vernon adams (\u003cURL|email\u003e),\nwith Reserved Font Name Seymour.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c",
+  "description": "Seymour One is derived from the earlier webfont Sigmar One, but the forms have also been influenced by late nineteenth and early twentieth century British sans-serif typefaces. The result is a display face that is ideal for bold, unpretentious, and slightly playful display typography. Seymour One is designed to be used conventionally but also as an \u0027all caps\u0027 font. Seymour One is designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "last_modified": 1456214400000,
+  "size": 74440,
+  "weight_class": 400,
+  "rank": 664
+}

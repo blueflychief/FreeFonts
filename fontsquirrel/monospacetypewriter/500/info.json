@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "display",
+    "monospaced",
+    "programming",
+    "sans serif",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Manfred Klein Fonteria",
+  "varient": "500",
+  "source": "fontsquirrel",
+  "family": "MonospaceTypewriter",
+  "font_family_name": "MonospaceTypewriter",
+  "full_font_name": "MonospaceTypewriter",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MonospaceTypewriter",
+  "version_string": "1.0 2004-01-24",
+  "last_modified": 1256281200000,
+  "size": 38748,
+  "weight_class": 500,
+  "rank": 648
+}

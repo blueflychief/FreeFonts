@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Dancing Script",
+  "font_family_name": "Dancing Script",
+  "full_font_name": "Dancing Script Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "DancingScript-Bold",
+  "trademark": "Dancing Script Bold is a trademark of Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com.",
+  "manufacturer": "Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com",
+  "designer": "Pablo Impallari",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Dancing Script.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Dancing Script is a lively casual script where the letters bounce and change size slightly. Caps are big, and goes below the baseline. Dancing Script references popular scripts typefaces from the 50\u0027s. It relates to Murray Hill (Emil Klumpp. 1956) in his weight distribution, and to Mistral (Roger Excoffon. 1953) in his lively bouncing effect. Use it when you want a friendly, informal and spontaneous look. Updated May 18th 2011 with bold!",
+  "last_modified": 1456214400000,
+  "size": 115568,
+  "weight_class": 700,
+  "rank": 67
+}

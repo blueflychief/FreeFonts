@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "brushed",
+    "casual",
+    "cursive",
+    "display",
+    "elegant",
+    "retro"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Typadelic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "BlackJack",
+  "font_family_name": "BlackJack",
+  "full_font_name": "BlackJackRegular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BlackJackRegular",
+  "version_string": "001.000",
+  "last_modified": 1233043200000,
+  "size": 56160,
+  "weight_class": 400,
+  "rank": 31
+}

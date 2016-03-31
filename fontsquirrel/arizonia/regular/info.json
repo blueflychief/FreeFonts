@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "brushed",
+    "calligraphic",
+    "decorative",
+    "display",
+    "elegant",
+    "formal",
+    "handwritten"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "TypeSETit",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Arizonia",
+  "font_family_name": "Arizonia",
+  "full_font_name": "Arizonia",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Arizonia-Regular",
+  "trademark": "Arizonia is a trademark of TypeSETit, LLC",
+  "manufacturer": "Robert E. Leuschke",
+  "designer": "Robert E. Leuschke",
+  "designer_url": "www.typesetit.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "last_modified": 1325664000000,
+  "size": 50736,
+  "weight_class": 400,
+  "rank": 41
+}

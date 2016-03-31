@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "ornaments"
+  ],
+  "classifications": [
+    "dingbat"
+  ],
+  "creator": "ProPublica",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "StateFace",
+  "font_family_name": "StateFace",
+  "full_font_name": "StateFace-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "StateFace-Regular",
+  "manufacturer": "USGS",
+  "designer": "ProPublica",
+  "designer_url": "http://www.github.com/propublica/stateface/",
+  "version_string": "Version 1.025;PS 001.025;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "last_modified": 1332226800000,
+  "size": 22780,
+  "weight_class": 400,
+  "rank": 515
+}

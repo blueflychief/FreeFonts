@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Nicole Fally",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Stoke",
+  "font_family_name": "Stoke",
+  "full_font_name": "Stoke Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "Stoke-Light",
+  "trademark": "Stoke is a trademark of Sorkin Type Co.",
+  "manufacturer": "Nicole Fally",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Stoke is a semi-wide high contrast serifed text typeface. Stoke is inspired by letters found on 20th century UK posters showing an odd combination of seriousness of form and whimsical proportions and details. Stoke\u0027s low x height make it most suitable for use at medium to large sizes. Stoke is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. More specifically, this release supports the following Unicode ranges: Latin-1, Latin-2: Eastern Europe, Turkish, Macintosh Character Set. Stoke was updated in July 2012 with a slightly darker regular weight to allow ttfautohint to create high quality hinting for Windows. The optimization of the design for screen rendering involved changes to glyph sizes, letter spacing, and serif where bends were reduced to solve rendering problem in Windows XP. The character set was also expanded. To contribute to the project contact Eben Sorkin.",
+  "last_modified": 1456214400000,
+  "size": 50820,
+  "weight_class": 300,
+  "rank": 513
+}

@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "condensed",
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Manfred Klein Fonteria",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "WinterthurCondensed",
+  "font_family_name": "WinterthurCondensed",
+  "full_font_name": "WinterthurCondensedOblique",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "WinterthurCondensedOblique",
+  "version_string": "1.0 2005-03-31",
+  "last_modified": 1253602800000,
+  "size": 76944,
+  "weight_class": 400,
+  "rank": 460
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "display",
+    "high contrast",
+    "serif",
+    "modern"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Oranienbaum",
+  "font_family_name": "Oranienbaum",
+  "full_font_name": "Oranienbaum",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Oranienbaum-Regular",
+  "trademark": "Oranienbaum is a trademark of Oleg Pospelov and jovanny Lemonad.",
+  "manufacturer": "Oleg Pospelov and jovanny Lemonad",
+  "designer": "Oleg Pospelov and Jovanny Lemonad",
+  "designer_url": "http://pospelov.com/",
+  "vendor_url": "http://jovanny.ru/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.91) -l 8 -r 50 -G 200 -x 0 -w \"gGD\"",
+  "last_modified": 1392105600000,
+  "size": 141220,
+  "weight_class": 400,
+  "rank": 683
+}

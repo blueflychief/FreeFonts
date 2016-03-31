@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Mota Italic",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Vesper Libre",
+  "font_family_name": "Vesper Libre",
+  "full_font_name": "Vesper Libre Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "VesperLibre-Bold",
+  "trademark": "Vesper is a trademark of Robert Keller.",
+  "manufacturer": "Mota Italic",
+  "designer": "Robert Keller \u0026 Kimya Gandhi",
+  "designer_url": "www.motaitalic.com",
+  "vendor_url": "www.motaitalic.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.058",
+  "description": "Vesper has a classical foundation, but with an entirely modern appearance, making reading comfortable, but never boring. Vesper\u0027s Devanagari design was started by Rob Keller in 2006 and inspired Vesper\u0027s Latin letterforms. This process was featured in a I Love Typography article in 2009. The Devanagari character set was completed in 2014 through a collaboration with Kimya Gandhi. Vesper Libre is a special web version that has been optimized for online use. Tiny details have been simplified and the character set is reduced for the perfect balance of beautiful web typography with fast page loading. Update, April 2015: A major revision was made that adjusted the character set, OpenType features and vertical merics. The Vesper Libre project is led by Mota Italic, a type design foundry based in Mumbai, India. To contribute, see github.com/motaitalic/vesper-libre",
+  "last_modified": 1433314800000,
+  "size": 168172,
+  "weight_class": 700,
+  "rank": 677
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "headings",
+    "paragraph",
+    "sans",
+    "humanist"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "The League of Moveable Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Raleway",
+  "font_family_name": "Raleway",
+  "full_font_name": "Raleway",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Raleway-Regular",
+  "trademark": "Raleway is a trademark of Matt McInerney.",
+  "manufacturer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida",
+  "designer": "Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida",
+  "designer_url": "http://pixelspread.com",
+  "vendor_url": "http://theleagueofmoveabletype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 3.000g; ttfautohint (v1.5) -l 8 -r 28 -G 28 -x 14 -D latn -f cyrl -w G -c -X \"\"",
+  "last_modified": 1266912000000,
+  "size": 178520,
+  "weight_class": 400,
+  "rank": 10
+}

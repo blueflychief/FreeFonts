@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Walter Turncoat",
+  "font_family_name": "Walter Turncoat",
+  "full_font_name": "Walter Turncoat",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "WalterTurncoat",
+  "trademark": "Walter Turncoat is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Contrary to popular lore, Walter Turncoat was NOT a traitor executed during the Revolutionary War. Actually, Walter spent his days carefully executing new typefaces doing his part to help establish a free press! Ever the patriot, Squid honors old Walter with this spiffy font sure to bring out the Yankee Doodle in you. * All characters described above are fictitious with the possible exception of Squid, whose existence remains an ongoing debate. Nevertheless you should check out his other fonts.",
+  "last_modified": 1456214400000,
+  "size": 154112,
+  "weight_class": 400,
+  "rank": 223
+}

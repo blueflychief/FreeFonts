@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "vietnamese",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "JM Solé",
+  "varient": "700italic",
+  "source": "googlefonts",
+  "family": "Noticia Text",
+  "font_family_name": "Noticia Text",
+  "full_font_name": "Noticia Text Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "NoticiaText-BoldItalic",
+  "trademark": "Noticia Text Bold Italic is a trademark of JM Sole.",
+  "manufacturer": "JM Sole",
+  "designer": "JM Sole",
+  "designer_url": "http://jmsole.cl",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Noticia Text is a contemporary humanist slab serif typeface designed to be used for running text on digital newspapers (both on websites and mobile apps). It has a large x-height, ample proportions, big serifs and large apertures that allow the letters to be clear, even at small sizes on low resolution screens. The capitals are unusually small, allowing them to be used as substitutes for small caps. (Its recommended to add some tracking if used in this way.) One major feature is the break in the internal curves of round characters. While this break makes some interesting forms at large sizes, their true purpose is to help make the counterforms more open at small sizes by allowing straighter stems. This reasoning is famously known as W.A. Dwiggins\u0027 “M-formula.” The italics were designed to contrast with the roman styles while maintaining good legibility. The true italic forms also have big counterforms and simple curves. The fonts have been manually hinted to get the best possible rasterization in Windows. The Noticia font family project is envisioned as 18 different fonts styles, with text, condensed, display and sans variants, different weights and including italic versions, all designed and hinted to work well on computer and mobile devices screens.",
+  "last_modified": 1456214400000,
+  "size": 86044,
+  "weight_class": 700,
+  "rank": 91
+}

@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Montez",
+  "font_family_name": "Montez",
+  "full_font_name": "Montez",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Montez-Regular",
+  "trademark": "Montez is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Montezuma is a script font which draws inspiration from 1960s beauty product ads. Its sweeping strokes lend to a feel of joy and elegance, making it ideal for display uses that require a little drama, \"joie de vivre\" or Joy of Life. Best settings are at medium to large text sizes for optimal readability.",
+  "last_modified": 1456214400000,
+  "size": 77192,
+  "weight_class": 400,
+  "rank": 246
+}

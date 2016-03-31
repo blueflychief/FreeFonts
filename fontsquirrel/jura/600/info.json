@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "display",
+    "sans serif",
+    "sans",
+    "square",
+    "square",
+    "wide"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Daniel Johnson",
+  "varient": "600",
+  "source": "fontsquirrel",
+  "family": "Jura",
+  "font_family_name": "Jura",
+  "full_font_name": "JuraDemiBold",
+  "font_subfamily_name": "DemiBold",
+  "postscript_name": "JuraDemiBold",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.5 ",
+  "last_modified": 1305702000000,
+  "size": 111412,
+  "weight_class": 600,
+  "rank": 426
+}

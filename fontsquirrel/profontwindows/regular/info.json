@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans",
+    "square"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "SQ Software",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "ProFontWindows",
+  "font_family_name": "ProFontWindows",
+  "full_font_name": "ProFontWindows",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ProFontWindows",
+  "version_string": "ProFontWindows 2.3",
+  "last_modified": 1244530800000,
+  "size": 56376,
+  "weight_class": 400,
+  "rank": 724
+}

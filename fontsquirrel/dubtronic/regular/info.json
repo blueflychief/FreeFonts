@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "experimental",
+    "fat",
+    "industrial",
+    "novelty",
+    "outline"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astro Studios",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Dubtronic",
+  "font_family_name": "Dubtronic Inline",
+  "full_font_name": "DubtronicInline",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "DubtronicInline",
+  "trademark": "Dubtronic Inline is a trademark of Woo.",
+  "manufacturer": "Woo",
+  "designer": "Chris Morast",
+  "designer_url": "www.astrostudios.com",
+  "vendor_url": "www.astrostudios.com",
+  "version_string": "Version 1.000;PS 1.000;hotconv 1.0.38",
+  "last_modified": 1244530800000,
+  "size": 11556,
+  "weight_class": 400,
+  "rank": 271
+}

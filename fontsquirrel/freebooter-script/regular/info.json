@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "calligraphic",
+    "classical",
+    "curly",
+    "display",
+    "elegant",
+    "formal",
+    "invitations"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Freebooter Script",
+  "font_family_name": "Freebooter Script",
+  "full_font_name": "Freebooter Script",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FreebooterScript",
+  "designer": "Graham Meade",
+  "designer_url": "www.apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "1",
+  "last_modified": 1230883200000,
+  "size": 104032,
+  "weight_class": 400,
+  "rank": 59
+}

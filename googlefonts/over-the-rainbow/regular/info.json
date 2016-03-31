@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Kimberly Geswein",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Over the Rainbow",
+  "font_family_name": "Over the Rainbow",
+  "full_font_name": "Over the Rainbow",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "OvertheRainbow",
+  "manufacturer": "Kimberly Geswein",
+  "designer": "Kimberly Geswein",
+  "designer_url": "http://kimberlygeswein.com",
+  "license_desciption": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002 2010",
+  "description": "This font always makes me smile. Something about the style of the handwriting just makes me feel happy. It is slightly connected but not a true script by any means \u0026 will lend an upbeat feel to any project you use it on.",
+  "last_modified": 1456214400000,
+  "size": 47508,
+  "weight_class": 400,
+  "rank": 418
+}

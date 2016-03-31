@@ -1,0 +1,23 @@
+{
+  "categories": [
+    "casual",
+    "comic",
+    "handwritten"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Jeremy Wagner",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Wagnasty",
+  "font_family_name": "Wagnasty",
+  "full_font_name": "Wagnasty",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Wagnasty",
+  "version_string": "Version 1.00 October 17, 2008, initial release",
+  "last_modified": 1247641200000,
+  "size": 24244,
+  "weight_class": 400,
+  "rank": 599
+}

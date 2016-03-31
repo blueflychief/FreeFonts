@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Ultra",
+  "font_family_name": "Ultra",
+  "full_font_name": "Ultra",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ultra",
+  "trademark": "Ultra is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Ultra is an ultra bold slab typeface with nods to wood type styles like Clarendon and Egyptian. Strong and dramatic letterforms for titling, a serious, yet friendly, and easily legible typestyle. Perfect for power headlines and titling for impact.",
+  "last_modified": 1456214400000,
+  "size": 53208,
+  "weight_class": 400,
+  "rank": 204
+}

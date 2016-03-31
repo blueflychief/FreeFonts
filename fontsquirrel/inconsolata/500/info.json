@@ -1,0 +1,24 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans serif"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Raph Levien",
+  "varient": "500",
+  "source": "fontsquirrel",
+  "family": "Inconsolata",
+  "font_family_name": "Inconsolata",
+  "full_font_name": "Inconsolata",
+  "font_subfamily_name": "Medium",
+  "postscript_name": "Inconsolata",
+  "version_string": "Version 001.009 ",
+  "last_modified": 1231401600000,
+  "size": 58560,
+  "weight_class": 500,
+  "rank": 307
+}

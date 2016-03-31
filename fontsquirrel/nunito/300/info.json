@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "display",
+    "paragraph",
+    "rounded"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "300",
+  "source": "fontsquirrel",
+  "family": "Nunito",
+  "font_family_name": "Nunito",
+  "full_font_name": "Nunito Light",
+  "font_subfamily_name": "Light",
+  "postscript_name": "Nunito-Light",
+  "trademark": "Nunito is a trademark of Vernon Adams and may be registered in certain jurisdictions.",
+  "manufacturer": "newtypography",
+  "designer": "Vernon Adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_desciption": "Copyright (c) 2013, vernon adams.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.0; ttfautohint (v1.00rc1.6-4cba) -l 8 -r 50 -G 200 -x 0 -D latn -f none -w G -W",
+  "last_modified": 1305702000000,
+  "size": 63440,
+  "weight_class": 300,
+  "rank": 308
+}

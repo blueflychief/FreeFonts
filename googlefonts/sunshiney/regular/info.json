@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Sunshiney",
+  "font_family_name": "Sunshiney",
+  "full_font_name": "Sunshiney",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Sunshiney",
+  "trademark": "Sunshiney is a trademark of Font Diner, Inc DBA Sideshow.",
+  "manufacturer": "Font Diner, Inc DBA Sideshow",
+  "designer": "Squid",
+  "designer_url": "http://www.squidart.com",
+  "vendor_url": "http://www.fontbros.com/sideshow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Is your website a little weary? Is your blog a bit boggy? Brighten them up with Sunshiney, a little a ray of hand-crafted goodness by Squid! This happy little font is sure to lighten up the dreariest of domains or the frumpiest of facebook pages. Happy, happy!",
+  "last_modified": 1456214400000,
+  "size": 160256,
+  "weight_class": 400,
+  "rank": 521
+}

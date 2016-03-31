@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Joe Prince",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Handlee",
+  "font_family_name": "Handlee",
+  "full_font_name": "Handlee Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Handlee-Regular",
+  "trademark": "Handlee is a trademark of Admix Designs (www.admixdesigns.com)",
+  "manufacturer": "Joe Prince",
+  "designer": "Joe Prince",
+  "designer_url": "http://www.admixdesigns.com/",
+  "vendor_url": "http://www.admixdesigns.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Handlee is loosely based on the handwriting of typographer Joe Prince. Its inconsistent curves give it a nice, human-like quality that is reflected in the characters. Each glyph is stationed at a different position in respect to the baseline, and ascenders and descenders vary, which all contribute to the human-like qualities of the font. Handlee is a great font for any web page looking to add some personality and charisma. There was careful attention to detail in removing unnecessary overlap between letters, which allows Handlee to be scaled down to very small sizes while still maintaining legibility. The diaritics were purposefully designed at a slightly larger scale than normal to add to the ability to be scaled down. Also, the accents on the accented characters were not automatically generated but were rather hand placed individually to portray asymmetry and inconsistency that is typically found in handwriting. All of the little details and careful considerations in Handlee make it the perfect font for any project.",
+  "last_modified": 1456214400000,
+  "size": 39132,
+  "weight_class": 400,
+  "rank": 116
+}

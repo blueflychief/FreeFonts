@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Pablo Impallari",
+  "varient": "italic",
+  "source": "googlefonts",
+  "family": "Quattrocento Sans",
+  "font_family_name": "Quattrocento Sans",
+  "full_font_name": "Quattrocento Sans Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "QuattrocentoSans-Italic",
+  "trademark": "Quattrocento Sans Italic is a trademark of Pablo Impallari. www.impallari.com Igino Marini. www.ikern.com.",
+  "manufacturer": "Pablo Impallari, Igino Marini, Brenda Gallo",
+  "designer": "Pablo Impallari",
+  "designer_url": "www.impallari.com",
+  "vendor_url": "www.impallari.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000",
+  "description": "Quattrocento Sans is a classic, elegant and sober typeface family. Warm, readable and not intrusive. It\u0027s the perfect sans-serif companion for Quattrocento. The wide and open letterforms and large x-height make it very legible for body text at small sizes. All the tiny details that only shows up at bigger sizes make it also great for display use. Join the project at www.impallari.com/projects",
+  "last_modified": 1456214400000,
+  "size": 108700,
+  "weight_class": 400,
+  "rank": 78
+}

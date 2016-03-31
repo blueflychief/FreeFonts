@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Ascender Fonts",
+  "varient": "600italic",
+  "source": "fontsquirrel",
+  "family": "Open Sans",
+  "font_family_name": "Open Sans Semibold",
+  "full_font_name": "Open Sans Semibold Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "OpenSans-SemiboldItalic",
+  "trademark": "Open Sans is a trademark of Google and may be registered in certain jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.10",
+  "last_modified": 1305097200000,
+  "size": 212820,
+  "weight_class": 600,
+  "rank": 1
+}

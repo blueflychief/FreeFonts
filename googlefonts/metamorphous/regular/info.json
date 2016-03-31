@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "James Grieshaber",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Metamorphous",
+  "font_family_name": "Metamorphous",
+  "full_font_name": "Metamorphous",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Metamorphous",
+  "trademark": "Metamorphous is a trademark of Sorkin Type Co.",
+  "manufacturer": "James Grieshaber",
+  "designer": "James Grieshaber",
+  "designer_url": "www.typeco.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Metamorphous is a medium contrast design taking style cues from a wide variety of sources. It draws on and mixes together Romanesque, Gothic and the more familiar Renaissance letter shapes. Originally inspired by display fonts including the free font Morpheous designed by Kiwi Media as well as the work of Jonathan Barnbrook; Metamorphous is designed to be useful in a broad range of applications and sizes. Metamorphous also covers most languages that use Latin letters.",
+  "last_modified": 1456214400000,
+  "size": 135740,
+  "weight_class": 400,
+  "rank": 487
+}

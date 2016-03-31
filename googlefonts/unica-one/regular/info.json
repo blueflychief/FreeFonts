@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Unica One",
+  "font_family_name": "Unica One",
+  "full_font_name": "Unica One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "UnicaOne-Regular",
+  "trademark": "Unica is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "http://www.tipo.net.ar",
+  "vendor_url": "http://www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Unica One is a condensed unicase sans serif style. Good performance for composing headlines and short texts. Readbility and simplicity are some of the virtues of this unique typeface. To contribute to the project contact Eduardo Tunni.",
+  "last_modified": 1456214400000,
+  "size": 39924,
+  "weight_class": 400,
+  "rank": 267
+}

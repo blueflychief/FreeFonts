@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "humanist",
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans serif",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Dalton Maag Ltd",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Ubuntu Mono",
+  "font_family_name": "Ubuntu Mono",
+  "full_font_name": "Ubuntu Mono Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "UbuntuMono-Italic",
+  "trademark": "Ubuntu and Canonical are registered trademarks of Canonical Ltd.",
+  "manufacturer": "Dalton Maag Ltd",
+  "designer": "Dalton Maag Ltd",
+  "designer_url": "http://www.daltonmaag.com/",
+  "vendor_url": "http://www.daltonmaag.com/",
+  "version_string": "Version 0.80",
+  "last_modified": 1317279600000,
+  "size": 210216,
+  "weight_class": 400,
+  "rank": 359
+}

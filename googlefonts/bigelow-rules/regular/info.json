@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Bigelow Rules",
+  "font_family_name": "Bigelow Rules",
+  "full_font_name": "Bigelow Rules",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BigelowRules-Regular",
+  "trademark": "Bigelow Rules is a trademark of Astigmatic.",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "The Bigelow Rules typeface is an odd hybrid from numerous inspirations. Imagine Times Roman feels the squeeze, marries a Didone, and gives birth to something with retro appeal and bounce with some eclectic glyph oddities thrown in for spunk. That is Bigelow Rules. To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 59444,
+  "weight_class": 400,
+  "rank": 692
+}

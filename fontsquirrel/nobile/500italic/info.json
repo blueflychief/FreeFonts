@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "500italic",
+  "source": "fontsquirrel",
+  "family": "Nobile",
+  "font_family_name": "Nobile",
+  "full_font_name": "Nobile Medium Italic",
+  "font_subfamily_name": "Medium Italic",
+  "postscript_name": "Nobile-MediumItalic",
+  "trademark": "Nobile Medium Italic is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "version_string": "Version 1.000;PS 001.000;hotconv 1.0.38",
+  "last_modified": 1277449200000,
+  "size": 89920,
+  "weight_class": 500,
+  "rank": 91
+}

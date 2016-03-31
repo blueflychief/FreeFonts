@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "all caps",
+    "condensed",
+    "headline",
+    "sans serif",
+    "stencil"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "200italic",
+  "source": "fontsquirrel",
+  "family": "Oswald",
+  "font_family_name": "Oswald",
+  "full_font_name": "Oswald Extra-LightItalic",
+  "font_subfamily_name": "Extra-Light",
+  "postscript_name": "Oswald-Extra-LightItalic",
+  "trademark": "Oswald is a trademark of Vernon Adams",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "designer_url": "code.newtypography.co.uk",
+  "vendor_url": "code.newtypography.co.uk",
+  "license_desciption": "Copyright (c) 2013, vernon adams (vernnobile@gmail.com),with Reserved Font Name Oswald. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "3.0; ttfautohint (v0.94.23-7a4d-dirty) -l 8 -r 50 -G 200 -x 0 -w \"G\" -W -c",
+  "last_modified": 1333090800000,
+  "size": 83784,
+  "weight_class": 200,
+  "rank": 17
+}

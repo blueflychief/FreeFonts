@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "calligraphic",
+    "classical",
+    "historical",
+    "medieval"
+  ],
+  "classifications": [
+    "blackletter"
+  ],
+  "creator": "West Wind Fonts",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Dearest",
+  "font_family_name": "Dearest",
+  "full_font_name": "Dearest",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Dearest",
+  "trademark": "Dearest is a trademark of West Wind Fonts.",
+  "version_string": "Version 1.0; 2001; initial release",
+  "last_modified": 1231488000000,
+  "size": 98300,
+  "weight_class": 400,
+  "rank": 200
+}

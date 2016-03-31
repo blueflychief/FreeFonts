@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Stalemate",
+  "font_family_name": "Stalemate",
+  "full_font_name": "Stalemate",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Stalemate-Regular",
+  "trademark": "Stalemate is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 001.000",
+  "description": "Stalemate is a script of vintage origins but still modern flair. This script exudes confidence and carefree attitude and makes a bold statement in any design. Designed by Jim Lyles for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 75356,
+  "weight_class": 400,
+  "rank": 425
+}

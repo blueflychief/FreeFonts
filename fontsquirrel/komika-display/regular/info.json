@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "casual",
+    "display",
+    "paragraph",
+    "small caps"
+  ],
+  "classifications": [
+    "comic"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Komika Display",
+  "font_family_name": "Komika Display",
+  "full_font_name": "Komika Display",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "KomikaDisplay",
+  "trademark": "WolfBainX \u0026 Apostrophe",
+  "designer": "WolfBainX",
+  "designer_url": "www.apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "2.0",
+  "last_modified": 1232006400000,
+  "size": 67724,
+  "weight_class": 400,
+  "rank": 425
+}

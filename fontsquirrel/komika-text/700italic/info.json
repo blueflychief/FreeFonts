@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "architectural",
+    "casual",
+    "display",
+    "oblique",
+    "paragraph",
+    "small caps"
+  ],
+  "classifications": [
+    "comic"
+  ],
+  "creator": "Apostrophic Labs",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Komika Text",
+  "font_family_name": "Komika Text Kaps",
+  "full_font_name": "Komika Text Kaps Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "KomikaTextKaps-BoldItalic",
+  "designer": "WolfBainX \u0026 Apostrophe",
+  "designer_url": "mailto:info@apostrophiclab.com",
+  "vendor_url": "www.apostrophiclab.com",
+  "version_string": "2.0",
+  "last_modified": 1232006400000,
+  "size": 57668,
+  "weight_class": 700,
+  "rank": 379
+}

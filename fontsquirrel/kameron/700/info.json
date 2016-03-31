@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "paragraph",
+    "serif",
+    "slab"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Kameron",
+  "font_family_name": "Kameron",
+  "full_font_name": "Kameron Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Kameron-Bold",
+  "trademark": "Kameron Bold is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "www.newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1339138800000,
+  "size": 64796,
+  "weight_class": 700,
+  "rank": 660
+}

@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "corporate",
+    "neutral",
+    "paragraph",
+    "sans",
+    "neo-grotesque"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "URW++",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Nimbus Sans L",
+  "font_family_name": "NimbusSanL",
+  "full_font_name": "NimbusSanL-Reg",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "NimbusSanL-Reg",
+  "manufacturer": "(URW)++ Design \u0026 Development",
+  "designer_url": "http://www.urwpp.com",
+  "vendor_url": "http://www.urwpp.de",
+  "version_string": "Version 1.000;PS 1.00;hotconv 1.0.57;makeotf.lib2.0.21895",
+  "last_modified": 1455264000000,
+  "size": 71196,
+  "weight_class": 400,
+  "rank": 775
+}

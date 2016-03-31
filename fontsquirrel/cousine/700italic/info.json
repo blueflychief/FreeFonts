@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Ascender Fonts",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Cousine",
+  "font_family_name": "Cousine",
+  "full_font_name": "Cousine Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Cousine-BoldItalic",
+  "trademark": "Cousine is a trademark of Google and may be registered in certain jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.20",
+  "last_modified": 1292832000000,
+  "size": 273360,
+  "weight_class": 700,
+  "rank": 535
+}

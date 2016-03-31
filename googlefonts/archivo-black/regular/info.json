@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Archivo Black",
+  "font_family_name": "Archivo Black",
+  "full_font_name": "Archivo Black Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ArchivoBlack-Regular",
+  "trademark": "Archivo",
+  "manufacturer": "Hector Gatti",
+  "designer": "Hector Gatti",
+  "vendor_url": "http://www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "1.002; ttfautohint (v0.8)",
+  "description": "Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces.",
+  "last_modified": 1456214400000,
+  "size": 129848,
+  "weight_class": 400,
+  "rank": 108
+}

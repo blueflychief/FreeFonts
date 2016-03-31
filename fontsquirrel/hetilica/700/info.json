@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "brushed",
+    "fat",
+    "handwritten"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "Diego Quintana",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Hetilica",
+  "font_family_name": "Hetilica",
+  "full_font_name": "Hetilica Bold",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Hetilica-Bold",
+  "trademark": "Hetilica Bold is a trademark of Diego Quintana.",
+  "manufacturer": "Diego Quintana",
+  "designer": "Diego Quintana",
+  "designer_url": "http://diegoquintana.com",
+  "vendor_url": "http://diegoquintana.com",
+  "version_string": "Version 000.100",
+  "last_modified": 1260432000000,
+  "size": 40664,
+  "weight_class": 700,
+  "rank": 471
+}

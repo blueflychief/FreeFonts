@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Steve Matteson",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Droid Serif",
+  "font_family_name": "Droid Serif",
+  "full_font_name": "Droid Serif Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "DroidSerif-Bold",
+  "trademark": "Droid is a trademark of Google and may be registered in certain jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.00 build 112",
+  "description": "The Droid Serif font family features a contemporary appearance and was designed for comfortable reading on screen. Designed by Steve Matteson, Type Director of Ascender Corp, Droid Serif features slightly condensed letterforms to maximize the amount of text displayed on small screens. Vertical stress, sturdy serifs and open forms contribute to the readability of Droid Serif while its proportion and overall design complement its companion Droid Sans. Droid Serif family has four fonts: Regular, Italic, Bold \u0026 Bold Italic. More information on the Droid Fonts can be found at http://www.droidfonts.com.",
+  "last_modified": 1456214400000,
+  "size": 48880,
+  "weight_class": 700,
+  "rank": 15
+}

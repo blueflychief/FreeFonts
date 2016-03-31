@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Sorkin Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Hammersmith One",
+  "font_family_name": "HammersmithOne",
+  "full_font_name": "HammersmithOne Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "HammersmithOne-Regular",
+  "trademark": "Hammersmith is a trademark of Sorkin Type Co.",
+  "manufacturer": "Nicole Fally",
+  "designer": "Nicole Fally",
+  "designer_url": "sorkintype.com",
+  "vendor_url": "sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Designer: Nicole Fally Hammersmith One is a very low contrast typeface inspired by the Johnston UK lettering tradition. Hammersmith One shows the quirks of a somewhat naive, handmade, brush written letters including a wider than normal \"e\" and \"s\" as well as dark joins between stroke which are normally compensated for in type. The sources for this design have been adapted not just for type but specifically for use as a web type. This font works well to even smaller sizes than was originally expected.",
+  "last_modified": 1456214400000,
+  "size": 103428,
+  "weight_class": 400,
+  "rank": 111
+}

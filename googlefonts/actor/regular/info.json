@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Thomas Junold",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Actor",
+  "font_family_name": "Actor",
+  "full_font_name": "Actor Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Actor-Regular",
+  "trademark": "Actor is a trademark of Thomas Junold.",
+  "manufacturer": "Thomas Junold",
+  "designer": "Thomas Junold",
+  "designer_url": "www.buerofueraufmerksamkeit.de",
+  "vendor_url": "www.buerofueraufmerksamkeit.de",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/SIL",
+  "version_string": "Version 1.001",
+  "description": "A diploma thesis project from the Aachen University of Applied Sciences at Karl-Friedrich (Kai) Oetzbach. The font originated in a course in type design. The idea was to learn through the creation of a typeface about writing as an information carrier. It was created entirely digitally, so the path to the current version is very rocky and winding. Actor has a strong x-height, which is why it always requires a fairly high line spacing. The digits of Actor are created as old style figures. The forms of 6 and 9 are more dynamic and more tense than usual. The 8 has significantly shifted interiors and the 7 is slightly curved to the left.",
+  "last_modified": 1456214400000,
+  "size": 64944,
+  "weight_class": 400,
+  "rank": 133
+}

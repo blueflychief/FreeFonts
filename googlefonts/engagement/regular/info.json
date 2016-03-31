@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Engagement",
+  "font_family_name": "Engagement",
+  "full_font_name": "Engagement",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Engagement-Regular",
+  "trademark": "Engagement is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Semi-formal with a steady hand and soft contours, Engagement is a brush script that dances a line between vintage and modern flair.",
+  "last_modified": 1456214400000,
+  "size": 76408,
+  "weight_class": 400,
+  "rank": 334
+}

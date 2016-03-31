@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Spicy Rice",
+  "font_family_name": "Spicy Rice",
+  "full_font_name": "Spicy Rice",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SpicyRice-Regular",
+  "trademark": "Spicy Rice is a trademark of Astigmatic.",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Casual and exciting, Spicy Rice has a festive flair to it that works for winter holidays as well as summertime jams. The extra heavy letterforms imbued with a little exotic flavor are waiting for you to bring it to the party!",
+  "last_modified": 1456214400000,
+  "size": 67244,
+  "weight_class": 400,
+  "rank": 609
+}

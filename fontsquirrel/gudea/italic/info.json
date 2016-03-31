@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Agustina Mingote",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Gudea",
+  "font_family_name": "Gudea",
+  "full_font_name": "Gudea Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Gudea-Italic",
+  "trademark": "Gudea is a trademark of Agustina Mingote.",
+  "manufacturer": "Agustina Mingote",
+  "designer": "Agustina Mingote",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1326960000000,
+  "size": 21564,
+  "weight_class": 400,
+  "rank": 600
+}

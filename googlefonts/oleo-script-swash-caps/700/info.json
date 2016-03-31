@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "soytutype fonts",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Oleo Script Swash Caps",
+  "font_family_name": "Oleo Script Swash Caps",
+  "full_font_name": "Oleo Script Swash Caps Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "OleoScriptSwashCaps-Bold",
+  "trademark": "Oleo Script is a trademark of Soytutype.",
+  "manufacturer": "Soytutype",
+  "designer": "Soytutype",
+  "designer_url": "www.soytutype.com.ar",
+  "vendor_url": "www.soytutype.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Oleo is a flowy yet legible non-connected script typeface. It is perfect for situations where a quaint and casual lettering effect is desired. Suitable for various typography contexts including captions, headlines, packaging, invitations, cards, posters, advertising, greeting cards, and book jackets. Oleo Script Swash Caps is currently available in two weights, Regular and Bold. It has also a Oleo Script sister family, also available in Regular and Bold. Oleo Script Swash Caps is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. For more information see the Soytutype website, follow us on Twitter @soytutype or Google+ or contact Soytutype.",
+  "last_modified": 1456214400000,
+  "size": 39784,
+  "weight_class": 700,
+  "rank": 383
+}

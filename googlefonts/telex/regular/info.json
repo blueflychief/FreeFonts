@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Huerta Tipográfica",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Telex",
+  "font_family_name": "Telex Regular",
+  "full_font_name": "Telex-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Telex-Regular",
+  "trademark": "Telex is a trademark of Andres Torresi",
+  "manufacturer": "Andres Torresi",
+  "designer": "Andres Torresi",
+  "designer_url": "http://www.andrestorresi.com.ar",
+  "vendor_url": "http://www.huertatipografica.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Telex is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness. Designed by Andrés Torresi for Huerta Tipográfica.",
+  "last_modified": 1456214400000,
+  "size": 68804,
+  "weight_class": 400,
+  "rank": 237
+}

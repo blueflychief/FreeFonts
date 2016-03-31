@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "John Vargas Beltrán",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Salsa",
+  "font_family_name": "Salsa",
+  "full_font_name": "Salsa-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Salsa-Regular",
+  "trademark": "Salsa Regular is a trademark of John Vargas Beltran.",
+  "manufacturer": "John Vargas Beltran",
+  "designer": "John Vargas Beltr?n",
+  "designer_url": "www.johnvargasbeltran.com",
+  "vendor_url": "www.johnvargasbeltran.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Salsa was inspired by the old LP album covers from the 1970s, which is why the name is of the main musical genre of Latin America. Avoiding any stereotypes of grunge, vernacular or decorated styles, the font was designed from the vertical structure of an italic, based on behavior and nature of the flat round brush stroke. Salsa was developed as the final project in the postgraduate programme in Typography at the University of Buenos Aires. Functionally it can be used in titles and short texts, and has been developed with Swash Caps.",
+  "last_modified": 1456214400000,
+  "size": 56680,
+  "weight_class": 400,
+  "rank": 414
+}

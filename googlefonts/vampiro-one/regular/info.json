@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Riccardo De Franceschi",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Vampiro One",
+  "font_family_name": "Vampiro One",
+  "full_font_name": "Vampiro One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "VampiroOne-Regular",
+  "trademark": "Vampiro is a trademark of Sorkin Type Co.",
+  "manufacturer": "Sorkin Type Co.",
+  "designer": "Riccardo De Franceschi",
+  "designer_url": "www.sorkintype.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "description": "Foundry: Sorkin Type Co Vampiro One is a low contrast script font. It was inspired by the 20th century Italian tradition of monoline scripts. Vampiro One is best used for display purposes at medium to large sizes. To contribute to the project contact Eben Sorkin. Updated September 2015: Internal metadata corrected.",
+  "last_modified": 1456214400000,
+  "size": 27920,
+  "weight_class": 400,
+  "rank": 635
+}

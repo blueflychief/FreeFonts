@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "display",
+    "grunge",
+    "rough",
+    "typewriter"
+  ],
+  "classifications": [
+    "serif",
+    "typewriter"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Special Elite",
+  "font_family_name": "Special Elite",
+  "full_font_name": "Special Elite",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SpecialElite-Regular",
+  "trademark": "Special Elite is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1303974000000,
+  "size": 166224,
+  "weight_class": 400,
+  "rank": 170
+}

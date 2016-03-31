@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans serif",
+    "sans",
+    "square",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "s.a.x. Software",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "saxMono",
+  "font_family_name": "saxMono",
+  "full_font_name": "saxMono",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "saxMono",
+  "manufacturer": "s.a.x. Software",
+  "designer": "Robert Norton",
+  "designer_url": "http://www.saxsoft.de/typography/robno.htm",
+  "vendor_url": "http://www.saxsoft.de/typography/default.htm",
+  "license_desciption": "You may download this font, circulate it und use it freely. You may not alter rename, change copyrights or modify this font in any way.",
+  "license_url": "http://www.saxsoft.de/typography/freelicense.htm",
+  "version_string": "Version 1.10",
+  "last_modified": 1232092800000,
+  "size": 103740,
+  "weight_class": 400,
+  "rank": 637
+}

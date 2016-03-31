@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Oxygen",
+  "font_family_name": "Oxygen",
+  "full_font_name": "Oxygen-Italic",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Oxygen-Italic",
+  "trademark": "Oxygen Italic is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "version_string": "Version 1.000",
+  "last_modified": 1333090800000,
+  "size": 58456,
+  "weight_class": 400,
+  "rank": 263
+}

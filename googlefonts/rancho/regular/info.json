@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Sideshow",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Rancho",
+  "font_family_name": "Rancho",
+  "full_font_name": "Rancho",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Rancho",
+  "trademark": "Rancho is a trademark of Font Diner, Inc.",
+  "manufacturer": "Font Diner, Inc",
+  "designer": "Font Diner, Inc",
+  "designer_url": "http://www.fontdiner.com",
+  "vendor_url": "http://www.fontdiner.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "description": "Howdy pardner! Need a little southwest flair in your type trunk? Well Squid and Sideshow have a brush (sagebrush, that is) script they\u0027ve branded Rancho that\u0027ll do the trick. Its as comfortable as your favorite dungarees and works just as well in the barn or at the country club. Download it now and saddle up for action!",
+  "last_modified": 1456214400000,
+  "size": 44840,
+  "weight_class": 400,
+  "rank": 238
+}

@@ -1,0 +1,30 @@
+{
+  "categories": [
+    "all caps",
+    "casual",
+    "display",
+    "handrawn",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "comic"
+  ],
+  "creator": "ShyFonts",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Arch Rival",
+  "font_family_name": "SF Arch Rival Extended",
+  "full_font_name": "SF Arch Rival Extended Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "SFArchRivalExtended-Italic",
+  "trademark": "SF Arch Rival Extended Italic is a trademark of the ShyFonts Type Foundry.",
+  "designer": "ShyFonts Type Foundry",
+  "designer_url": "http://www.shyfonts.com",
+  "vendor_url": "http://www.shyfonts.com",
+  "version_string": "ver 1.0; 2000. Freeware.",
+  "last_modified": 1254898800000,
+  "size": 44780,
+  "weight_class": 400,
+  "rank": 370
+}

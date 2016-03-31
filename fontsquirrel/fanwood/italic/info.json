@@ -1,0 +1,23 @@
+{
+  "categories": [
+    "paragraph"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Barry Schwartz",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Fanwood",
+  "font_family_name": "Fanwood",
+  "full_font_name": "Fanwood Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Fanwood-Italic",
+  "license_desciption": "Copyright (c) 2011, Barry Schwartz\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n",
+  "license_url": "http://www.opensource.org/licenses/mit-license.php",
+  "version_string": "Version 1.0 ",
+  "last_modified": 1294387200000,
+  "size": 96588,
+  "weight_class": 400,
+  "rank": 533
+}

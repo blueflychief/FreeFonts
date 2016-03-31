@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Oxygen",
+  "font_family_name": "Oxygen",
+  "full_font_name": "Oxygen Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Oxygen-Regular",
+  "trademark": "Oxygen is a trademark of Vernon Adams.",
+  "manufacturer": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version Release 0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c",
+  "description": "The Oxygen typeface family is created as part of the KDE Project, a libre desktop for the GNU+Linux operating system. The design is optimised for the FreeType font rendering system and works well in all graphical user interfaces, desktops and devices. This is a web font version of Oxygen, designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Oxygen is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Vernon Adams and use the KDE Project git repository.",
+  "last_modified": 1456214400000,
+  "size": 48092,
+  "weight_class": 400,
+  "rank": 33
+}

@@ -1,0 +1,37 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "greek-ext",
+    "cyrillic",
+    "vietnamese",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "monospace"
+  ],
+  "classifications": [
+    "monospace"
+  ],
+  "creator": "Christian Robertson",
+  "varient": "italic",
+  "source": "googlefonts",
+  "family": "Roboto Mono",
+  "font_family_name": "Roboto Mono",
+  "full_font_name": "Roboto Mono Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "RobotoMono-Italic",
+  "trademark": "Roboto Mono is a trademark of Google.",
+  "designer": "Google",
+  "designer_url": "Christian Robertson",
+  "vendor_url": "Google.com",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 2.000985; 2015; ttfautohint (v1.3)",
+  "description": "Roboto Mono is a monospaced addition to the Roboto type family. Like the other members of the Roboto family, the fonts are optimized for readability on screens across a wide variety of devices and reading environments. While the monospaced version is related to its variable width cousin, it doesn’t hesitate to change forms to better fit the constraints of a monospaced environment. For example, narrow glyphs like ‘I’, ‘l’ and ‘i’ have added serifs for more even texture while wider glyphs are adjusted for weight. Curved caps like ‘C’ and ‘O’ take on the straighter sides from Roboto Condensed. Special consideration is given to glyphs important for reading and writing software source code. Letters with similar shapes are easy to tell apart. Digit ‘1’, lowercase ‘l’ and capital ‘I’ are easily differentiated as are zero and the letter ‘O’. Punctuation important for code has also been considered. For example, the curly braces ‘{ }’ have exaggerated points to clearly differentiate them from parenthesis ‘( )’ and braces ‘[ ]’. Periods and commas are also exaggerated to identify them more quickly. The scale and weight of symbols commonly used as operators have also been optimized.",
+  "last_modified": 1432796400000,
+  "size": 120832,
+  "weight_class": 400,
+  "rank": 125
+}

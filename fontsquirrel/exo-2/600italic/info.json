@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Natanael Gama",
+  "varient": "600italic",
+  "source": "fontsquirrel",
+  "family": "Exo 2",
+  "font_family_name": "Exo 2 Semi Bold",
+  "full_font_name": "Exo 2 Semi Bold Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Exo2-SemiBoldItalic",
+  "designer": "Natanael Gama",
+  "designer_url": "www.ndiscovered.com",
+  "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id\u003dnrsi\u0026id\u003dOFL",
+  "version_string": "Version 1.001;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1387785600000,
+  "size": 70384,
+  "weight_class": 600,
+  "rank": 219
+}

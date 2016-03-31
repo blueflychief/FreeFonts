@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Mouse Memoirs",
+  "font_family_name": "Mouse Memoirs",
+  "full_font_name": "Mouse Memoirs",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "MouseMemoirs-Regular",
+  "trademark": "Mouse Memoirs is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Mouse Memoirs finds its inspiration in the vintage Mickey Mouse, Beagle Boys, and Uncle Scrooge comic books put out by Walt Disney in the 1950\u0027s and 60\u0027s. This font comes alive with a truly animated look. Perfect for light-hearted designs, children\u0027s books, and the like… it is an all-around fun typeface. To contribute to the project contact Brian J. Bonislawsky.",
+  "last_modified": 1456214400000,
+  "size": 55932,
+  "weight_class": 400,
+  "rank": 371
+}

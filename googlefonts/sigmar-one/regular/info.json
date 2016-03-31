@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Sigmar One",
+  "font_family_name": "Sigmar One",
+  "full_font_name": "Sigmar One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "SigmarOne",
+  "trademark": "Sigmar One is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "designer_url": "newtypography.co.uk",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Sigmar is a casual, display specific webfont. It\u0027s design is based upon various fonts found in mid twentieth century pulp magazine advertising.",
+  "last_modified": 1456214400000,
+  "size": 66504,
+  "weight_class": 400,
+  "rank": 84
+}

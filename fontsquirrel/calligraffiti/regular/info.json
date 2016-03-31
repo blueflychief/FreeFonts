@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "calligraphic",
+    "cursive",
+    "handwritten",
+    "paragraph"
+  ],
+  "classifications": [
+    "calligraphic"
+  ],
+  "creator": "Open Window",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Calligraffiti",
+  "font_family_name": "Calligraffiti",
+  "full_font_name": "Calligraffiti",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Calligraffiti",
+  "trademark": "Calligraffiti is a trademark of Open Window.",
+  "manufacturer": "Open Window",
+  "designer": "Dathan Boardman",
+  "designer_url": "http://www.fontbros.com/openwindow.php",
+  "vendor_url": "http://www.fontbros.com/openwindow.php",
+  "license_desciption": "Licensed under the Apache License, Version 2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "version_string": "Version 1.000",
+  "last_modified": 1305702000000,
+  "size": 59576,
+  "weight_class": 400,
+  "rank": 130
+}

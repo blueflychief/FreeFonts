@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Omnibus-Type",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Jaldi",
+  "font_family_name": "Jaldi",
+  "full_font_name": "Jaldi",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Jaldi-Regular",
+  "trademark": "Jaldi is a trademark of Omnibus-Type.",
+  "manufacturer": "Omnibus-Type",
+  "designer": "Pablo Cosgaya and Nicolas Silva",
+  "designer_url": "http://www.omnibus-type.com",
+  "vendor_url": "http://www.omnibus-type.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.007",
+  "description": "Jaldi is the Hindi word for soon, and the typeface family is a contemporary sans-serif Devanagari with subtle rounded corners. Designed by Nicolas Silva and Pablo Cosgaya, Jaldi is developed to match with the Latin design of the Asap family, named after the acronym \"As Soon As Possible.\" This family is specially developed for screen reading and use as a webfont, and like Asap is has a special twist: Jaldi offers a standardised character width on all styles, which means that lines of text always remain the same length. This useful feature allows users to change type styles on-the-go without reflowing text bodies. Asap is based on Ancha, designed by Pablo Cosgaya and Hector Gatti in collaboration with Andres Torresi. This project is led by Omnibus Type, a type foundry based in Argentina. To contribute, visit github.com/Omnibus-Type/Jaldi.",
+  "last_modified": 1433919600000,
+  "size": 460664,
+  "weight_class": 400,
+  "rank": 598
+}

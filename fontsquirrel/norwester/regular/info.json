@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "condensed",
+    "headline",
+    "sans",
+    "geometric",
+    "small caps"
+  ],
+  "classifications": [
+    "display",
+    "sans-serif"
+  ],
+  "creator": "Jamie Wilson",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Norwester",
+  "font_family_name": "Norwester",
+  "full_font_name": "Norwester",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Norwester-Regular",
+  "designer": "Jamie Wilson",
+  "designer_url": "jamiewilson.io/norwester/",
+  "version_string": "Version 1.002;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1415260800000,
+  "size": 11392,
+  "weight_class": 400,
+  "rank": 226
+}

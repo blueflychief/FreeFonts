@@ -1,0 +1,36 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "cyrillic",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Carrois and Edenspiekermann",
+  "varient": "300",
+  "source": "googlefonts",
+  "family": "Fira Sans",
+  "font_family_name": "Fira Sans Light",
+  "full_font_name": "Fira Sans Light",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FiraSans-Light",
+  "trademark": "Fira Sans is a trademark of The Mozilla Corporation.",
+  "manufacturer": "Carrois Corporate GbR \u0026 Edenspiekermann AG",
+  "designer": "Carrois Corporate \u0026 Edenspiekermann AG",
+  "designer_url": "http://www.carrois.com",
+  "vendor_url": "http://www.carrois.com",
+  "license_desciption": "Licensed under the Open Font License, version 1.1 or later",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 3.107;PS 003.107;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "description": "Designed to integrate with the character of the Mozilla FirefoxOS, the Fira typefaces also aim to cover the legibility needs for a large range of handsets varying in screen quality and rendering. The Fira font family comes in a Sans Serif with 4 weights (Light, Regular, Medium and Bold) all accompanied by italic styles. The package also includes a Mono Spaced variant with 2 weights (Regular, Medium Bold.) This project is led by Carrois, a type foundry based in Berlin. To contribute, see Fira on GitHub.",
+  "last_modified": 1456214400000,
+  "size": 158520,
+  "weight_class": 300,
+  "rank": 34
+}

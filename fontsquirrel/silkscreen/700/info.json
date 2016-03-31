@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "all caps",
+    "display",
+    "led",
+    "pixel",
+    "programming"
+  ],
+  "classifications": [
+    "pixel"
+  ],
+  "creator": "Jason Kottke",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Silkscreen",
+  "font_family_name": "Silkscreen",
+  "full_font_name": "Silkscreen Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Silkscreen-Bold",
+  "version_string": "1.0 Sat Aug 21 15:44:44 1999",
+  "last_modified": 1231228800000,
+  "size": 16172,
+  "weight_class": 700,
+  "rank": 464
+}

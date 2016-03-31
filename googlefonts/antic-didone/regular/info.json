@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Santiago Orozco",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Antic Didone",
+  "font_family_name": "Antic Didone",
+  "full_font_name": "Antic Didone",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AnticDidone-Regular",
+  "trademark": "Antic Didone is a trademark of Santiago Orozco.",
+  "manufacturer": "Santiago Orozco",
+  "designer": "Santiago Orozco",
+  "designer_url": "www.typemade.mx",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.000",
+  "description": "Antic Didone was designed for use in the headlines of newspapers and magazines. The Antic Type System is a super family that is still evolving, and this first release of the Didone family. It complements the Sans and Didone versions, giving the designer freedom to create rhythmic and dynamic typography using all three families in the type system. Each family in the type system has a large x-height that makes it very readable, especially on the web. Each also has slight stress derived from handwriting. Antic Didone\u0027s minuscule ornate serifs create a unique texture. With modern proportions and condensed letterforms, it is great for economical typesetting, on paper and on screen. The Antic Type System is in progress and is being regularly improved. If you have a request, wish to contribute improvements or even fund specific features, simply contact Santiago Orozco. You can follow Santiago on Twitter, @Typemade.",
+  "last_modified": 1456214400000,
+  "size": 39688,
+  "weight_class": 400,
+  "rank": 569
+}

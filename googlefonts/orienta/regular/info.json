@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Eduardo Tunni",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Orienta",
+  "font_family_name": "Orienta",
+  "full_font_name": "Orienta",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Orienta-Regular",
+  "trademark": "Orienta is a trademark of Eduardo Rodriguez Tunni.",
+  "manufacturer": "Eduardo Rodriguez Tunni",
+  "designer": "Eduardo Rodriguez Tunni",
+  "designer_url": "www.fontime.com.ar",
+  "vendor_url": "www.tipo.net.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Orienta is a spacious sans serif, with excellent visual performance at very small text sizes. The balance between forms and counterforms creates strong legibility. If used in titles, you can see the details are all carefully designed, especially in the strokes of each letter.",
+  "last_modified": 1456214400000,
+  "size": 63924,
+  "weight_class": 400,
+  "rank": 393
+}

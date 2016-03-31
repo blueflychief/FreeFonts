@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "contemporary",
+    "monospaced",
+    "paragraph",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Open Source Publishing",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "NotCourierSans",
+  "font_family_name": "NotCourierSans",
+  "full_font_name": "NotCourier",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "NotCourierSans",
+  "manufacturer": "OSP",
+  "designer": "Harrisson, Pierre Huyghebaert, Femke Snelting, Ivan Monroy-Lopez, Yi Jiang, Nicolas Malev?é, Ludivine Loiseau",
+  "designer_url": "http://ospublish.constantvzw.org/",
+  "license_desciption": "This Font Software is an open font and is released under the GPL v2 with font exception; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.",
+  "license_url": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+  "version_string": "Version 1.1 ",
+  "last_modified": 1252652400000,
+  "size": 58084,
+  "weight_class": 400,
+  "rank": 477
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph",
+    "sans",
+    "geometric"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "600",
+  "source": "fontsquirrel",
+  "family": "Muli",
+  "font_family_name": "Muli",
+  "full_font_name": "Muli SemiBold",
+  "font_subfamily_name": "SemiBold",
+  "postscript_name": "Muli-SemiBold",
+  "trademark": "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions.",
+  "manufacturer": "newtypography",
+  "designer": "Vernon Adams",
+  "designer_url": "newtypography.co.uk",
+  "vendor_url": "newtypography.co.uk",
+  "license_desciption": "Copyright (c) 2014, vernon adams.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL\n",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2; ttfautohint (v1.00rc1.6-4cba) -l 8 -r 50 -G 200 -x 0 -D latn -f none -w G",
+  "last_modified": 1306479600000,
+  "size": 49272,
+  "weight_class": 600,
+  "rank": 237
+}

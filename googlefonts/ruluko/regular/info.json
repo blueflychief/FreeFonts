@@ -1,0 +1,31 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Ruluko",
+  "font_family_name": "Ruluko",
+  "full_font_name": "Ruluko",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Ruluko",
+  "manufacturer": "Ana Sanfelippo, Angelica Diaz y Meme Hernandez",
+  "designer": "Ana Sanfelippo, Angelica Diaz, Meme Hernandez",
+  "designer_url": "www.anasanfelippo.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Ruluko is a typeface designed to aid those learning to read. The shapes you see are related to the handwriting typically used at schools in Argentina. The concept is that those who have learned to read this handwriting style may recognise this type style more easily than other typefaces often used in this context. But as a warm and stylish sans serif text type, you may use Ruluko for any purpose. Designed by Ana Sanfelippo (@anasanfelippo), Angélica Díaz (@angiecinadiaz) and Meme Hernández (@memepeca).",
+  "last_modified": 1456214400000,
+  "size": 27436,
+  "weight_class": 400,
+  "rank": 541
+}

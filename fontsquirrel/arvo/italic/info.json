@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "geometric",
+    "headings",
+    "paragraph",
+    "true italics"
+  ],
+  "classifications": [
+    "slab-serif"
+  ],
+  "creator": "Anton Koovit",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Arvo",
+  "font_family_name": "Arvo",
+  "full_font_name": "Arvo-Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "Arvo-Italic",
+  "trademark": "Arvo is a trademark 2010 Anton Koovit.",
+  "manufacturer": "Anton Koovit, Yassin Baggar",
+  "designer": "Anton Koovit, Yassin Baggar",
+  "designer_url": "http://www.kork.ee",
+  "vendor_url": "http://www.korkork.com/",
+  "license_desciption": "SIL openfont License 1.1",
+  "license_url": "http://www.korkork.com/license/arvo/",
+  "version_string": "Version 1.004 2010 beta release",
+  "last_modified": 1292832000000,
+  "size": 43108,
+  "weight_class": 400,
+  "rank": 51
+}

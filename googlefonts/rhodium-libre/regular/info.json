@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "devanagari",
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "James Puckett",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Rhodium Libre",
+  "font_family_name": "Rhodium Libre",
+  "full_font_name": "Rhodium Libre",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RhodiumLibre-Regular",
+  "manufacturer": "Dunwich Type Founders",
+  "designer": "James Puckett",
+  "designer_url": "http://www.dunwichtype.com",
+  "vendor_url": "http://www.dunwichtype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v1.3)",
+  "description": "Rhodium Libre was designed for use on screens at small sizes and the Latin and Devanagari scripts. To that end, the design is generally uncomplicated and coarse, lacking the small details that are lost on screens; this also reduces the file size to improve latency when used as a web font. The letters are designed slightly wide, with open counters, a large x-height in the Latin glyphs, and so on. The Devanagari glyphs are the same height as the Latin capitals to allow them to stand alongside the oversized Latin lowercase. Historical models for Rhodium’s design are Fortune (AKA Volta) by Konrad Bauer and Walter Baum, and Rex by Intertype. Matthew Carter’s Verdana provided insight into designing type for small sizes and adverse reading environments. The Devanagari glyph set supports contemporary Hindi, Marathi, and Nepali. The Latin glyph set supports Adobe’s Latin-3 character set. This project is led by Dunwich Type Founders, a type foundry based in Denver, Colorado, USA, who design contemporary typeface families. To contribute, see github.com/DunwichType/RhodiumLibre",
+  "last_modified": 1433314800000,
+  "size": 233792,
+  "weight_class": 400,
+  "rank": 680
+}

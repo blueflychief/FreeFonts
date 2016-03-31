@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Jovanny Lemonad",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Yeseva One",
+  "font_family_name": "Yeseva One",
+  "full_font_name": "Yeseva One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "YesevaOne",
+  "trademark": "Yeseva One is a trademark of Jovanny Lemonad.",
+  "manufacturer": "Jovanny Lemonad",
+  "designer": "Jovanny Lemonad",
+  "designer_url": "http://jovanny.ru",
+  "vendor_url": "http://jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.002",
+  "description": "A serif display type that is very feminine. I think that this is the only type in the world with such a feminine essence. Yeseva\u0027s name is from the phrase \"Yes, Eva.\" As a sign of complete agreement between a man and a woman. I dedicate this font to my beloved wife. Yeseva\u0027s design was updated in September 2012, and version 2.0 is 5 percent narrower. I added a lot of new characters and refined many of the existing ones. Updated: January 2016 with a technical fix to the non-breaking-space character.",
+  "last_modified": 1456214400000,
+  "size": 98536,
+  "weight_class": 400,
+  "rank": 410
+}

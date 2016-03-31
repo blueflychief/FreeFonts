@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "monospaced",
+    "paragraph",
+    "programming",
+    "sans serif"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Red Hat",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Liberation Mono",
+  "font_family_name": "Liberation Mono",
+  "full_font_name": "Liberation Mono Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "LiberationMono-BoldItalic",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the SIL Open Font License, Version 1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.00.1",
+  "last_modified": 1230883200000,
+  "size": 277912,
+  "weight_class": 700,
+  "rank": 545
+}

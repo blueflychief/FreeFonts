@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "calligraphic",
+    "fantasy",
+    "historical",
+    "medieval",
+    "wedding"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Ana Sanfelippo",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Almendra",
+  "font_family_name": "Almendra",
+  "full_font_name": "Almendra Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "Almendra-BoldItalic",
+  "trademark": "Almendra is a trademark of Ana Sanfelippo.",
+  "manufacturer": "Ana Sanfelippo",
+  "designer": "Ana Sanfelippo",
+  "designer_url": "www.anasanfelippo.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "last_modified": 1325577600000,
+  "size": 27504,
+  "weight_class": 700,
+  "rank": 403
+}

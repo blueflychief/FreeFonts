@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Open Window",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Miniver",
+  "font_family_name": "Miniver",
+  "full_font_name": "Miniver",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Miniver",
+  "trademark": "Miniver is a trademark of Open Window",
+  "manufacturer": "Open Window",
+  "designer": "Dathan Boardman",
+  "designer_url": "http://www.fontbros.com/openwindow.php",
+  "vendor_url": "http://www.fontbros.com/openwindow.php",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Miniver was inspired by a trip made to the library, looking for new ideas. Immediately gravitating towards the DVD for the 1942 film Mrs. Miniver, the hand-lettered title on the cover had a very contemporary look and feel so, there was the \u0027springboard\u0027 into a new font. First drawn were the inline forms and then they were traced, utilizing a playful \u0027cutout\u0027 effect.",
+  "last_modified": 1456214400000,
+  "size": 45824,
+  "weight_class": 400,
+  "rank": 548
+}

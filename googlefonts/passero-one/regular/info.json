@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Viktoriya Grabowska",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Passero One",
+  "font_family_name": "Passero One",
+  "full_font_name": "Passero One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PasseroOne-Regular",
+  "trademark": "Passero is a trademark of Sorkin Type Co.",
+  "manufacturer": "Viktoriya Grabowska",
+  "designer": "Viktoriya Grabowska",
+  "designer_url": "www.vikaniesiada.blogspot.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Passero One is an innovative low contrast sans serif type. Despite having an utterly distinctive voice it remains remarkably legible and versatile. Perhaps this is because of the way Passero One gently echos old style text letterforms. Passero One will work best from medium text sizes through large display sizes.",
+  "last_modified": 1456214400000,
+  "size": 33624,
+  "weight_class": 400,
+  "rank": 621
+}

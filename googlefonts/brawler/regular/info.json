@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Cyreal",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Brawler",
+  "font_family_name": "Brawler",
+  "full_font_name": "Brawler",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Brawler",
+  "trademark": "Brawler is a trademark of Oleg Frolov | Cyreal.",
+  "manufacturer": "Oleg Frolov | Cyreal",
+  "designer": "Oleg Frolov | Cyreal",
+  "designer_url": "http://cyreal.org",
+  "vendor_url": "http://cyreal.org",
+  "license_desciption": "Copyright (c) 2010, Oleg Frolov,\r\nwith Reserved Font Name Brawler.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Brawler is a compact typeface with sharp features and a sturdy character, designed for comfortable reading in small sizes. It was initially planned as a typeface for newspapers and tabloids. Thus, the design concept was shaped by the demands of low quality printing media and the aesthetic preferences of periodical publications.",
+  "last_modified": 1456214400000,
+  "size": 106044,
+  "weight_class": 400,
+  "rank": 363
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "calligraphic",
+    "display",
+    "narrow",
+    "quill"
+  ],
+  "classifications": [
+    "script"
+  ],
+  "creator": "Sudtipos",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Aguafina Script",
+  "font_family_name": "Aguafina Script",
+  "full_font_name": "Aguafina Script Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "AguafinaScript-Regular",
+  "trademark": "Aguafina Script is a trademark of Angel Koziupa and Alejandro Paul.",
+  "manufacturer": "Angel Koziupa and Alejandro Paul",
+  "designer": "Angel Koziupa and Alejandro Paul",
+  "designer_url": "http://www.sudtipos.com",
+  "vendor_url": "http://www.sudtipos.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1378191600000,
+  "size": 47228,
+  "weight_class": 400,
+  "rank": 107
+}

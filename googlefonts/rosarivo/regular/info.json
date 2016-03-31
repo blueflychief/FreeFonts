@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Pablo Ugerman",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Rosarivo",
+  "font_family_name": "Rosarivo",
+  "full_font_name": "Rosarivo",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Rosarivo-Regular",
+  "trademark": "Rosarivo is a trademark of Pablo Ugerman.",
+  "manufacturer": "Pablo Ugerman",
+  "designer": "Pablo Ugerman",
+  "designer_url": "http://www.ugrdesign.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.003",
+  "description": "Rosarivo is a typeface designed for use in letterpress printing. It is an elegant and luxurious typeface with high quality details. It works especially well in delicate editorial design. Its letterpress origins mean it has a lighter color than a typical Roman text type. Its features include carefully designed serifs, gradual stroke and marked contrast, calligraphic and humanistic forms, and large ascenders and descenders. It is designed to work well in long texts with generous line spacing. It originates from work presented to the post-graduate course in Typeface Design at the University of Buenos Aires in 2011. Rosarivo is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Pablo Ugerman.",
+  "last_modified": 1456214400000,
+  "size": 41344,
+  "weight_class": 400,
+  "rank": 494
+}

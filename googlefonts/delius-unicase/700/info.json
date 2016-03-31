@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "handwriting"
+  ],
+  "classifications": [
+    "handwriting"
+  ],
+  "creator": "Natalia Raices",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Delius Unicase",
+  "font_family_name": "Delius Unicase",
+  "full_font_name": "Delius Unicase Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "DeliusUnicase-Bold",
+  "trademark": "Delius Unicase is a trademark of Natalia Raices.",
+  "manufacturer": "Natalia Raices",
+  "designer": "Natalia Raices",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Delius Unicase is part of a high quality comic book lettering typeface super-family. It has mixed uppercase and lowercase letters for \u0027unicase\u0027 uses, such as in comic strip lettering. It has companion families, Delius and Delius Swash Caps. A round marker was used to define Delius\u0027s stroke: the line gets thicker at both ends to define the beginning and end of the stroke, as a marker line would do, and the ductus imitates the movements of handwriting.",
+  "last_modified": 1456214400000,
+  "size": 36120,
+  "weight_class": 700,
+  "rank": 542
+}

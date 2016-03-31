@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "headings",
+    "historical",
+    "industrial",
+    "sans serif"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "The League of Moveable Type",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "League Gothic",
+  "font_family_name": "League Gothic Condensed",
+  "full_font_name": "LeagueGothic-CondensedRegular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "LeagueGothic-CondensedRegular",
+  "manufacturer": "The League of Moveable Type",
+  "designer": "Tyler Finck",
+  "designer_url": "http://sursly.com",
+  "vendor_url": "http://theleagueofmoveabletype.com",
+  "version_string": "Version 1.001;PS 001.001;hotconv 1.0.56;makeotf.lib2.0.21325",
+  "last_modified": 1253689200000,
+  "size": 25752,
+  "weight_class": 400,
+  "rank": 19
+}

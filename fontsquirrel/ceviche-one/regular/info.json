@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "comic",
+    "display",
+    "fantasy",
+    "novelty",
+    "scary"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Latinotype",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Ceviche One",
+  "font_family_name": "Ceviche One",
+  "full_font_name": "Ceviche One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CevicheOne-Regular",
+  "trademark": "Ceviche is a trademark of LatinoType Limitada.",
+  "manufacturer": "LatinoType Limitada",
+  "designer": "Miguel Hernandez",
+  "designer_url": "www.latinotype.com",
+  "vendor_url": "www.latinotype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.002",
+  "last_modified": 1374476400000,
+  "size": 29600,
+  "weight_class": 400,
+  "rank": 593
+}

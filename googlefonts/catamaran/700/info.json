@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "latin",
+    "tamil",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Pria Ravichandran",
+  "varient": "700",
+  "source": "googlefonts",
+  "family": "Catamaran",
+  "font_family_name": "Catamaran",
+  "full_font_name": "Catamaran Bold",
+  "font_subfamily_name": "Bold",
+  "postscript_name": "Catamaran-Bold",
+  "designer": "Pria Ravichandran",
+  "license_desciption": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001g;PS 001.000;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v1.3)",
+  "description": "Catamaran is a Unicode-compliant Latin and Tamil text type family designed for the digital age. The Tamil is monolinear and was designed alongside the sans serif Latin and Devanagari family Palanquin. It currently comprises of 9 text weights, making it a versatile family that strikes a balance between typographic conventions and that bit of sparkle. (A catamaran is a multihulled vessel consisting of two parallel hulls of equal size. The catamaran concept is a relative newcomer for Western boat designers, been used since time immemorial among the Dravidian people, in South India.) The Catamaran project is led by Pria Ravichandran, a type designer from India. To contribute, visit github.com/VanillaandCream/Catamaran",
+  "last_modified": 1438844400000,
+  "size": 69140,
+  "weight_class": 700,
+  "rank": 191
+}

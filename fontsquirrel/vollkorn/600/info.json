@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "classical",
+    "paragraph",
+    "serif",
+    "serif",
+    "transitional"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "FRiTZe",
+  "varient": "600",
+  "source": "fontsquirrel",
+  "family": "Vollkorn",
+  "font_family_name": "Vollkorn Semibold",
+  "full_font_name": "Vollkorn Semibold",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Vollkorn-Semibold",
+  "manufacturer": "Friedrich Althausen",
+  "designer": "Friedrich Althausen",
+  "designer_url": "http://friedrichalthausen.de/",
+  "vendor_url": "http://friedrichalthausen.de/",
+  "version_string": "Version 3.005;PS 003.005;hotconv 1.0.70;makeotf.lib2.5.58329",
+  "last_modified": 1277449200000,
+  "size": 96892,
+  "weight_class": 600,
+  "rank": 154
+}

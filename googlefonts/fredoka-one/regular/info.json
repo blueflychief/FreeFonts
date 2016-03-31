@@ -1,0 +1,27 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Milena Brandao",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fredoka One",
+  "font_family_name": "Fredoka One",
+  "full_font_name": "Fredoka One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "FredokaOne-Regular",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Fredoka One is a big, round, bold font that is perfect for adding a little fun to any headline or large text. To contribute to the project contact Milena Brandao.",
+  "last_modified": 1456214400000,
+  "size": 43500,
+  "weight_class": 400,
+  "rank": 96
+}

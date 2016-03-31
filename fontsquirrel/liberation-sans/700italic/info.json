@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "headings",
+    "humanist",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Red Hat",
+  "varient": "700italic",
+  "source": "fontsquirrel",
+  "family": "Liberation Sans",
+  "font_family_name": "Liberation Sans",
+  "full_font_name": "Liberation Sans Bold Italic",
+  "font_subfamily_name": "Bold Italic",
+  "postscript_name": "LiberationSans-BoldItalic",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the SIL Open Font License, Version 1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.00.1",
+  "last_modified": 1230883200000,
+  "size": 349724,
+  "weight_class": 700,
+  "rank": 251
+}

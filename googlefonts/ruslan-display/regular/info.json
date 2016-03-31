@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Denis Masharov",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Ruslan Display",
+  "font_family_name": "Ruslan Display",
+  "full_font_name": "Ruslan Display",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "RuslanDisplay",
+  "trademark": "Ruslan Display",
+  "manufacturer": "Denis Masharov, Vladimir Rabdu",
+  "designer": "Denis Masharov, Vladimir Rabdu",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Font akcident, decorative, stylized, based on an ancient Russian script of the 16th century, which is called \"poluustav.\" Suitable for lettering, Rusland Display can also be used in to set short texts. Ruslan Display was done in collaboration with Vladimir Rabdu. It supports these codepages: MS Windows 1252 Western (ANSI) MS Windows 1250 Central European MS Windows 1251 Cyrillic MS Windows 1254 Turkish MS Windows 1257 Baltic.",
+  "last_modified": 1456214400000,
+  "size": 57288,
+  "weight_class": 400,
+  "rank": 479
+}

@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "casual",
+    "comic",
+    "handwritten",
+    "kids",
+    "marker"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "pizzadude.dk",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Rabiohead",
+  "font_family_name": "Rabiohead",
+  "full_font_name": "Rabiohead",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Rabiohead",
+  "trademark": "",
+  "version_string": "1, 2005",
+  "last_modified": 1230710400000,
+  "size": 30120,
+  "weight_class": 400,
+  "rank": 134
+}

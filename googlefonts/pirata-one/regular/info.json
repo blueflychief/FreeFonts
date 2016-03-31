@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Pirata One",
+  "font_family_name": "Pirata One",
+  "full_font_name": "Pirata One",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "PirataOne-Regular",
+  "trademark": "Pirata is a trademark of Rodrigo Fuenzalida, Nicolas Massi .",
+  "manufacturer": "Rodrigo Fuenzalida, Nicolas Massi",
+  "designer": "Rodrigo Fuenzalida, Nicolas Massi",
+  "designer_url": "www.taip.com.ar",
+  "vendor_url": "abc.taip.com.ar",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Pirata One is a gothic textura font, simplified and optimized to work well on screen and pixel displays. Its condensed structure and spacing give it an excellent performance and rhythm on texts so it can be used as a header font or in shorts paragraphs. Designed by Rodrigo Fuenzalida and Nicolas Massi. To contribute to the project contact Rodrigo Fuenzalida.",
+  "last_modified": 1456214400000,
+  "size": 56316,
+  "weight_class": 400,
+  "rank": 544
+}

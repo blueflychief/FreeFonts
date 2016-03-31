@@ -1,0 +1,38 @@
+{
+  "categories": [
+    "handrawn",
+    "handwritten",
+    "humanist",
+    "mathematical",
+    "pencil",
+    "rough",
+    "sans serif",
+    "serif",
+    "transitional",
+    "sketch",
+    "textured"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Archistico",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Archistico",
+  "font_family_name": "Archistico",
+  "full_font_name": "Archistico Normal",
+  "font_subfamily_name": "Normal",
+  "postscript_name": "Archistico-Normal",
+  "trademark": "Archistico Normal is a trademark of Archistico.",
+  "manufacturer": "Archistico",
+  "designer": "Emilie Rollandin",
+  "designer_url": "http://www.archistico.com",
+  "vendor_url": "http://www.archistico.com",
+  "license_desciption": "Attribution 3.0 Unported (CC BY 3.0)",
+  "license_url": "http://creativecommons.org/licenses/by/3.0/",
+  "version_string": "Version 1.1",
+  "last_modified": 1369033200000,
+  "size": 456044,
+  "weight_class": 400,
+  "rank": 105
+}

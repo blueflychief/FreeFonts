@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "paragraph",
+    "square"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Red Hat",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Liberation Serif",
+  "font_family_name": "Liberation Serif",
+  "full_font_name": "Liberation Serif",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "LiberationSerif",
+  "trademark": "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions.",
+  "manufacturer": "Ascender Corporation",
+  "designer": "Steve Matteson",
+  "designer_url": "http://www.ascendercorp.com/typedesigners.html",
+  "vendor_url": "http://www.ascendercorp.com/",
+  "license_desciption": "Licensed under the SIL Open Font License, Version 1.1",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.00.1",
+  "last_modified": 1230883200000,
+  "size": 388352,
+  "weight_class": 400,
+  "rank": 435
+}

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    "headings",
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Backpacker",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "BPreplay",
+  "font_family_name": "BPreplay",
+  "full_font_name": "BPreplay",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "BPreplay",
+  "manufacturer": "Magenta/George Triantafyllakos",
+  "designer": "Magenta/George Triantafyllakos",
+  "designer_url": "http://www.backpacker.gr",
+  "vendor_url": "http://www.magenta.gr/",
+  "license_desciption": "Released under the SIL Open Font License (OFL)",
+  "license_url": "http://scripts.sil.org/cms/scripts/page.php?site_id\u003dnrsi\u0026item_id\u003dOFL",
+  "version_string": "Version 1.00",
+  "last_modified": 1253689200000,
+  "size": 30672,
+  "weight_class": 400,
+  "rank": 214
+}

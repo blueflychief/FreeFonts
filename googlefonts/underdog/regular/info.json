@@ -1,0 +1,34 @@
+{
+  "subsets": [
+    "latin",
+    "cyrillic",
+    "latin-ext"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Multiple Designers",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Underdog",
+  "font_family_name": "Underdog",
+  "full_font_name": "Underdog",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Underdog-Regular",
+  "trademark": "Underdog is a trademark of Sergey Steblina \u0026 Jovanny Lemonad.",
+  "manufacturer": "Sergey Steblina, Jovanny Lemonad",
+  "designer": "Sergey Steblina",
+  "designer_url": "http://www.steblina.com",
+  "vendor_url": "http://www.jovanny.ru",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.9)",
+  "description": "Underdog is an informal typeface with broken corner lines. It can serve many different purposes, in posters, magazine headlines or on food packaging. It changes its mood as the context of use changes: it can be playful in a childish design, feel punk in musical posters, unceremonious in fashion magazines or aggressive in a warning poster. The inspiration for this typeface comes from hand-made signs seen on the street, and also the lettering found in musical culture. All shapes, lines and corners look like they are improvised, yet each of them has common rules to make the whole typeface work together, in both short words and longer sentences. The typeface was designed by Sergey Steblina, and the font was technically engineered and published by Jovanny Lemonad.",
+  "last_modified": 1456214400000,
+  "size": 101480,
+  "weight_class": 400,
+  "rank": 648
+}

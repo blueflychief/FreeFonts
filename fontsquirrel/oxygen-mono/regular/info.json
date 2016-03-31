@@ -1,0 +1,27 @@
+{
+  "categories": [
+    "display",
+    "monospaced",
+    "typewriter"
+  ],
+  "classifications": [
+    "monospaced"
+  ],
+  "creator": "Vernon Adams",
+  "varient": "regular",
+  "source": "fontsquirrel",
+  "family": "Oxygen Mono",
+  "font_family_name": "Oxygen Mono",
+  "full_font_name": "Oxygen Mono",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "OxygenMono-Regular",
+  "trademark": "Oxygen Mono is a trademark of vernon adams.",
+  "manufacturer": "vernon adams",
+  "designer": "vernon adams",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "last_modified": 1333090800000,
+  "size": 25860,
+  "weight_class": 400,
+  "rank": 698
+}

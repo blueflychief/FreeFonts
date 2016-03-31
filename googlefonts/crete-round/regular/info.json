@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "TypeTogether",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Crete Round",
+  "font_family_name": "Crete Round",
+  "full_font_name": "Crete Round",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "CreteRound-Regular",
+  "trademark": "Crete Round is a trademark of TypeTogether.",
+  "manufacturer": "TypeTogether",
+  "designer": "Veronika Burian",
+  "designer_url": "www.type-together.com",
+  "vendor_url": "www.type-together.com/Crete",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "Crete Round is a warm slab serif providing a hint of softness to texts. It started as a tailored version of the original Crete fonts, created specially to serve as corporate typeface for the type design competition Letter2. Crete Round is more independent from the original with modified terminals and serifs to create two new fonts that deliver a more contemporary and functional appearance. The tall x-height, low contrast and sturdy slabs prove to be surprisingly efficient for web use.",
+  "last_modified": 1456214400000,
+  "size": 59312,
+  "weight_class": 400,
+  "rank": 82
+}

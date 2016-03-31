@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "serif"
+  ],
+  "classifications": [
+    "serif"
+  ],
+  "creator": "Karolina Lach",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Arbutus Slab",
+  "font_family_name": "Arbutus Slab",
+  "full_font_name": "Arbutus Slab",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "ArbutusSlab-Regular",
+  "trademark": "Arbutus Slab is a trademark of Sorkin Type Co..",
+  "manufacturer": "Karolina Lach",
+  "designer": "Karolina Lach",
+  "designer_url": "www.thekarolina.com",
+  "vendor_url": "www.sorkintype.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001; ttfautohint (v0.92) -l 10 -r 16 -G 200 -x 7 -w \"GD\"",
+  "description": "Arbutus Slab is a sturdy medium contrast slab serif font. Arbutus is inspired by 18th and 19th American jobbing type. The generous spacing found in this design means that it can be used at fairly small sizes which makes it surprisingly versatile.",
+  "last_modified": 1456214400000,
+  "size": 70004,
+  "weight_class": 400,
+  "rank": 287
+}

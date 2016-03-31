@@ -1,0 +1,30 @@
+{
+  "subsets": [
+    "cyrillic-ext",
+    "latin",
+    "cyrillic",
+    "greek",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Daniel Johnson",
+  "varient": "500",
+  "source": "googlefonts",
+  "family": "Jura",
+  "font_family_name": "Jura",
+  "full_font_name": "Jura Medium",
+  "font_subfamily_name": "Medium",
+  "postscript_name": "Jura-Medium",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 2.5.1 ",
+  "description": "Jura is a family of sans-serif fonts in the Eurostile vein. It was originally inspired by some work I was doing for the FreeFont project in designing a Kayah Li range for FreeMono. I wanted to create a Roman alphabet using the same kinds of strokes and curves as the Kayah Li glyphs, and thus Jura was born. It has been expanded to include glyphs for the Cyrillic and Greek alphabets as well. The original Kayah Li glyphs have been included in this font. (Note that glyphs for writing mainstream Burmese are not and never have been a part of this font.) Jura is available in four weights: Light, Book, Medium, and DemiBold. The Jura family has an unfortunate name clash with Ed Merritt’s Jura serif font.",
+  "last_modified": 1456214400000,
+  "size": 345824,
+  "weight_class": 500,
+  "rank": 131
+}

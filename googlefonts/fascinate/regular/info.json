@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fascinate",
+  "font_family_name": "Fascinate",
+  "full_font_name": "Fascinate",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Fascinate-Regular",
+  "trademark": "Fascinate is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Fascinate and Fascinate Inline are nods to Art Deco yesteryear and typefaces like Broadway, yet they have an exaggerated x-height and softness that give them a friendly yet sophisticated vibe. Even with their high contrast weighting, the Fascinate family is cleanly legible at small sizes, although the Inline version is better visible at larger display sizes.",
+  "last_modified": 1456214400000,
+  "size": 51900,
+  "weight_class": 900,
+  "rank": 641
+}

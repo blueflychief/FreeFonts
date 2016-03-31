@@ -1,0 +1,26 @@
+{
+  "categories": [
+    "casual",
+    "handwritten",
+    "paragraph"
+  ],
+  "classifications": [
+    "handdrawn"
+  ],
+  "creator": "LeFly Fonts",
+  "varient": "700",
+  "source": "fontsquirrel",
+  "family": "Blokletters",
+  "font_family_name": "Blokletters Viltstift",
+  "full_font_name": "Blokletters Viltstift",
+  "font_subfamily_name": "Viltstift",
+  "postscript_name": "Blokletters-Viltstift",
+  "trademark": "Blokletters Viltstift is a trademark of LeFly.",
+  "manufacturer": "LeFly",
+  "license_desciption": "Freeware.",
+  "version_string": "Version 1.3 ",
+  "last_modified": 1254898800000,
+  "size": 87616,
+  "weight_class": 700,
+  "rank": 164
+}

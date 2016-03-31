@@ -1,0 +1,33 @@
+{
+  "subsets": [
+    "latin",
+    "latin-ext"
+  ],
+  "categories": [
+    "sans-serif"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Fontstage",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Fresca",
+  "font_family_name": "Fresca",
+  "full_font_name": "Fresca-Regular",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "Fresca-Regular",
+  "trademark": "Fresca is a trademark of Fontstage.",
+  "manufacturer": "Fontstage",
+  "designer": "Iván Moreno",
+  "designer_url": "www.fontstage.com",
+  "vendor_url": "www.fontstage.com",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.001",
+  "description": "A very friendly font for display use with a fresh atmosphere, Fresca gives the text an alternative to comic settings.",
+  "last_modified": 1456214400000,
+  "size": 32644,
+  "weight_class": 400,
+  "rank": 612
+}

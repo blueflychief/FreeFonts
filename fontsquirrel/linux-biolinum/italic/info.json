@@ -1,0 +1,28 @@
+{
+  "categories": [
+    "oblique",
+    "paragraph"
+  ],
+  "classifications": [
+    "sans-serif"
+  ],
+  "creator": "Philipp Poll",
+  "varient": "italic",
+  "source": "fontsquirrel",
+  "family": "Linux Biolinum",
+  "font_family_name": "Linux Biolinum O",
+  "full_font_name": "Linux Biolinum O Italic",
+  "font_subfamily_name": "Italic",
+  "postscript_name": "LinBiolinumOI",
+  "manufacturer": "Philipp H. Poll",
+  "designer": "Philipp H. Poll",
+  "designer_url": "http://www.linuxlibertine.org",
+  "vendor_url": "http://www.linuxlibertine.org",
+  "license_desciption": "GPL- General Public License AND OFL-Open Font License",
+  "license_url": "http://www.fsf.org/licenses/gpl.html AND http://scripts.sil.org/OFL",
+  "version_string": "Version 1.1.3 ",
+  "last_modified": 1363590000000,
+  "size": 662776,
+  "weight_class": 400,
+  "rank": 590
+}

@@ -1,0 +1,32 @@
+{
+  "subsets": [
+    "latin"
+  ],
+  "categories": [
+    "display"
+  ],
+  "classifications": [
+    "display"
+  ],
+  "creator": "Astigmatic",
+  "varient": "regular",
+  "source": "googlefonts",
+  "family": "Uncial Antiqua",
+  "font_family_name": "Uncial Antiqua",
+  "full_font_name": "Uncial Antiqua",
+  "font_subfamily_name": "Regular",
+  "postscript_name": "UncialAntiqua-Regular",
+  "trademark": "Uncial Antiqua is a trademark of Astigmatic (AOETI).",
+  "manufacturer": "Astigmatic (AOETI)",
+  "designer": "Astigmatic (AOETI)",
+  "designer_url": "http://www.astigmatic.com/",
+  "vendor_url": "http://www.astigmatic.com/",
+  "license_desciption": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "license_url": "http://scripts.sil.org/OFL",
+  "version_string": "Version 1.000",
+  "description": "Uncial Antiqua is a hybrid typeface which combines the speedier penned styles of Uncial and Half Uncial letterforms together in a formal text representation. Signature letterforms to the Uncial \u0026 Half Uncial styles are not sacrificed in this compilation, yet readability is surprisingly maintained when read in context.",
+  "last_modified": 1456214400000,
+  "size": 63404,
+  "weight_class": 400,
+  "rank": 700
+}
