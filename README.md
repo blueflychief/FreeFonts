@@ -8,6 +8,17 @@ This project contains binary font files served by the following sites:
 
 Subdirectories are named according to the family name of the fonts within. Each font directory contains the font binary, font preview images, and font subset only containing the glyphs of the font's name, and a file containing information about the font.
 
+Previews
+--------
+
+The repo contains thousands of fonts. Here are previews for some of the more popular fonts:
+
+# <a href="googlefonts/open-sans/regular"><img src="googlefonts/open-sans/regular/preview-black.png"></a>
+# <a href="googlefonts/roboto/regular"><img src="googlefonts/roboto/regular/preview-black.png"></a>
+# <a href="googlefonts/lato/regular"><img src="googlefonts/lato/regular/preview-black.png"></a>
+# <a href="googlefonts/slabo-27px/regular"><img src="googlefonts/slabo-27px/regular/preview-black.png"></a>
+# <a href="googlefonts/oswald/regular"><img src="googlefonts/oswald/regular/preview-black.png"></a>
+
 Licensing
 ---------
 
